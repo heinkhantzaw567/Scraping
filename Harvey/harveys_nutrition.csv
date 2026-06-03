@@ -1,0 +1,125 @@
+Category,Item Name,Serving Size,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fibre (g),Sugars (g),Protein (g),Calcium (mg),Potassium (mg),Iron (mg),Allergens,Contains Barley,Contains Egg,Contains Milk,Contains Mustard,Contains Oats,Contains Soy,Contains Sulphites,Contains Tree Nuts,Contains Wheat
+Burgers,Angus Burger,157 g,410,23 g,6 g,1 g,50 mg,700 mg,32 g,1 g,3 g,18 g,75 mg,250 mg,3.5 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Burgers,Angus Burger with Cheese,174 g,470,27 g,8 g,1 g,60 mg,990 mg,34 g,1 g,4 g,21 g,175 mg,300 mg,3.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Angus Burger with Cheese and Bacon,187 g,520,31 g,10 g,1 g,75 mg,1170 mg,35 g,1 g,4 g,25 g,175 mg,350 mg,4 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Original Burger,145 g,380,20 g,6 g,1 g,50 mg,840 mg,33 g,1 g,3 g,17 g,75 mg,250 mg,3.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Original Burger with Cheese,162 g,440,24 g,8 g,1 g,60 mg,1130 mg,35 g,1 g,4 g,20 g,175 mg,300 mg,3.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Original Burger with Cheese and Bacon,175 g,490,28 g,10 g,1 g,70 mg,1310 mg,35 g,1 g,4 g,25 g,175 mg,350 mg,3.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Junior Burger,93 g,250,11 g,3 g,0.4 g,20 mg,450 mg,27 g,1 g,2 g,10 g,50 mg,125 mg,2.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Junior Burger with Cheese,110 g,300,15 g,6 g,0.5 g,30 mg,740 mg,29 g,1 g,3 g,13 g,150 mg,175 mg,2.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Junior Burger with Cheese and Bacon,119 g,340,17 g,6 g,0.5 g,45 mg,830 mg,29 g,1 g,3 g,16 g,175 mg,200 mg,2.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Big Harv (Angus),281 g,750,50 g,16 g,2 g,125 mg,1620 mg,39 g,2 g,5 g,36 g,300 mg,500 mg,5.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Big Harv (Original),257 g,690,44 g,16 g,2 g,120 mg,1890 mg,39 g,1 g,4 g,35 g,300 mg,550 mg,5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Burgers,Veggie Burger,142 g,330,14 g,4.5 g,0.1 g,0 mg,680 mg,32 g,4 g,3 g,20 g,200 mg,300 mg,3.5 mg,"Contains Barley, Oats, Soy, Sulphites, Wheat.",Yes,No,No,No,Yes,Yes,Yes,No,Yes
+Burgers,Veggie Burger with Cheese,159 g,390,18 g,7 g,0.2 g,15 mg,940 mg,34 g,4 g,4 g,23 g,300 mg,350 mg,3.5 mg,"Contains Barley, Milk, Oats, Soy, Sulphites, Wheat.",Yes,No,Yes,No,Yes,Yes,Yes,No,Yes
+Chicken / Hot Dog / Salads,Buffalo Chicken Sandwich,279 g,660,33 g,3.5 g,0.1 g,45 mg,2170 mg,66 g,2 g,20 g,25 g,75 mg,550 mg,3.5 mg,"Contains Mustard, Milk, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Buffalo Chicken Wrap,318 g,800,40 g,6 g,0.2 g,45 mg,2510 mg,85 g,3 g,19 g,27 g,125 mg,550 mg,5 mg,"Contains Mustard, Milk, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,2-Piece Chicken Strips,87 g,200,11 g,1 g,0.1 g,30 mg,430 mg,15 g,1 g,0 g,12 g,20 mg,200 mg,1.5 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,4-Piece Chicken Strips,175 g,400,22 g,2 g,0.2 g,60 mg,850 mg,29 g,2 g,0 g,23 g,40 mg,400 mg,3 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,Crispy Chicken Sandwich,212 g,560,29 g,2.5 g,0.1 g,45 mg,1070 mg,51 g,2 g,6 g,25 g,75 mg,450 mg,3.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Crispy Chicken Sandwich with Cheese,229 g,620,33 g,5 g,0.2 g,60 mg,1330 mg,53 g,2 g,7 g,28 g,175 mg,500 mg,4 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Crispy Chicken Sandwich with Cheese and Bacon,241 g,670,37 g,7 g,0.2 g,70 mg,1500 mg,53 g,2 g,7 g,31 g,175 mg,550 mg,4 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Crispy Chicken Wrap,251 g,700,36 g,6 g,0.2 g,45 mg,1410 mg,70 g,3 g,5 g,27 g,125 mg,450 mg,5 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,Grilled Chicken Salad,528 g,180,3 g,0.5 g,0 g,70 mg,460 mg,16 g,5 g,9 g,26 g,75 mg,1000 mg,2 mg,,No,No,No,No,No,No,No,No,No
+Chicken / Hot Dog / Salads,Grilled Chicken Sandwich,169 g,270,5 g,1 g,0 g,70 mg,670 mg,29 g,2 g,3 g,28 g,40 mg,350 mg,1.75 mg,"Contains Barley, Oats, Sulphites, Wheat.",Yes,No,No,No,Yes,No,Yes,No,Yes
+Chicken / Hot Dog / Salads,Grilled Chicken Wrap,208 g,420,13 g,4 g,0.1 g,70 mg,1050 mg,49 g,2 g,2 g,30 g,100 mg,350 mg,4 mg,Contains Wheat.,No,No,No,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,Hot Dog,147 g,340,14 g,5 g,0.2 g,60 mg,1020 mg,37 g,2 g,2 g,17 g,100 mg,175 mg,3.5 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Hot Dog with Cheese,164 g,400,18 g,7 g,0.3 g,70 mg,1310 mg,39 g,2 g,3 g,20 g,200 mg,225 mg,3.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Hot Dog with Cheese and Bacon,176 g,450,22 g,9 g,0.3 g,85 mg,1490 mg,39 g,2 g,3 g,24 g,200 mg,300 mg,3.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Junior Crispy Chicken,118 g,290,12 g,1.5 g,0 g,25 mg,500 mg,33 g,1 g,4 g,13 g,50 mg,150 mg,2.25 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Junior Buffalo Chicken,134 g,310,13 g,1.5 g,0 g,25 mg,760 mg,36 g,1 g,7 g,13 g,50 mg,175 mg,2.25 mg,"Contains Mustard, Soy, Wheat.",No,No,No,Yes,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,Entrée Salad,424 g,70,0.5 g,0.1 g,0 g,0 mg,55 mg,15 g,5 g,9 g,4 g,75 mg,700 mg,1.5 mg,,No,No,No,No,No,No,No,No,No
+Chicken / Hot Dog / Salads,Entrée Salad with Crispy Chicken,571 g,460,26 g,2 g,0.1 g,45 mg,820 mg,36 g,7 g,12 g,23 g,100 mg,1100 mg,3.5 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,Entrée Salad with Buffalo Chicken,638 g,560,30 g,3 g,0.1 g,45 mg,1930 mg,52 g,7 g,25 g,23 g,100 mg,1200 mg,3.5 mg,"Contains Milk, Mustard, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,"Chicken Nuggets, 5 piece",121 g,330,23 g,2 g,0 g,40 mg,480 mg,16 g,1 g,1 g,15 g,10 mg,400 mg,1 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,"Chicken Nuggets, 8 piece",194 g,530,37 g,3 g,0.2 g,65 mg,760 mg,25 g,1 g,1 g,24 g,10 mg,650 mg,1.75 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,"Chicken Nuggets, 12 piece",291 g,790,55 g,5 g,0 g,100 mg,1140 mg,38 g,2 g,2 g,36 g,20 mg,1000 mg,2.5 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Chicken / Hot Dog / Salads,"Buffalo Chicken Nuggets, 5 piece",155 g,380,25 g,2.5 g,0 g,40 mg,1030 mg,24 g,1 g,8 g,15 g,10 mg,450 mg,1 mg,"Contains Milk, Mustard, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,"Buffalo Chicken Nuggets, 8 piece",261 g,620,40 g,4 g,0 g,65 mg,1860 mg,41 g,1 g,15 g,24 g,10 mg,750 mg,1.75 mg,"Contains Milk, Mustard, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Chicken / Hot Dog / Salads,"Buffalo Chicken Nuggets, 12 piece",391 g,940,61 g,6 g,0 g,100 mg,2800 mg,62 g,2 g,23 g,37 g,20 mg,1150 mg,2.5 mg,"Contains Milk, Mustard, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Poutines,Classic Poutine (Regular),308 g,700,36 g,12 g,1 g,65 mg,1890 mg,73 g,7 g,1 g,22 g,650 mg,950 mg,1.25 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Poutines,Classic Poutine (Large),480 g,1180,56 g,14 g,1 g,65 mg,2890 mg,145 g,14 g,1 g,28 g,700 mg,1950 mg,2.25 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Poutines,Bacon Double Cheese Poutine (Large),622 g,1400,71 g,21 g,1.5 g,115 mg,4010 mg,152 g,14 g,2 g,45 g,900 mg,2150 mg,3 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Poutines,Bacon Double Cheese Poutine (Regular),349 g,850,47 g,18 g,1.5 g,100 mg,2280 mg,74 g,7 g,1 g,33 g,850 mg,1050 mg,1.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Poutines,Buffalo Chicken Poutine (Regular),385 g,850,44 g,13 g,1 g,80 mg,2650 mg,88 g,7 g,8 g,28 g,650 mg,1100 mg,2 mg,"Contains Milk, Mustard, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Poutines,Buffalo Chicken Poutine (Large),723 g,1500,71 g,16 g,1.5 g,95 mg,4970 mg,181 g,15 g,15 g,41 g,750 mg,2300 mg,4 mg,"Contains Milk, Mustard, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Poutines,Chicken Bacon Ranch Poutine (Regular),380 g,910,52 g,15 g,1 g,100 mg,2330 mg,81 g,7 g,2 g,32 g,650 mg,1150 mg,2 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Poutines,Chicken Bacon Ranch Poutine (Large),746 g,1710,92 g,19 g,1.5 g,145 mg,4490 mg,173 g,15 g,3 g,54 g,750 mg,2400 mg,5 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Poutines,Pickle Pickle Poutine (Regular),479 g,1000,75 g,15 g,1.5 g,75 mg,2590 mg,64 g,4 g,4 g,21 g,500 mg,700 mg,2.25 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Poutines,Pickle Pickle Poutine (Large),841 g,1750,134 g,19 g,2 g,85 mg,4220 mg,115 g,7 g,7 g,25 g,550 mg,1350 mg,3.5 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Sides,Fries (Kids),114 g,320,13 g,1 g,0.1 g,0 mg,670 mg,48 g,5 g,0 g,4 g,30 mg,650 mg,0.75 mg,,No,No,No,No,No,No,No,No,No
+Sides,Fries (Regular),154 g,430,18 g,1.5 g,0.1 g,0 mg,900 mg,65 g,6 g,0 g,6 g,40 mg,900 mg,1 mg,,No,No,No,No,No,No,No,No,No
+Sides,Fries (Large),198 g,550,23 g,1.5 g,0.2 g,0 mg,1160 mg,84 g,8 g,0 g,7 g,50 mg,1150 mg,1.25 mg,,No,No,No,No,No,No,No,No,No
+Sides,Onion Rings (Regular),85 g,300,18 g,1.5 g,0.1 g,0 mg,700 mg,33 g,2 g,4 g,4 g,40 mg,125 mg,1.5 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Sides,Onion Rings (Large),170 g,600,36 g,3 g,0.3 g,0 mg,1400 mg,65 g,4 g,7 g,7 g,75 mg,250 mg,3 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Sides,Frings®,199 g,620,31 g,2.5 g,0.2 g,0 mg,1360 mg,81 g,7 g,4 g,8 g,75 mg,750 mg,2.25 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Sides,Deep Fried Pickles,158 g,250,14 g,1 g,0.1 g,0 mg,1170 mg,29 g,1 g,2 g,3 g,40 mg,100 mg,2.5 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Sides,Garden Side Salad,212 g,35,0.3 g,0 g,0 g,0 mg,25 mg,7 g,3 g,4 g,2 g,40 mg,350 mg,0.75 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Bacon,13 g,50,3.5 g,1 g,0 g,15 mg,180 mg,0 g,0 g,0 g,4 g,0 mg,50 mg,0.1 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Processed Cheese Slice,17 g,60,4 g,2.5 g,0.1 g,10 mg,290 mg,2 g,0 g,1 g,3 g,100 mg,40 mg,0.1 mg,"Contains Milk, Soy.",No,No,Yes,No,No,Yes,No,No,No
+Garnishes / Sauces / Add Ons,Processed Swiss Cheese (When Offered),15 g,45,3 g,2 g,0.1 g,10 mg,230 mg,1 g,0 g,0 g,3 g,75 mg,40 mg,0 mg,"Contains Milk, Soy.",No,No,Yes,No,No,Yes,No,No,No
+Garnishes / Sauces / Add Ons,Angus Beef Patty,92 g,240,20 g,5 g,1 g,50 mg,400 mg,3 g,0 g,0 g,12 g,30 mg,200 mg,1.5 mg,Contains  Wheat.,No,No,No,No,No,No,No,No,Yes
+Garnishes / Sauces / Add Ons,Buffalo Chicken Patty,214 g,490,30 g,3 g,0.1 g,45 mg,1870 mg,37 g,1 g,17 g,19 g,30 mg,500 mg,1.75 mg,"Contains Mustard, Milk, Soy, Wheat.",No,No,Yes,Yes,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Crispy Chicken Patty,147 g,390,26 g,2 g,0.1 g,45 mg,770 mg,22 g,1 g,3 g,19 g,30 mg,400 mg,1.75 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Garnishes / Sauces / Add Ons,Grilled Chicken,104 g,110,2.5 g,0.5 g,0 g,70 mg,410 mg,1 g,0 g,0 g,22 g,0 mg,300 mg,0.3 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Hot Dog (weiner only),76 g,150,11 g,4 g,0.2 g,60 mg,730 mg,4 g,1 g,0 g,11 g,50 mg,125 mg,1.25 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Junior Patty,40 g,110,9 g,2.5 g,0.4 g,20 mg,270 mg,2 g,0 g,0 g,5 g,10 mg,100 mg,0.75 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Original Patty,80 g,210,17 g,5 g,1 g,50 mg,540 mg,4 g,0 g,0 g,11 g,30 mg,200 mg,1.5 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Veggie Patty,77 g,170,11 g,4.5 g,0.1 g,0 mg,420 mg,4 g,2 g,0 g,14 g,175 mg,250 mg,2.25 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Relish,5 g,5,0 g,0 g,0 g,0 mg,55 mg,1 g,0 g,1 g,0.1 g,10 mg,0 mg,0 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Ketchup,6 g,10,0 g,0 g,0 g,0 mg,55 mg,2 g,0 g,2 g,0.1 g,0 mg,20 mg,0 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Mustard,5 g,3,0.2 g,0 g,0 g,0 mg,65 mg,0 g,0 g,0 g,0.2 g,0 mg,10 mg,0.1 mg,Contains Mustard.,No,No,No,Yes,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Garlic Mayo,5 g,15,1.5 g,0.3 g,0 g,0 mg,45 mg,0 g,0 g,0 g,0 g,0 mg,0 mg,0 mg,"Contains Egg, Mustard.",No,Yes,No,Yes,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Chipotle Sauce,5 g,25,2.5 g,0.4 g,0.1 g,0 mg,35 mg,0 g,0 g,0 g,0.1 g,0 mg,0 mg,0 mg,"Contains Egg, Mustard.",No,Yes,No,Yes,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Harv Sauce,5 g,20,1.5 g,0.3 g,0 g,5 mg,60 mg,1 g,0 g,1 g,0 g,0 mg,0 mg,0 mg,"Contains Egg, Mustard, Sulphites.",No,Yes,No,Yes,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Light Mayo,5 g,15,1.5 g,0.2 g,0 g,0 mg,45 mg,0 g,0 g,0 g,0 g,0 mg,0 mg,0 mg,"Contains Egg, Mustard.",No,Yes,No,Yes,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Ranch,5 g,20,2 g,0.2 g,0 g,0 mg,15 mg,0 g,0 g,0 g,0 g,0 mg,0 mg,0 mg,"Contains Egg, Milk, Soy.",No,Yes,Yes,No,No,Yes,No,No,No
+Garnishes / Sauces / Add Ons,Buffalo Sauce,6 g,10,0.3 g,0.1 g,0 g,0 mg,95 mg,1 g,0 g,1 g,0 g,0 mg,10 mg,0 mg,"Contains Mustard, Soy, Sulphites.",No,No,No,Yes,No,Yes,Yes,No,No
+Garnishes / Sauces / Add Ons,BBQ Sauce,6 g,10,0 g,0 g,0 g,0 mg,45 mg,3 g,0 g,2 g,0.1 g,0 mg,20 mg,0.1 mg,Contains Sulphites.,No,No,No,No,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Ghost Pepper Sauce,5 g,25,2.5 g,0.2 g,0 g,5 mg,30 mg,0 g,0 g,0 g,0.1 g,0 mg,0 mg,0 mg,"Contains Egg, Mustard.",No,Yes,No,Yes,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Hot Sauce,5 g,5,0.4 g,0.1 g,0 g,0 mg,85 mg,1 g,0 g,1 g,0.1 g,0 mg,10 mg,0 mg,"Contains Mustard, Soy.",No,No,No,Yes,No,Yes,No,No,No
+Garnishes / Sauces / Add Ons,Cucumbers,15 g,2,0 g,0 g,0 g,0 mg,0 mg,0 g,0 g,0 g,0.2 g,0 mg,20 mg,0.1 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Lettuce,15 g,2,0 g,0 g,0 g,0 mg,2 mg,0 g,0 g,0 g,0.1 g,0 mg,20 mg,0.1 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Onions,15 g,5,0 g,0 g,0 g,0 mg,1 mg,1 g,0 g,1 g,0.2 g,0 mg,20 mg,0 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Tomatoes,15 g,3,0 g,0 g,0 g,0 mg,1 mg,1 g,0 g,0 g,0.1 g,0 mg,40 mg,0 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Pickles,20 g,2,0 g,0 g,0 g,0 mg,180 mg,0 g,0 g,0 g,0.2 g,10 mg,30 mg,0.1 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Hot Peppers,15 g,3,0 g,0 g,0 g,0 mg,210 mg,1 g,0 g,0 g,0.1 g,20 mg,10 mg,0 mg,Contains Sulphites.,No,No,No,No,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Jalapeños,15 g,2,0 g,0 g,0 g,0 mg,230 mg,1 g,1 g,0 g,0 g,0 mg,30 mg,0.3 mg,Contains Sulphites.,No,No,No,No,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Black Olives,15 g,30,2.5 g,0.5 g,0 g,0 mg,130 mg,1 g,1 g,0 g,0 g,20 mg,0 mg,1.25 mg,,No,No,No,No,No,No,No,No,No
+Garnishes / Sauces / Add Ons,Gravy,113 g,40,0.3 g,0 g,0 g,0 mg,700 mg,7 g,0 g,1 g,1 g,10 mg,50 mg,0.4 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Sweet and Sour Dipping Sauce,28 g,50,0 g,0 g,0 g,0 mg,85 mg,13 g,0 g,10 g,0 g,0 mg,10 mg,0 mg,Contains Sulphites.,No,No,No,No,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Honey Mustard Dipping Sauce,25 g,90,6 g,0.5 g,0 g,10 mg,180 mg,9 g,0 g,8 g,0.3 g,0 mg,10 mg,0.1 mg,"Contains Egg, Mustard, Sulphites.",No,Yes,No,Yes,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,BBQ Dipping Sauce,28 g,40,0.1 g,0 g,0 g,0 mg,210 mg,10 g,0 g,6 g,0.3 g,10 mg,75 mg,0.1 mg,"Contains Mustard, Sulphites.",No,No,No,Yes,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Garlic Dill Dipping Sauce,28 g,90,8 g,0.5 g,0.1 g,10 mg,200 mg,2 g,0 g,2 g,0.4 g,10 mg,20 mg,0.2 mg,"Contains Egg, Milk, Mustard, Sulphites.",No,Yes,Yes,Yes,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Ranch Dipping Sauce,25 g,100,11 g,1 g,0.1 g,5 mg,85 mg,1 g,0 g,1 g,0.2 g,0 mg,10 mg,0.1 mg,"Contains Egg, Milk, Soy, Sulphites.",No,Yes,Yes,No,No,Yes,Yes,No,No
+Garnishes / Sauces / Add Ons,Ghost Pepper Dipping Sauce,25 g,120,13 g,1 g,0.1 g,15 mg,160 mg,1 g,0 g,0 g,0.4 g,0 mg,30 mg,0.1 mg,"Contains Egg, Mustard, Soy.",No,Yes,No,Yes,No,Yes,No,No,No
+Garnishes / Sauces / Add Ons,Sweet Heat Dipping Sauce,28 g,45,0.1 g,0 g,0 g,0 mg,350 mg,11 g,0 g,10 g,0.1 g,0 mg,20 mg,0.1 mg,Contains Sulphites.,No,No,No,No,No,No,Yes,No,No
+Garnishes / Sauces / Add Ons,Burger Bun,65 g,170,3.5 g,0.5 g,0 g,0 mg,300 mg,29 g,1 g,3 g,6 g,50 mg,50 mg,2 mg,"Contains  Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Junior Bun,53 g,140,2 g,0.4 g,0 g,0 mg,180 mg,25 g,1 g,2 g,5 g,50 mg,40 mg,1.75 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Tortilla Wrap,104 g,310,10 g,3.5 g,0.1 g,0 mg,640 mg,48 g,2 g,2 g,8 g,100 mg,30 mg,3.5 mg,Contains Wheat.,No,No,No,No,No,No,No,No,Yes
+Garnishes / Sauces / Add Ons,Hot Dog Bun,69 g,190,4 g,1 g,0 g,0 mg,270 mg,32 g,1 g,3 g,5 g,50 mg,30 mg,2.5 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Garnishes / Sauces / Add Ons,Multigrain Burger Bun,65 g,160,2.5 g,0.4 g,0 g,0 mg,260 mg,28 g,2 g,3 g,6 g,40 mg,50 mg,1.5 mg,"Contains Barley, Oats, Sulphites, Wheat.",Yes,No,No,No,Yes,No,Yes,No,Yes
+Garnishes / Sauces / Add Ons,Onion Ring,29 g,100,6 g,0.5 g,0 g,0 mg,240 mg,11 g,1 g,1 g,1 g,10 mg,40 mg,0.5 mg,"Contains  Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes
+Desserts,Apple Pie,78 g,220,12 g,4 g,0.1 g,0 mg,250 mg,27 g,1 g,9 g,2 g,10 mg,40 mg,0.75 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Desserts,Mini Donuts (4-Piece),91 g,360,17 g,6 g,0.3 g,15 mg,450 mg,46 g,2 g,25 g,4 g,20 mg,0 mg,8.5 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Desserts,Mini Donuts (8-Piece),186 g,720,34 g,4.5 g,0 g,0 mg,890 mg,98 g,5 g,53 g,7 g,100 mg,40 mg,2.5 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Desserts,Blueberry Pie,87 g,240,13 g,4.5 g,0 g,0 mg,280 mg,31 g,1 g,10 g,2 g,10 mg,10 mg,1.25 mg,"Contains Milk, Wheat.",No,No,Yes,No,No,No,No,No,Yes
+Breakfast (Select Locations Only),"English Muffin with Bacon, Egg & Cheese",152 g,370,20 g,7 g,0.1 g,210 mg,760 mg,27 g,1 g,2 g,18 g,225 mg,225 mg,3 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),"English Muffin with Sausage, Egg & Cheese",180 g,470,30 g,10 g,0.1 g,225 mg,870 mg,27 g,1 g,2 g,20 g,225 mg,250 mg,3 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),"English Muffin with Chicken, Egg & Cheese",207 g,500,31 g,7 g,0.2 g,220 mg,900 mg,34 g,1 g,4 g,22 g,225 mg,250 mg,3 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),English Muffin with Egg & Cheese,139 g,320,17 g,5 g,0.1 g,195 mg,580 mg,26 g,1 g,2 g,14 g,225 mg,150 mg,2.5 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),English Muffin with Bacon & Cheese,95 g,240,9 g,4 g,0.1 g,25 mg,660 mg,26 g,1 g,2 g,12 g,200 mg,150 mg,2 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),English Muffin with Sausage & Cheese,123 g,340,18 g,7 g,0.1 g,40 mg,770 mg,27 g,1 g,2 g,14 g,200 mg,175 mg,2.25 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),English Muffin with Chicken & Cheese,150 g,370,19 g,4 g,0.1 g,35 mg,800 mg,34 g,1 g,4 g,16 g,200 mg,200 mg,2.25 mg,"Contains Milk, Soy, Wheat.",No,No,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),"Breakfast Wrap with Egg, Cheese & Tater Tots",201 g,540,32 g,9 g,0.3 g,195 mg,1080 mg,45 g,2 g,3 g,16 g,200 mg,300 mg,3.5 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),"Breakfast Wrap with Bacon, Egg, Cheese & Tater Tots",214 g,590,36 g,10 g,0.3 g,210 mg,1260 mg,45 g,2 g,3 g,20 g,200 mg,350 mg,3.5 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),"Breakfast Wrap with Sausage Egg, Cheese & Tater Tots",242 g,680,45 g,13 g,0.3 g,225 mg,1370 mg,46 g,2 g,3 g,22 g,200 mg,350 mg,4 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),"Breakfast Wrap with Chicken, Egg, Cheese & Tater Tots",269 g,720,46 g,10 g,0.4 g,220 mg,1400 mg,53 g,2 g,4 g,24 g,225 mg,400 mg,4 mg,"Contains Egg, Milk, Soy, Wheat.",No,Yes,Yes,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),Homestyle Breakfast with Bacon,330 g,740,48 g,9 g,0.3 g,395 mg,1310 mg,49 g,3 g,3 g,28 g,175 mg,650 mg,4 mg,"Contains Egg, Soy, Wheat.",No,Yes,No,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),Homestyle Breakfast with Sausage,345 g,780,54 g,12 g,0.3 g,400 mg,1250 mg,49 g,3 g,2 g,25 g,175 mg,650 mg,4 mg,"Contains Egg, Soy, Wheat.",No,Yes,No,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),Homestyle Breakfast with Chicken,372 g,820,55 g,8 g,0.3 g,395 mg,1270 mg,56 g,3 g,4 g,27 g,175 mg,650 mg,4.5 mg,"Contains Egg, Soy, Wheat.",No,Yes,No,No,No,Yes,No,No,Yes
+Breakfast (Select Locations Only),Tater Tots,132 g,300,23 g,2.5 g,0.3 g,0 mg,590 mg,23 g,2 g,1 g,2 g,10 mg,350 mg,0.3 mg,,No,No,No,No,No,No,No,No,No
+Breakfast (Select Locations Only),Fried Egg,57 g,130,11 g,2.5 g,0 g,185 mg,100 mg,0 g,0 g,0 g,6 g,30 mg,75 mg,1 mg,"Contains Egg, Soy.",No,Yes,No,No,No,Yes,No,No,No
+Breakfast (Select Locations Only),Sausage Patty,41 g,150,13 g,4.5 g,0 g,30 mg,290 mg,1 g,0 g,0 g,6 g,0 mg,100 mg,0.4 mg,,No,No,No,No,No,No,No,No,No
+Breakfast (Select Locations Only),English Muffin,65 g,130,1.5 g,0.3 g,0 g,0 mg,190 mg,24 g,1 g,1 g,5 g,100 mg,50 mg,1.75 mg,Contains Wheat.,No,No,No,No,No,No,No,No,Yes
+Breakfast (Select Locations Only),Toast,45 g,130,1 g,0.3 g,0 g,0 mg,190 mg,25 g,1 g,2 g,4 g,50 mg,50 mg,2 mg,"Contains Soy, Wheat.",No,No,No,No,No,Yes,No,No,Yes

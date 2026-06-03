@@ -1,0 +1,118 @@
+Item,Peanuts,Tree Nuts,Sesame,Milk,Eggs,Fish,Crustaceans,Shellfish,Soy,Wheat,Mustard,Sulphites,Gluten
+--- PIZZA CRUSTS ---,,,,,,,,,,,,
+Yellow Corn Meal,,,,MC,C,,,,MC,,MC,MC,
+Hand Tossed Crust,,,,C,,,,,MC,C,,,C
+Thin Crust,,,,MC,,,,,MC,C,,,C
+Gluten Free Crust,,,,MC,,,,,MC,,,MC,
+Pan Crust,,,,C,,,,,C,C,,,C
+Whole Grain Crust,,,,C,,,,,C,C,,,C
+New York Style Crust,,,,C,,,,,MC,C,,,C
+Parmesan Stuffed Crust,,,,C,,,,,C,C,MC,,C
+--- PIZZA SAUCES ---,,,,,,,,,,,,
+Pizza Sauce,,,,,,,,,MC,C,,,MC
+BBQ Sauce,,,,,,,,,MC,C,MC,,C
+Buttermilk Ranch,MC,MC,C,C,MC,MC,MC,MC,MC,MC,MC,MC,
+Alfredo Sauce,,,,C,,,,,C,C,,,C
+Garlic Parmesan Sauce,MC,MC,C,C,MC,MC,MC,MC,MC,MC,MC,MC,
+Hearty Marinara Sauce,,,,C,,,,,MC,,MC,,
+Donair Sauce*,,,,C,,,,,MC,MC,MC,MC,
+--- TOPPINGS ---,,,,,,,,,,,,
+Anchovies,,,,,,C,,,,,,,
+Bacon Strip Crumble,,,,,,,,,MC,,,,
+Hot Banana Peppers,,,,,,,,,,,,,C
+Beef Crumble,,,,,,,,,C,,,,
+Salami,MC,,,MC,,,,,MC,C,,,
+Chicken (Grilled),MC,,MC,MC,,,,,MC,C,,MC,
+Green Peppers,,,,,,,,,,,,,
+Ham,,,,,,,,,,,,,
+Liquid Egg,,,,,C,,,,,,,,
+Mushrooms,,,,,,,,,,,,,
+Olives (Black),,,,,,,,,,,,,
+Donair Meat*,MC,,,MC,,,,,,C,MC,,ZC
+Olives (Green),,,,,,,,,,,,,
+Onions,,,,,,,,,,,,,
+Oregano,MC,MC,MC,MC,MC,MC,,,,,MC,,
+Brooklyn Pepperoni,MC,,,MC,,,,,MC,C,,MC,
+Pepperoni,MC,,,MC,,,,,MC,C,,MC,
+Butter Flavoured Oil (Phase Oil),,,,,,,,,C,,,,
+Philly Steak Pizza Topping,,,,,,,,,C,,C,,
+Pineapple,,,,,,,,,,,,,
+Italian Sausage,,,,,,,,,,,,,
+Tomatoes,,,,,,,,,,,,,
+Crushed Red Pepper Packets,MC,,,,,,,,,,,,
+Spinach,,,,,,,,,,,,,
+Roasted Red Peppers,,,,,,,,,,,,,
+Jalapeño Peppers,,,,,,,,,,C,,,
+--- CHEESES ---,,,,,,,,,,,,
+Cheese Blend,,,,C,,,,,,,,,
+Cheese (Pizza),,,,C,,,,,,,,,
+Cheddar Cheese,,,,C,,,,,,,,,
+Feta Cheese,,,,C,,,,,,,,,
+Parmesan & Asiago Cheese,,,,C,,,,,,,,,
+Provolone,,,,C,,,,,,,,,
+White Cheddar Slices,,,,C,,,,,C,,,,
+--- BREADS ---,,,,,,,,,,,,
+Breadsticks,MC,,,C,,,,,MC,C,,,C
+Cinna Stix,MC,,,C,,,,,MC,C,,,C
+Cheesy Bread,MC,,,C,,,,,MC,C,,,C
+Cheesy Garlic Fingers,,,,C,,,,,MC,C,,,C
+Bacon Garlic Fingers,,,,C,,,,,MC,C,,,C
+Parmesan Bread Bites,MC,,,C,,,,,MC,C,,,C
+Stuffed Cheesy Bread - Cheese,MC,,,C,,,,,,C,,,C
+Stuffed Cheesy Bread - Pepperoni,MC,,,C,,,,,,C,,,C
+Stuffed Cheesy Bread - Philly Steak,MC,,,C,,,,,,C,,,C
+Stuffed Cheesy Bread - Bacon Jalapeño,MC,,,C,,,,,,C,,,C
+Stuffed Cheesy Bread - Spinach & Feta,MC,,,C,,,,,,C,,,C
+--- PASTA ---,,,,,,,,,,,,
+Pasta Chicken Alfredo,,,,C,,,,,MC,C,,,C
+Pasta Chicken Carbonara,,,,C,,,,,MC,C,,,C
+Pasta Italian Sausage Marinara,,,,C,,,,,MC,,MC,,C
+Pasta Primavera,,,,C,,,,,MC,C,,,C
+--- SPECIALTY CHICKEN ---,,,,,,,,,,,,
+Specialty Chicken - Classic Hot Buffalo,MC,MC,,C,C,,,,MC,MC,MC,,C
+Specialty Chicken - Crispy Bacon & Tomato,MC,MC,,C,C,,,,MC,MC,MC,,C
+Specialty Chicken - Spicy Jalapeño & Pineapple,MC,MC,,MC,,,,,MC,MC,MC,,C
+Specialty Chicken - Sweet BBQ Bacon,,,,C,,,,,MC,C,,,C
+Specialty Chicken - Chicken Parm,,,,C,,,,,MC,C,,,C
+--- DIPPING SAUCES ---,,,,,,,,,,,,
+Honey Garlic Sauce,MC,MC,MC,MC,,,,,MC,C,MC,C,MC
+Cayenne Hot Sauce (Franks),,,,,,,,,,,,,
+Sweet Mango Habanero Sauce,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,
+Marinara Sauce,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,
+BBQ Dip Cup,MC,MC,MC,MC,MC,MC,MC,MC,MC,C,MC,MC,
+Ranch Dip Cup,MC,MC,C,C,MC,MC,MC,MC,MC,MC,MC,MC,
+Roasted Garlic Dip Cup,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,C,
+Sweet Icing Dip Cup,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,
+Hot Sauce Dip Cup,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,MC,
+Cheddar Habanero Dip Cup,,,,MC,C,C,MC,MC,MC,MC,,,
+Garlic Spread,,,,C,,,,,,C,,,C
+--- CHICKEN ---,,,,,,,,,,,,
+BBQ Wings,,,,,,,,,,C,MC,,C
+Boneless Chicken,MC,,,,,,,,,MC,C,,C
+--- OTHER ---,,,,,,,,,,,,
+French Fries,,,,,,,,,C,MC,,,
+Saputo Butter Cup,,,,C,,,,,,,,,
+--- FEAST PIZZAS ---,,,,,,,,,,,,
+BBQ Chicken Bacon Feast,,,,C,,,,,MC,C,,,C
+Brooklyn Feast,,,,C,,,,,,C,,,C
+Buffalo Chicken Feast,,,,C,,,,,,C,,,C
+Canadian Feast,,,,C,,,,,,C,,,C
+Chicken Bacon Alfredo Feast,,,,C,,,,,MC,C,,,C
+Chicken Bacon Ranch Feast,MC,MC,,C,C,,,,MC,MC,MC,,C
+Deluxe Feast,,,,C,,,,,,C,,,C
+Domino's 6 Cheese,,,,C,,,,,,C,,,C
+ExtravaganZZa Feast,,,,C,,,,,,C,,,C
+Hawaiian Feast,,,,C,,,,,,C,,,C
+MeatZZa Feast,,,,C,,,,,,C,,,C
+Pepperoni Feast,,,,C,,,,,,C,,,C
+Philly Steak Feast,,,,C,,,,,,C,,,C
+Veggie Feast,,,,C,,,,,,C,,,C
+Pacific Veggie Feast,MC,,,C,,,,,MC,C,,,C
+Spinach & Feta Feast,,,,C,,,,,,C,,,C
+--- BREAKFAST PIZZA ---,,,,,,,,,,,,
+Ham & Bacon,,,,C,C,,,,MC,C,,,C
+Veggie,,,,C,C,,,,MC,C,,,
+--- DESSERTS ---,,,,,,,,,,,,
+Chocolate Lava Crunch Cake,MC,MC,,C,C,,,,MC,C,,,C
+Marbled Cookie Brownie,,,,,C,C,,,MC,C,,,C
+Cinna Bites,MC,,,C,,,,,MC,C,,,C

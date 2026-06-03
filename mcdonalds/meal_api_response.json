@@ -1,0 +1,601 @@
+{
+  "item": {
+    "allergens": {},
+    "attach_item_hero_image": {
+      "image_name": "en/mcdonalds-cheeseburger-happy-meal-apples-hero.jpg"
+    },
+    "attach_item_thumbnail_image": {
+      "image_name": "en/mcdonalds-cheeseburger-happy-meal-apples.jpg"
+    },
+    "attach_meal_bundle_image": {
+      "image_name": {}
+    },
+    "attach_quality_statement_image": {
+      "image_name": "image"
+    },
+    "attach_transparent_icon_image": {
+      "image_name": "en/mcdonalds-cheeseburger-happy-meal-apples.jpg"
+    },
+    "categories": {
+      "category": [
+        {
+          "name": "Happy-Meal-NFLD",
+          "id": 100018
+        },
+        {
+          "name": "Featured Items ",
+          "id": 100019
+        },
+        {
+          "name": "Happy Meal Limited Menu ",
+          "id": 100020
+        }
+      ]
+    },
+    "components": {
+      "component": [
+        {
+          "attach_item_hero_image": {
+            "alt_text": {},
+            "description": {},
+            "image_name": "en/mcdonalds-cheeseburger-hero.jpg",
+            "url": {}
+          },
+          "attach_item_thumbnail_image": {
+            "alt_text": {},
+            "description": {},
+            "image_name": "en/mcdonalds-cheeseburger.jpg",
+            "url": {}
+          },
+          "attach_meal_bundle_image": {
+            "image_name": {}
+          },
+          "attach_quality_statement_image": {
+            "image_name": {}
+          },
+          "attach_transparent_icon_image": {
+            "alt_text": {},
+            "description": {},
+            "image_name": "en/mcdonalds-cheeseburger.jpg",
+            "url": {}
+          },
+          "customization_button": {},
+          "customization_label": {},
+          "description": "A slice of melted processed cheese on a juicy, 100% Canadian beef patty with tangy pickles and onions, ketchup and mustard on a freshly-toasted bun.",
+          "display_order": 1,
+          "do_not_show": "Core",
+          "external_id": "3",
+          "frequency": "Daily",
+          "has_components": "Yes",
+          "id": 200140,
+          "import_id": "00053-000",
+          "imported_item_name": "Cheeseburger",
+          "ingredients": {},
+          "is_default": 1,
+          "item_additional_allergen": {},
+          "item_additional_text_ingredient_statement": {},
+          "item_allergen": "Contains Milk, Mustard, Soy, Wheat.",
+          "item_comments": {},
+          "item_id": 200140,
+          "item_ingredient_statement": "REGULAR BUN ENRICHED WHEAT FLOUR, WATER, SUGARS (SUGAR, CORN DEXTROSE, CORN MALTODEXTRIN), YEAST, VEGETABLE OIL (CANOLA AND/OR SOY), VEGETABLE PROTEINS (PEA, POTATO, FABA BEAN), SUNFLOWER OIL, CORN STARCH, SALT, MAY CONTAIN AND OR ALL OF THE FOLLOWING IN VARYING PROPORTIONS: WHEAT GLUTEN, DOUGH CONDITIONERS (MONOGLYCERIDES, DATEM, ASCORBIC ACID, ENZYMES), VINEGAR., BEEF PATTY 100% PURE BEEF., PROCESSED CHEESE CHEESE (MILK, PARTLY SKIMMED MILK, MODIFIED MILK INGREDIENTS, SALT, BACTERIAL CULTURE, CALCIUM CHLORIDE, MICROBIAL ENZYME, LIPASE, ANNATTO), MODIFIED MILK INGREDIENTS, WATER, SODIUM CITRATE, SALT, CITRIC ACID, BETA-CAROTENE, PAPRIKA, SOY LECITHIN., KETCHUP TOMATO PASTE, SUGARS (SUGAR/GLUCOSE-FRUCTOSE), WATER, VINEGAR, SALT, NATURAL FLAVOUR., PICKLE SLICES CUCUMBERS, WATER, DISTILLED VINEGAR, SALT, CALCIUM CHLORIDE, POTASSIUM SORBATE (PRESERVATIVE), ALUMINUM SULPHATE, NATURAL FLAVOUR (PLANT SOURCE), POLYSORBATE 80, EXTRACTIVES OF TUMERIC (COLOUR)., ONIONS (DEHYDRATED) 100% ONIONS., MUSTARD WATER, VINEGAR, MUSTARD SEED, SALT, TURMERIC, NATURAL FLAVOUR (PLANT SOURCE), SPICE., GRILL SEASONING SALT, SPICE (PEPPER), SUNFLOWER OIL (USED AS A PROCESSING AID)..",
+          "item_marketing_name": "Cheeseburger",
+          "item_meta_description": {},
+          "item_meta_title": {},
+          "item_name": "Cheeseburger",
+          "item_status_flag": "None",
+          "keywords": "Cheeseburger, Cheeseburger",
+          "logo_1": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_2": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_3": {
+            "alt_text": {},
+            "url": {}
+          },
+          "menu_item_no": "3",
+          "nutrient_facts": {
+            "nutrient": [
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "260",
+                "id": 2,
+                "name": "Calories",
+                "nutrient_name_id": "calories",
+                "uom": "Cals",
+                "uom_description": "calories",
+                "value": "290",
+                "woman_dv": {},
+                "is_display": {}
+              },
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "1070",
+                "id": 17,
+                "name": "Energy kJ",
+                "nutrient_name_id": "energy_kJ",
+                "uom": "kJ",
+                "uom_description": "kJ",
+                "value": "1210",
+                "woman_dv": {},
+                "is_display": {}
+              }
+            ]
+          },
+          "priority": 0.8,
+          "product_type_name": "Core Item",
+          "quantity": "1",
+          "serving_size": "113 g",
+          "serving_size_imperial": {},
+          "serving_size_metric": {},
+          "short_name": "cheeseburger",
+          "show_product_images": "No",
+          "sitemap": "Yes",
+          "specialization_text1": {},
+          "specialization_text2": {},
+          "text": "Your forever favourite, made cheesy.",
+          "time_of_day": "Whole Day"
+        },
+        {
+          "attach_item_hero_image": {
+            "alt_text": {},
+            "description": {},
+            "image_name": "en/mcdonalds-fries-small-hero.jpg",
+            "url": "en/mcdonalds-fries-small-hero.jpg"
+          },
+          "attach_item_thumbnail_image": {
+            "alt_text": {},
+            "description": {},
+            "image_name": "en/mcdonalds-fries-small.jpg",
+            "url": "en/mcdonalds-fries-small.jpg"
+          },
+          "attach_transparent_icon_image": {
+            "alt_text": {},
+            "description": {},
+            "image_name": "en/mcdonalds-fries-small.jpg",
+            "url": "en/mcdonalds-fries-small.jpg"
+          },
+          "customization_button": {},
+          "customization_label": {},
+          "description": "McDonald\u00e2\u20ac\u2122s World Famous Fries are always a delicious choice. Cut from whole potatoes grown on Canadian farms, our fries are cooked to golden perfection in a vegetable oil blend. Mmmm\u00e2\u20ac\u00a6 of course you want fries with that!",
+          "display_order": 2,
+          "do_not_show": "Core",
+          "external_id": "11",
+          "frequency": {},
+          "has_components": "Yes",
+          "id": 200170,
+          "import_id": "00117-000",
+          "imported_item_name": "French Fries - Small",
+          "ingredients": {},
+          "is_default": 1,
+          "item_additional_allergen": {},
+          "item_additional_text_ingredient_statement": {},
+          "item_allergen": {},
+          "item_comments": {},
+          "item_id": 200170,
+          "item_ingredient_statement": "FRENCH FRIES POTATOES, HIGH OLEIC LOW LINOLENIC CANOLA OIL AND/OR CANOLA OIL, HYDROGENATED SOYBEAN OIL, NATURAL FLAVOUR (VEGETABLE SOURCE), SUGARS (DEXTROSE), SODIUM ACID PYROPHOPSHATE (MAINTAIN COLOUR), CITRIC ACID (PRESERVATIVE), DIMETHYLPOLYSILOXANE (ANTIFOAMING AGENT). COOKED IN VEGETABLE OIL (HIGH OLEIC LOW LINOLEIC CANOLA OIL AND/OR CANOLA OIL, CORN OIL, SOYBEAN OIL, HYDROGENATED SOYBEAN OIL, CITRIC ACID, DIMETHYLPOLYSILOXANE), SALT SALT, SILICOALUMINATE, SUGAR (DEXTROSE), POTASSIUM IODIDE..",
+          "item_marketing_name": "World Famous Fries - Small",
+          "item_meta_description": {},
+          "item_meta_title": {},
+          "item_name": "World Famous Fries - Small",
+          "item_status_flag": "None",
+          "keywords": "French Fries - Small, Frites (petit format)",
+          "logo_1": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_2": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_3": {
+            "alt_text": {},
+            "url": {}
+          },
+          "menu_item_no": "11",
+          "nutrient_facts": {
+            "nutrient": [
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "320",
+                "id": 2,
+                "name": "Calories",
+                "nutrient_name_id": "calories",
+                "uom": "Cals",
+                "uom_description": "calories",
+                "value": "240",
+                "woman_dv": {},
+                "is_display": {}
+              },
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "1320",
+                "id": 17,
+                "name": "Energy kJ",
+                "nutrient_name_id": "energy_kJ",
+                "uom": "kJ",
+                "uom_description": "kJ",
+                "value": "990",
+                "woman_dv": {},
+                "is_display": {}
+              }
+            ]
+          },
+          "priority": {},
+          "product_type_name": "Core Item",
+          "quantity": "1",
+          "serving_size": "75 g",
+          "serving_size_imperial": {},
+          "serving_size_metric": {},
+          "short_name": "french-fries-small",
+          "show_product_images": "No",
+          "sitemap": "No",
+          "specialization_text1": {},
+          "specialization_text2": {},
+          "text": "Go on, grab one.",
+          "time_of_day": {}
+        },
+        {
+          "attach_item_hero_image": {
+            "image_name": "en/mcdonalds-white-milk-hero.jpg"
+          },
+          "attach_item_thumbnail_image": {
+            "image_name": "en/mcdonalds-white-milk.jpg"
+          },
+          "attach_meal_bundle_image": {
+            "image_name": {}
+          },
+          "attach_quality_statement_image": {
+            "image_name": "image"
+          },
+          "attach_transparent_icon_image": {
+            "image_name": "en/mcdonalds-white-milk.jpg"
+          },
+          "customization_button": {},
+          "customization_label": {},
+          "description": "Wholesome, delicious, low fat milk; a source of Vitamin A and an excellent source of calcium. Available in 1% chocolate milk too!",
+          "display_order": 3,
+          "do_not_show": "Core",
+          "external_id": "5400",
+          "frequency": "Daily",
+          "has_components": "Yes",
+          "id": 200001,
+          "import_id": "00002-000",
+          "imported_item_name": "1% Partly Skimmed Milk - 250 ml",
+          "ingredients": {},
+          "is_default": 1,
+          "item_additional_allergen": {},
+          "item_additional_text_ingredient_statement": {},
+          "item_allergen": "Contains Milk.",
+          "item_comments": {},
+          "item_id": 200001,
+          "item_ingredient_statement": "1% Partly Skimmed Milk Partly skimmed milk, Vitamin A palmitate, Vitamin D3..",
+          "item_marketing_name": "1% Partly Skimmed Milk - 250 ml",
+          "item_meta_description": {},
+          "item_meta_title": {},
+          "item_name": "1% Partly Skimmed Milk - 250 ml",
+          "item_status_flag": "None",
+          "keywords": "1% Partly Skimmed Milk - 250 ml, Lait 1 % partiellement \u00e9cr\u00e9m\u00e9 - 250 ml",
+          "logo_1": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_2": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_3": {
+            "alt_text": {},
+            "url": {}
+          },
+          "menu_item_no": "5400",
+          "nutrient_facts": {
+            "nutrient": [
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "45",
+                "id": 2,
+                "name": "Calories",
+                "nutrient_name_id": "calories",
+                "uom": "Cals",
+                "uom_description": "calories",
+                "value": "110",
+                "woman_dv": {},
+                "is_display": {}
+              },
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "180",
+                "id": 17,
+                "name": "Energy kJ",
+                "nutrient_name_id": "energy_kJ",
+                "uom": "kJ",
+                "uom_description": "kJ",
+                "value": "460",
+                "woman_dv": {},
+                "is_display": {}
+              }
+            ]
+          },
+          "priority": 0.8,
+          "product_type_name": "Core Item",
+          "quantity": "1",
+          "serving_size": "250 g",
+          "serving_size_imperial": {},
+          "serving_size_metric": {},
+          "short_name": "1-partly-skimmed-milk-250-ml",
+          "show_product_images": "No",
+          "sitemap": "Yes",
+          "specialization_text1": {},
+          "specialization_text2": {},
+          "text": "Un grand classique",
+          "time_of_day": {}
+        },
+        {
+          "attach_item_hero_image": {
+            "image_name": "en/mcdonalds-yogurt-tube-hero.jpg"
+          },
+          "attach_item_thumbnail_image": {
+            "image_name": "en/mcdonalds-yogurt-tube.jpg"
+          },
+          "attach_meal_bundle_image": {
+            "image_name": {}
+          },
+          "attach_quality_statement_image": {
+            "image_name": "image"
+          },
+          "attach_transparent_icon_image": {
+            "image_name": "en/mcdonalds-yogurt-tube.jpg"
+          },
+          "customization_button": {},
+          "customization_label": {},
+          "description": {},
+          "display_order": 4,
+          "do_not_show": "Core",
+          "external_id": "3750",
+          "frequency": "Daily",
+          "has_components": "Yes",
+          "id": 200107,
+          "import_id": "01821-000",
+          "imported_item_name": "Strawberry Yogurt Tube",
+          "ingredients": {},
+          "is_default": 1,
+          "item_additional_allergen": {},
+          "item_additional_text_ingredient_statement": {},
+          "item_allergen": "Contains Milk.",
+          "item_comments": {},
+          "item_id": 200107,
+          "item_ingredient_statement": "Strawberry Yogurt Tube Skim milk, Sugar, Water, Cream, Corn starch, Milk protein concentrate, Natural flavour, Agar, Black carrot juice and carotene (for colour), Red beet juice concentrate (for colour), Lemon juice concentrate, Active bacterial cultures, Vitamin D3. Made with vitamin D fortified skim milk..",
+          "item_marketing_name": "Yogurt Tube",
+          "item_meta_description": {},
+          "item_meta_title": {},
+          "item_name": "Strawberry Yogurt Tube",
+          "item_status_flag": "None",
+          "keywords": {},
+          "logo_1": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_2": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_3": {
+            "alt_text": {},
+            "url": {}
+          },
+          "menu_item_no": "3750",
+          "nutrient_facts": {
+            "nutrient": [
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "80",
+                "id": 2,
+                "name": "Calories",
+                "nutrient_name_id": "calories",
+                "uom": "Cals",
+                "uom_description": "calories",
+                "value": "25",
+                "woman_dv": {},
+                "is_display": {}
+              },
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "330",
+                "id": 17,
+                "name": "Energy kJ",
+                "nutrient_name_id": "energy_kJ",
+                "uom": "kJ",
+                "uom_description": "kJ",
+                "value": "100",
+                "woman_dv": {},
+                "is_display": {}
+              }
+            ]
+          },
+          "priority": 0.8,
+          "product_type_name": "Core Item",
+          "quantity": "1",
+          "serving_size": "30 g",
+          "serving_size_imperial": {},
+          "serving_size_metric": {},
+          "short_name": "strawberry-yogurt-tube",
+          "show_product_images": "No",
+          "sitemap": "Yes",
+          "specialization_text1": {},
+          "specialization_text2": {},
+          "text": {},
+          "time_of_day": "Whole Day"
+        },
+        {
+          "attach_item_hero_image": {
+            "image_name": "en/mcdonalds-apple-slices-hero.jpg"
+          },
+          "attach_item_thumbnail_image": {
+            "image_name": "en/mcdonalds-apple-slices.jpg"
+          },
+          "attach_meal_bundle_image": {
+            "image_name": {}
+          },
+          "attach_quality_statement_image": {
+            "image_name": "image"
+          },
+          "attach_transparent_icon_image": {
+            "image_name": "en/mcdonalds-apple-slices.jpg"
+          },
+          "customization_button": {},
+          "customization_label": {},
+          "description": "A crisp and delicious snack, prepared for fruit lovers on the go.",
+          "display_order": 5,
+          "do_not_show": "Core",
+          "external_id": "2569",
+          "frequency": "Daily",
+          "has_components": "Yes",
+          "id": 200164,
+          "import_id": "01165-000",
+          "imported_item_name": "Apple Slices",
+          "ingredients": {},
+          "is_default": 1,
+          "item_additional_allergen": {},
+          "item_additional_text_ingredient_statement": {},
+          "item_allergen": {},
+          "item_comments": {},
+          "item_id": 200164,
+          "item_ingredient_statement": "Apple Slices Apples, Calcium ascorbate..",
+          "item_marketing_name": "Apple Slices",
+          "item_meta_description": {},
+          "item_meta_title": {},
+          "item_name": "Apple Slices",
+          "item_status_flag": "None",
+          "keywords": {},
+          "logo_1": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_2": {
+            "alt_text": {},
+            "url": {}
+          },
+          "logo_3": {
+            "alt_text": {},
+            "url": {}
+          },
+          "menu_item_no": "2569",
+          "nutrient_facts": {
+            "nutrient": [
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "50",
+                "id": 2,
+                "name": "Calories",
+                "nutrient_name_id": "calories",
+                "uom": "Cals",
+                "uom_description": "calories",
+                "value": "35",
+                "woman_dv": {},
+                "is_display": {}
+              },
+              {
+                "adult_dv": {},
+                "child_dv": {},
+                "hundred_g_per_product": "220",
+                "id": 17,
+                "name": "Energy kJ",
+                "nutrient_name_id": "energy_kJ",
+                "uom": "kJ",
+                "uom_description": "kJ",
+                "value": "150",
+                "woman_dv": {},
+                "is_display": {}
+              }
+            ]
+          },
+          "priority": 0.8,
+          "product_type_name": "Core Item",
+          "quantity": "1",
+          "serving_size": "68 g",
+          "serving_size_imperial": {},
+          "serving_size_metric": {},
+          "short_name": "apple-slices",
+          "show_product_images": "No",
+          "sitemap": "Yes",
+          "specialization_text1": {},
+          "specialization_text2": {},
+          "text": "A sweet treat from the orchard.",
+          "time_of_day": {}
+        }
+      ]
+    },
+    "coops": {},
+    "customization_button": {},
+    "customization_label": {},
+    "default_category": {
+      "category": {
+        "name": "Happy-Meal-NFLD",
+        "id": 100018
+      }
+    },
+    "description": "Made with 100% Canadian beef patty, pickles, onions, and a slice of melted processed cheddar cheese, all between a freshly toasted bun, it\u2019s no wonder this is a crowd favourite. \n\nAvailable with your choice of apple slices or mini/small fries, yogurt and small/child-size drink (as applicable).",
+    "do_not_show": "Core",
+    "external_id": "5504",
+    "frequency": "Daily",
+    "has_components": {},
+    "id": 200925,
+    "import_id": "200879a",
+    "imported_item_name": {},
+    "is_fortified_menu_item": "No",
+    "item_additional_allergen": {},
+    "item_additional_text_ingredient_statement": {},
+    "item_allergen": {},
+    "item_comments": {},
+    "item_id": 200925,
+    "item_ingredient_statement": {},
+    "item_marketing_name": "Cheeseburger Happy Meal",
+    "item_meta_description": {},
+    "item_meta_title": {},
+    "item_name": "Cheeseburger Happy Meal",
+    "item_status_flag": "None",
+    "item_type": "Item Collection",
+    "keywords": {},
+    "logo_1": {
+      "alt_text": {},
+      "url": {}
+    },
+    "logo_2": {
+      "alt_text": {},
+      "url": {}
+    },
+    "logo_3": {
+      "alt_text": {},
+      "url": {}
+    },
+    "menu_item_no": "5504",
+    "menu_item_no_2": {},
+    "menu_item_no_3": {},
+    "mutex_groups": {},
+    "nutrient_facts": {},
+    "priority": 0.8,
+    "relation_types": {},
+    "serving_size_imperial": {},
+    "serving_size_metric": {},
+    "short_name": "hm-cheeseburger",
+    "show_product_images": "Yes",
+    "sitemap": "Yes",
+    "specialization_text1": {},
+    "specialization_text2": {},
+    "text": {},
+    "time_of_day": "Whole Day"
+  }
+}

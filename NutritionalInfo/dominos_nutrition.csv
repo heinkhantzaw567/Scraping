@@ -1,0 +1,740 @@
+Category,Pizza Size,Crust/Item,Component Type,Component Name,Serving Size,Weight (g),Calories,Calories from Fat,Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Total Sugars (g),Protein (g)
+6" PERSONAL,Personal,Hand Tossed,Crust,Hand Tossed,1/2 of pizza,72,180,20,2.5,0,0,0,180,33,1,1,6
+6" PERSONAL,Personal,Hand Tossed,Sauce,Pizza Sauce,per serving,14,5,0,0,0,0,0,50,1,0,1,0
+6" PERSONAL,Personal,Hand Tossed,Sauce,BBQ Sauce,per serving,11,20,0,0,0,0,0,135,4,0,4,0
+6" PERSONAL,Personal,Hand Tossed,Sauce,Hearty Marinara,per serving,14,10,0,0,0,0,0,90,1,0,1,0
+6" PERSONAL,Personal,Hand Tossed,Cheese Only,Light Cheese,per serving,11,30,20,2,1.5,0,5,65,1,0,0,3
+6" PERSONAL,Personal,Hand Tossed,Cheese Only,Regular Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+6" PERSONAL,Personal,Hand Tossed,Cheese Only,Extra Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+6" PERSONAL,Personal,Hand Tossed,Cheese Only,Double Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+6" PERSONAL,Personal,Hand Tossed,Cheese Only,Triple Cheese,per serving,46,130,80,9,6,0,30,270,2,0,0,11
+6" PERSONAL,Personal,Hand Tossed,Cheese With Toppings,Light Cheese,per serving,11,30,20,2,1.5,0,5,65,1,0,0,3
+6" PERSONAL,Personal,Hand Tossed,Cheese With Toppings,Regular Cheese,per serving,18,50,30,3.5,2,0,10,105,1,0,0,4
+6" PERSONAL,Personal,Hand Tossed,Cheese With Toppings,Extra Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+6" PERSONAL,Personal,Hand Tossed,Cheese With Toppings,Double Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+6" PERSONAL,Personal,Hand Tossed,Cheese With Toppings,Triple Cheese,per serving,46,130,80,9,6,0,30,270,2,0,0,11
+6" PERSONAL,Personal,Hand Tossed,1-Topping,White Processed Cheddar Cheese,per serving,7,25,15,2,1,0,5,140,1,0,0,1
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Bacon Strip Crumble,per serving,7,30,20,2,0.5,0,5,130,0,0,0,3
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Beef Crumble,per serving,7,20,20,2,1,0,5,55,0,0,0,1
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Black Olives,per serving,4.5,5,0,0.5,0,0,0,0,0,0,0,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Cheddar Cheese,per serving,7,30,20,2.5,1.5,0,5,50,0,0,0,2
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Chicken,per serving,7,10,0,0,0,0,5,40,0,0,0,1
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Feta Cheese,per serving,7,20,15,1.5,1,0,5,115,0,0,0,1
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Green Peppers,per serving,4.5,0,0,0,0,0,0,0,0,0,0,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Ham,per serving,9,10,0,0,0,0,5,125,0,0,0,2
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Banana Peppers,per serving,4.5,0,0,0,0,0,0,60,0,0,0,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Jalapeño Peppers,per serving,4.5,0,0,0,0,0,0,75,0,0,0,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Mushrooms,per serving,4.5,0,0,0,0,0,0,0,0,0,0,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Onions,per serving,4.5,0,0,0,0,0,0,0,0,0,0,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Pepperoni,per serving,7,30,25,3,1,0,5,135,0,0,0,2
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Extra-Large Pepperoni,per serving,9,45,35,4,1.5,0,10,160,0,0,0,2
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Philly Steak,per serving,7,10,5,0.5,0,0,5,80,0,0,0,1
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Pineapple,per serving,4.5,0,0,0,0,0,0,0,1,0,1,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Provolone Cheese,per serving,11,35,20,2.5,1.5,0,10,50,1,0,0,3
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Salami,per serving,12,30,20,2,1,0,5,150,1,0,0,2
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Sausage,per serving,7,20,15,1.5,0.5,0,5,10,0,0,0,1
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Shredded Parmesan Asiago,per serving,7,25,15,2,1,0,5,60,1,0,0,2
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Tomatoes,per serving,19,0,0,0,0,0,0,0,1,0,0,0
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Anchovies*,per serving,14,25,10,1,0,0,10,840,0,0,0,4
+6" PERSONAL,Personal,Hand Tossed,1-Topping,Green Olives*,per serving,4.5,0,0,0,0,0,0,70,0,0,0,0
+Small,Small,Gluten Free,Crust,Gluten Free,1/3 of pizza,60,130,10,1.5,0,0,0,140,28,1,3,2
+Small,Small,Gluten Free,Sauce,Pizza Sauce,per serving,28,15,0,0,0,0,0,100,3,1,1,1
+Small,Small,Gluten Free,Sauce,Alfredo Sauce,per serving,14,35,30,3,2,0,10,85,0,0,0,0
+Small,Small,Gluten Free,Sauce,BBQ Sauce,per serving,14,25,0,0,0,0,0,180,6,0,5,0
+Small,Small,Gluten Free,Sauce,Garlic Parmesan White Sauce,per serving,14,60,60,6,1,0,5,135,1,0,0,0
+Small,Small,Gluten Free,Sauce,Hearty Marinara Sauce,per serving,28,15,0,0,0,0,0,180,3,1,2,1
+Small,Small,Gluten Free,Sauce,Ranch,per serving,28,70,60,7,1,0,5,120,1,0,1,0
+Small,Small,Gluten Free,Sauce,Donair Sauce*,per serving,28,45,5,0,0,0,0,20,10,0,8,1
+Small,Small,Gluten Free,Cheese Only,Light Cheese,per serving,24,70,40,4.5,3,0,15,140,1,0,0,6
+Small,Small,Gluten Free,Cheese Only,Regular Cheese,per serving,47,140,80,9,6,0,30,280,2,0,0,11
+Small,Small,Gluten Free,Cheese Only,Extra Cheese,per serving,66,190,120,13,8,0,45,390,3,1,0,16
+Small,Small,Gluten Free,Cheese Only,Double Cheese,per serving,66,190,120,13,8,0,45,390,3,1,0,16
+Small,Small,Gluten Free,Cheese Only,Triple Cheese,per serving,82,240,140,16,10,0.5,55,490,4,1,0,20
+Small,Small,Gluten Free,Cheese With Toppings,Light Cheese,per serving,24,70,40,4.5,3,0,15,140,1,0,0,6
+Small,Small,Gluten Free,Cheese With Toppings,Regular Cheese,per serving,33,100,60,6,4,0,20,200,2,0,0,8
+Small,Small,Gluten Free,Cheese With Toppings,Extra Cheese,per serving,47,140,80,9,6,0,30,280,2,0,0,11
+Small,Small,Gluten Free,Cheese With Toppings,Double Cheese,per serving,66,190,120,13,8,0,45,390,3,1,0,16
+Small,Small,Gluten Free,Cheese With Toppings,Triple Cheese,per serving,82,240,140,16,10,0.5,55,490,4,1,0,20
+Small,Small,Gluten Free,1-Topping,White Processed Cheddar Cheese,per serving,19,60,40,4.5,3,0,15,370,1,0,0,3
+Small,Small,Gluten Free,1-Topping,Bacon Strip Crumble,per serving,14,60,35,4,1.5,0,15,260,1,0,0,5
+Small,Small,Gluten Free,1-Topping,Beef Crumble,per serving,24,70,60,6,2.5,0,20,180,0,0,0,3
+Small,Small,Gluten Free,1-Topping,Black Olives,per serving,14,20,15,2,0,0,0,0,0,0,0,0
+Small,Small,Gluten Free,1-Topping,Cheddar Cheese,per serving,9,40,30,3,2,0,10,65,0,0,0,2
+Small,Small,Gluten Free,1-Topping,Chicken,per serving,24,30,5,0.5,0,0,10,125,1,0,0,5
+Small,Small,Gluten Free,1-Topping,Feta Cheese,per serving,9,25,20,2,1.5,0,5,150,0,0,0,2
+Small,Small,Gluten Free,1-Topping,Green Peppers,per serving,14,0,0,0,0,0,0,0,1,0,0,0
+Small,Small,Gluten Free,1-Topping,Ham,per serving,21,20,5,0.5,0,0,10,270,0,0,0,3
+Small,Small,Gluten Free,1-Topping,Banana Peppers,per serving,14,0,0,0,0,0,0,210,1,0,0,0
+Small,Small,Gluten Free,1-Topping,Jalapeño Peppers,per serving,14,0,0,0,0,0,0,260,1,0,0,0
+Small,Small,Gluten Free,1-Topping,Mushrooms,per serving,24,5,0,0,0,0,0,0,1,0,0,1
+Small,Small,Gluten Free,1-Topping,Onions,per serving,14,5,0,0,0,0,0,0,1,0,1,1
+Small,Small,Gluten Free,1-Topping,Pepperoni,per serving,12,50,40,4.5,2,0,10,220,0,0,0,3
+Small,Small,Gluten Free,1-Topping,Extra-Large Pepperoni,per serving,13,60,50,5,2,0,10,210,0,0,0,20
+Small,Small,Gluten Free,1-Topping,Philly Steak,per serving,19,30,15,1.5,0.5,0,10,220,1,0,0,3
+Small,Small,Gluten Free,1-Topping,Pineapple,per serving,24,15,0,0,0,0,0,0,4,0,4,0
+Small,Small,Gluten Free,1-Topping,Provolone Cheese,per serving,9,30,20,2,1.5,0,5,45,1,0,0,2
+Small,Small,Gluten Free,1-Topping,Salami,per serving,27,70,45,5,2.5,0,15,320,2,0,0,4
+Small,Small,Gluten Free,1-Topping,Roasted Red Pepper,per serving,14,5,0,0,0,0,0,20,1,0,0,0
+Small,Small,Gluten Free,1-Topping,Sausage,per serving,24,70,50,6,2,0,15,30,1,0,0,3
+Small,Small,Gluten Free,1-Topping,Shredded Parmesan Asiago,per serving,9,35,20,2.5,1.5,0,10,80,1,0,0,3
+Small,Small,Gluten Free,1-Topping,Tomatoes,per serving,19,0,0,0,0,0,0,0,1,0,0,0
+Small,Small,Gluten Free,1-Topping,Donair Meat*,per serving,79,200,110,12,5,0,50,710,10,1,1,11
+Small,Small,Gluten Free,1-Topping,Green Olive*,per serving,14,15,10,1,0,0,0,230,1,0,0,0
+Small,Small,Thin Crust,Crust,Hand Tossed (Thin),1/4 of pizza,29,110,40,4.5,1,0,0,15,14,2,1,3
+Small,Small,Thin Crust,Sauce,Pizza Sauce,per serving,21,10,0,0,0,0,0,75,2,1,1,0
+Small,Small,Thin Crust,Sauce,Alfredo Sauce,per serving,11,25,20,2.5,1.5,0,5,65,1,0,0,1
+Small,Small,Thin Crust,Sauce,BBQ Sauce,per serving,11,20,0,0,0,0,0,135,4,0,4,0
+Small,Small,Thin Crust,Sauce,Garlic Parmesan White Sauce,per serving,11,45,45,5,1,0,5,100,1,0,0,0
+Small,Small,Thin Crust,Sauce,Hearty Marinara Sauce,per serving,21,10,0,0,0,0,0,135,2,0,1,0
+Small,Small,Thin Crust,Sauce,Ranch,per serving,11,50,45,5,1,0,0,90,0,0,0,0
+Small,Small,Thin Crust,Sauce,Donair Sauce*,per serving,21,35,0,0,0,0,0,15,7,0,6,0
+Small,Small,Thin Crust,Cheese Only,Light Cheese,per serving,18,50,30,3.5,2,0,10,105,1,0,0,4
+Small,Small,Thin Crust,Cheese Only,Regular Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+Small,Small,Thin Crust,Cheese Only,Extra Cheese,per serving,50,140,90,10,6,0,30,290,2,0,0,12
+Small,Small,Thin Crust,Cheese Only,Double Cheese,per serving,50,140,90,10,6,0,30,290,2,0,0,12
+Small,Small,Thin Crust,Cheese Only,Triple Cheese,per serving,62,180,110,12,8,0,40,360,3,1,0,15
+Small,Small,Thin Crust,Cheese With Toppings,Light Cheese,per serving,18,50,30,3.5,2,0,10,105,1,0,0,4
+Small,Small,Thin Crust,Cheese With Toppings,Regular Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+Small,Small,Thin Crust,Cheese With Toppings,Extra Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+Small,Small,Thin Crust,Cheese With Toppings,Double Cheese,per serving,50,140,90,10,6,0,30,290,2,0,0,12
+Small,Small,Thin Crust,Cheese With Toppings,Triple Cheese,per serving,62,180,110,12,8,0,40,360,3,1,0,15
+Small,Small,Thin Crust,1-Topping,White Processed Cheddar Cheese,per serving,14,45,30,3.5,2,0,10,280,1,0,0,2
+Small,Small,Thin Crust,1-Topping,Bacon Strip Crumble,per serving,11,45,25,3,1,0,10,190,1,0,0,4
+Small,Small,Thin Crust,1-Topping,Beef Crumble,per serving,18,50,45,5,2,0,15,135,0,0,0,2
+Small,Small,Thin Crust,1-Topping,Black Olives,per serving,11,15,10,1.5,0,0,0,0,0,0,0,0
+Small,Small,Thin Crust,1-Topping,Cheddar Cheese,per serving,7,30,20,2.5,1.5,0,5,50,0,0,0,2
+Small,Small,Thin Crust,1-Topping,Chicken,per serving,18,20,0,0,0,0,10,95,1,0,0,4
+Small,Small,Thin Crust,1-Topping,Feta Cheese,per serving,7,20,15,1.5,1,0,5,115,0,0,0,1
+Small,Small,Thin Crust,1-Topping,Green Peppers,per serving,11,0,0,0,0,0,0,0,0,0,0,0
+Small,Small,Thin Crust,1-Topping,Ham,per serving,16,15,0,0.5,0,0,10,200,0,0,0,3
+Small,Small,Thin Crust,1-Topping,Banana Peppers,per serving,11,0,0,0,0,0,0,160,0,0,0,0
+Small,Small,Thin Crust,1-Topping,Jalapeño Peppers,per serving,11,0,0,0,0,0,0,190,0,0,0,0
+Small,Small,Thin Crust,1-Topping,Mushrooms,per serving,18,0,0,0,0,0,0,0,1,0,0,1
+Small,Small,Thin Crust,1-Topping,Onions,per serving,11,0,0,0,0,0,0,0,1,0,0,0
+Small,Small,Thin Crust,1-Topping,Pepperoni,per serving,9,40,30,3.5,1.5,0,10,170,0,0,0,2
+Small,Small,Thin Crust,1-Topping,Extra-Large Pepperoni,per serving,9,45,35,4,1.5,0,10,160,0,0,0,2
+Small,Small,Thin Crust,1-Topping,Philly Steak,per serving,14,20,10,1,0,0,5,160,1,0,0,2
+Small,Small,Thin Crust,1-Topping,Pineapple,per serving,18,10,0,0,0,0,0,0,3,0,3,0
+Small,Small,Thin Crust,1-Topping,Provolone Cheese,per serving,7,25,15,1.5,1,0,5,35,0,0,0,2
+Small,Small,Thin Crust,1-Topping,Salami,per serving,20,50,30,3.5,1.5,0,10,240,2,0,0,3
+Small,Small,Thin Crust,1-Topping,Roasted Red Pepper,per serving,11,0,0,0,0,0,0,15,0,0,0,0
+Small,Small,Thin Crust,1-Topping,Sausage,per serving,18,50,40,4.5,1.5,0,15,25,1,0,0,3
+Small,Small,Thin Crust,1-Topping,Shredded Parmesan Asiago,per serving,7,25,15,2,1,0,5,60,1,0,0,2
+Small,Small,Thin Crust,1-Topping,Tomatoes,per serving,14,0,0,0,0,0,0,0,1,0,0,0
+Small,Small,Thin Crust,1-Topping,Donair Meat*,per serving,59,150,80,9,3.5,0,40,530,7,0,0,8
+Small,Small,Thin Crust,1-Topping,Green Olive*,per serving,11,10,10,1,0,0,0,170,0,0,0,0
+Small,Small,Hand Tossed,Crust,Hand Tossed,1/6 of pizza,45,120,15,2,0,0,0,125,21,1,1,4
+Small,Small,Hand Tossed,Sauce,Pizza Sauce,per serving,14,5,0,0,0,0,0,50,1,0,1,0
+Small,Small,Hand Tossed,Sauce,Alfredo Sauce,per serving,7,15,15,1.5,1,0,5,45,0,0,0,0
+Small,Small,Hand Tossed,Sauce,BBQ Sauce,per serving,7,15,0,0,0,0,0,90,3,0,2,0
+Small,Small,Hand Tossed,Sauce,Garlic Parmesan White Sauce,per serving,7,30,30,3,0.5,0,0,65,0,0,0,0
+Small,Small,Hand Tossed,Sauce,Hearty Marinara Sauce,per serving,14,10,0,0,0,0,0,90,1,0,1,0
+Small,Small,Hand Tossed,Sauce,Ranch,per serving,7,35,30,3.5,0.5,0,0,60,0,0,0,0
+Small,Small,Hand Tossed,Sauce,Donair Sauce*,per serving,14,20,0,0,0,0,0,10,5,0,4,0
+Small,Small,Hand Tossed,Cheese Only,Light Cheese,per serving,12,35,20,2.5,1.5,0,10,70,1,0,0,3
+Small,Small,Hand Tossed,Cheese Only,Regular Cheese,per serving,24,70,40,4.5,3,0,15,140,1,0,0,6
+Small,Small,Hand Tossed,Cheese Only,Extra Cheese,per serving,33,100,60,6,4,0,20,200,2,0,0,8
+Small,Small,Hand Tossed,Cheese Only,Double Cheese,per serving,33,100,60,6,4,0,20,200,2,0,0,8
+Small,Small,Hand Tossed,Cheese Only,Triple Cheese,per serving,41,120,70,8,5,0,25,240,2,0,0,10
+Small,Small,Hand Tossed,Cheese With Toppings,Light Cheese,per serving,12,35,20,2.5,1.5,0,10,70,1,0,0,3
+Small,Small,Hand Tossed,Cheese With Toppings,Regular Cheese,per serving,17,50,30,3,2,0,10,100,1,0,0,4
+Small,Small,Hand Tossed,Cheese With Toppings,Extra Cheese,per serving,24,70,40,4.5,3,0,15,140,1,0,0,6
+Small,Small,Hand Tossed,Cheese With Toppings,Double Cheese,per serving,33,100,60,6,4,0,20,200,2,0,0,8
+Small,Small,Hand Tossed,Cheese With Toppings,Triple Cheese,per serving,41,120,70,8,5,0,25,240,2,0,0,10
+Small,Small,Hand Tossed,1-Topping,White Processed Cheddar Cheese,per serving,9,30,20,2.5,1.5,0,10,190,1,0,0,2
+Small,Small,Hand Tossed,1-Topping,Bacon Strip Crumble,per serving,7,30,20,2,0.5,0,5,130,0,0,0,3
+Small,Small,Hand Tossed,1-Topping,Beef Crumble,per serving,12,35,30,3,1.5,0,10,90,0,0,0,2
+Small,Small,Hand Tossed,1-Topping,Black Olives,per serving,7,10,10,1,0,0,0,0,0,0,0,0
+Small,Small,Hand Tossed,1-Topping,Cheddar Cheese,per serving,4.5,20,15,1.5,1,0,5,35,0,0,0,1
+Small,Small,Hand Tossed,1-Topping,Chicken,per serving,12,15,0,0,0,0,5,65,1,0,0,2
+Small,Small,Hand Tossed,1-Topping,Feta Cheese,per serving,4.5,15,10,1,0.5,0,5,75,0,0,0,1
+Small,Small,Hand Tossed,1-Topping,Green Peppers,per serving,7,0,0,0,0,0,0,0,0,0,0,0
+Small,Small,Hand Tossed,1-Topping,Ham,per serving,10,10,0,0,0,0,5,135,0,0,0,2
+Small,Small,Hand Tossed,1-Topping,Banana Peppers,per serving,7,0,0,0,0,0,0,105,0,0,0,0
+Small,Small,Hand Tossed,1-Topping,Jalapeño Peppers,per serving,7,0,0,0,0,0,0,130,0,0,0,0
+Small,Small,Hand Tossed,1-Topping,Mushrooms,per serving,12,0,0,0,0,0,0,0,0,0,0,0
+Small,Small,Hand Tossed,1-Topping,Onions,per serving,7,0,0,0,0,0,0,0,1,0,0,0
+Small,Small,Hand Tossed,1-Topping,Pepperoni,per serving,6,25,20,2.5,1,0,5,110,0,0,0,1
+Small,Small,Hand Tossed,1-Topping,Extra-Large Pepperoni,per serving,6,30,25,3,1,0,5,105,0,0,0,1
+Small,Small,Hand Tossed,1-Topping,Philly Steak,per serving,9,15,5,1,0,0,5,110,0,0,0,1
+Small,Small,Hand Tossed,1-Topping,Pineapple,per serving,12,10,0,0,0,0,0,0,2,0,2,0
+Small,Small,Hand Tossed,1-Topping,Provolone Cheese,per serving,4.5,15,10,1,0.5,0,5,20,0,0,0,1
+Small,Small,Hand Tossed,1-Topping,Roasted Red Pepper,per serving,7,0,0,0,0,0,0,10,0,0,0,0
+Small,Small,Hand Tossed,1-Topping,Salami,per serving,13,35,20,2.5,1,0,5,160,1,0,0,2
+Small,Small,Hand Tossed,1-Topping,Sausage,per serving,12,35,25,3,1,0,10,15,1,0,0,2
+Small,Small,Hand Tossed,1-Topping,Shredded Parmesan Asiago,per serving,4.5,15,10,1,1,0,5,40,0,0,0,1
+Small,Small,Hand Tossed,1-Topping,Tomatoes,per serving,9,0,0,0,0,0,0,0,0,0,0,0
+Small,Small,Hand Tossed,1-Topping,Donair Meat*,per serving,39,100,50,6,2.5,0,25,360,5,0,0,5
+Small,Small,Hand Tossed,1-Topping,Green Olive*,per serving,7,5,5,0.5,0,0,0,115,0,0,0,0
+Medium,Medium,Crunchy Thin,Crust,Hand Tossed (Thin),1/4 of pizza,44,160,60,7,1.5,0,0,20,22,3,1,4
+Medium,Medium,Crunchy Thin,Sauce,Pizza Sauce,per serving,30,15,0,0,0,0,0,110,3,1,1,1
+Medium,Medium,Crunchy Thin,Sauce,Alfredo Sauce,per serving,21,50,45,5,3,0,15,130,1,0,0,1
+Medium,Medium,Crunchy Thin,Sauce,BBQ Sauce,per serving,21,40,0,0,0,0,0,270,8,0,7,0
+Medium,Medium,Crunchy Thin,Sauce,Garlic Parmesan White Sauce,per serving,21,90,90,10,1.5,0,5,200,1,0,1,1
+Medium,Medium,Crunchy Thin,Sauce,Hearty Marinara Sauce,per serving,30,15,0,0,0,0,0,190,3,1,2,1
+Medium,Medium,Crunchy Thin,Sauce,Ranch,per serving,21,100,90,10,1.5,0,5,180,1,0,1,0
+Medium,Medium,Crunchy Thin,Sauce,Donair Sauce*,per serving,30,50,5,0,0,0,0,20,10,0,9,1
+Medium,Medium,Crunchy Thin,Cheese Only,Light Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+Medium,Medium,Crunchy Thin,Cheese Only,Regular Cheese,per serving,53,150,90,10,7,0,35,310,3,1,0,13
+Medium,Medium,Crunchy Thin,Cheese Only,Extra Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+Medium,Medium,Crunchy Thin,Cheese Only,Double Cheese,per serving,53,150,90,10,7,0,35,310,3,1,0,13
+Medium,Medium,Crunchy Thin,Cheese Only,Triple Cheese,per serving,89,260,160,17,11,0.5,60,520,4,1,0,21
+Medium,Medium,Crunchy Thin,Cheese With Toppings,Light Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+Medium,Medium,Crunchy Thin,Cheese With Toppings,Regular Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+Medium,Medium,Crunchy Thin,Cheese With Toppings,Extra Cheese,per serving,53,150,90,10,7,0,35,310,3,1,0,13
+Medium,Medium,Crunchy Thin,Cheese With Toppings,Double Cheese,per serving,71,210,120,14,9,0,45,420,3,1,0,17
+Medium,Medium,Crunchy Thin,Cheese With Toppings,Triple Cheese,per serving,89,260,160,17,11,0.5,60,520,4,1,0,21
+Medium,Medium,Crunchy Thin,1-Topping,White Processed Cheddar Cheese,per serving,21,70,50,5,3.5,0,20,420,2,0,1,4
+Medium,Medium,Crunchy Thin,1-Topping,Bacon Strip Crumble,per serving,14,60,35,4,1.5,0,15,260,1,0,0,5
+Medium,Medium,Crunchy Thin,1-Topping,Beef Crumble,per serving,25,80,60,7,3,0,20,190,0,0,0,3
+Medium,Medium,Crunchy Thin,1-Topping,Black Olives,per serving,14,20,15,2,0,0,0,0,0,0,0,0
+Medium,Medium,Crunchy Thin,1-Topping,Cheddar Cheese,per serving,19,80,60,6,4,0,20,135,0,0,0,5
+Medium,Medium,Crunchy Thin,1-Topping,Chicken,per serving,25,30,5,0.5,0,0,10,130,1,0,0,5
+Medium,Medium,Crunchy Thin,1-Topping,Feta Cheese,per serving,11,30,20,2,1.5,0,10,170,0,0,0,2
+Medium,Medium,Crunchy Thin,1-Topping,Green Peppers,per serving,14,0,0,0,0,0,0,0,1,0,0,0
+Medium,Medium,Crunchy Thin,1-Topping,Ham,per serving,24,25,5,1,0,0,10,310,1,0,0,4
+Medium,Medium,Crunchy Thin,1-Topping,Banana Peppers,per serving,14,0,0,0,0,0,0,210,1,0,0,0
+Medium,Medium,Crunchy Thin,1-Topping,Jalapeño Peppers,per serving,14,0,0,0,0,0,0,260,1,0,0,0
+Medium,Medium,Crunchy Thin,1-Topping,Mushrooms,per serving,25,5,0,0,0,0,0,0,1,0,0,1
+Medium,Medium,Crunchy Thin,1-Topping,Onions,per serving,14,5,0,0,0,0,0,0,1,0,1,0
+Medium,Medium,Crunchy Thin,1-Topping,Pepperoni,per serving,13,60,45,5,2,0,15,250,1,0,0,3
+Medium,Medium,Crunchy Thin,1-Topping,Extra-Large Pepperoni,per serving,14,70,60,6,2.5,0,15,240,0,0,0,3
+Medium,Medium,Crunchy Thin,1-Topping,Philly Steak,per serving,18,25,15,1.5,0.5,0,10,200,1,0,0,3
+Medium,Medium,Crunchy Thin,1-Topping,Pineapple,per serving,25,15,0,0,0,0,0,0,4,0,4,0
+Medium,Medium,Crunchy Thin,1-Topping,Provolone Cheese,per serving,14,45,30,3,2,0,10,65,1,0,0,4
+Medium,Medium,Crunchy Thin,1-Topping,Roasted Red Pepper,per serving,14,5,0,0,0,0,0,20,1,0,0,0
+Medium,Medium,Crunchy Thin,1-Topping,Salami,per serving,30,80,50,5,2.5,0,15,360,2,0,0,5
+Medium,Medium,Crunchy Thin,1-Topping,Sausage,per serving,25,70,50,6,2,0,20,35,1,0,0,4
+Medium,Medium,Crunchy Thin,1-Topping,Shredded Parmesan Asiago,per serving,11,40,25,2.5,2,0,10,90,1,0,0,3
+Medium,Medium,Crunchy Thin,1-Topping,Tomatoes,per serving,23,0,0,0,0,0,0,0,1,0,1,0
+Medium,Medium,Crunchy Thin,1-Topping,Donair Meat*,per serving,89,230,120,13,5,0,55,800,11,1,1,12
+Medium,Medium,Crunchy Thin,1-Topping,Green Olive*,per serving,14,15,10,1,0,0,0,230,1,0,0,0
+Medium,Medium,Hand Tossed,Crust,Hand Tossed,1/8 of pizza,42,110,15,1.5,0,0,0,115,20,1,1,3
+Medium,Medium,Hand Tossed,Sauce,Pizza Sauce,per serving,15,10,0,0,0,0,0,55,1,0,1,0
+Medium,Medium,Hand Tossed,Sauce,Alfredo Sauce,per serving,11,25,20,2.5,1.5,0,5,65,1,0,0,1
+Medium,Medium,Hand Tossed,Sauce,BBQ Sauce,per serving,11,20,0,0,0,0,0,135,4,0,4,0
+Medium,Medium,Hand Tossed,Sauce,Garlic Parmesan White Sauce,per serving,11,45,45,5,1,0,5,100,1,0,0,0
+Medium,Medium,Hand Tossed,Sauce,Hearty Marinara Sauce,per serving,15,10,0,0,0,0,0,95,2,0,1,0
+Medium,Medium,Hand Tossed,Sauce,Ranch,per serving,11,50,45,5,1,0,0,90,0,0,0,0
+Medium,Medium,Hand Tossed,Sauce,Donair Sauce*,per serving,15,25,0,0,0,0,0,10,5,0,4,0
+Medium,Medium,Hand Tossed,Cheese Only,Light Cheese,per serving,12,35,20,2.5,1.5,0,10,75,1,0,0,3
+Medium,Medium,Hand Tossed,Cheese Only,Regular Cheese,per serving,27,80,45,5,3.5,0,15,160,1,0,0,6
+Medium,Medium,Hand Tossed,Cheese Only,Extra Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+Medium,Medium,Hand Tossed,Cheese Only,Double Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+Medium,Medium,Hand Tossed,Cheese Only,Triple Cheese,per serving,44,130,80,9,6,0,30,260,2,0,0,11
+Medium,Medium,Hand Tossed,Cheese With Toppings,Light Cheese,per serving,12,35,20,2.5,1.5,0,10,75,1,0,0,3
+Medium,Medium,Hand Tossed,Cheese With Toppings,Regular Cheese,per serving,18,50,30,3.5,2,0,10,105,1,0,0,4
+Medium,Medium,Hand Tossed,Cheese With Toppings,Extra Cheese,per serving,27,80,45,5,3.5,0,15,160,1,0,0,6
+Medium,Medium,Hand Tossed,Cheese With Toppings,Double Cheese,per serving,35,100,60,7,4.5,0,25,210,2,0,0,9
+Medium,Medium,Hand Tossed,Cheese With Toppings,Triple Cheese,per serving,44,130,80,9,6,0,30,260,2,0,0,11
+Medium,Medium,Hand Tossed,1-Topping,White Processed Cheddar Cheese,per serving,11,35,25,2.5,1.5,0,10,210,1,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Bacon Strip Crumble,per serving,7,30,20,2,0.5,0,5,130,0,0,0,3
+Medium,Medium,Hand Tossed,1-Topping,Beef Crumble,per serving,12,40,30,3.5,1.5,0,10,95,0,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Black Olives,per serving,7,10,10,1,0,0,0,0,0,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Cheddar Cheese,per serving,7,30,20,2.5,1.5,0,5,50,0,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Chicken,per serving,12,15,0,0,0,0,5,65,1,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Feta Cheese,per serving,5,15,10,1,0.5,0,5,85,0,0,0,1
+Medium,Medium,Hand Tossed,1-Topping,Green Peppers,per serving,7,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Ham,per serving,12,10,0,0,0,0,5,150,0,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Banana Peppers,per serving,7,0,0,0,0,0,0,105,0,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Jalapeño Peppers,per serving,7,0,0,0,0,0,0,130,0,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Mushrooms,per serving,12,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Onions,per serving,7,0,0,0,0,0,0,0,1,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Pepperoni,per serving,7,30,25,2.5,1,0,5,125,0,0,0,1
+Medium,Medium,Hand Tossed,1-Topping,Extra-Large Pepperoni,per serving,7,35,30,3,1,0,5,120,0,0,0,1
+Medium,Medium,Hand Tossed,1-Topping,Philly Steak,per serving,9,15,5,0.5,0,0,5,100,0,0,0,1
+Medium,Medium,Hand Tossed,1-Topping,Pineapple,per serving,12,10,0,0,0,0,0,0,2,0,2,0
+Medium,Medium,Hand Tossed,1-Topping,Provolone Cheese,per serving,7,25,15,1.5,1,0,5,35,0,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Roasted Red Pepper,per serving,7,0,0,0,0,0,0,10,0,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Salami,per serving,15,40,25,2.5,1.5,0,10,180,1,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Sausage,per serving,12,35,25,3,1,0,10,15,1,0,0,2
+Medium,Medium,Hand Tossed,1-Topping,Shredded Parmesan Asiago,per serving,5,20,10,1.5,1,0,5,45,0,0,0,1
+Medium,Medium,Hand Tossed,1-Topping,Tomatoes,per serving,11,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Hand Tossed,1-Topping,Donair Meat*,per serving,44,110,60,7,2.5,0,30,400,6,0,0,6
+Medium,Medium,Hand Tossed,1-Topping,Green Olive*,per serving,7,5,5,0.5,0,0,0,115,0,0,0,0
+Medium,Medium,Pan,Crust,Pan,1/8 of pizza,63,190,70,8,3.5,0,0,150,26,1,1,5
+Medium,Medium,Pan,Sauce,Pizza Sauce,per serving,11,5,0,0,0,0,0,40,1,0,1,0
+Medium,Medium,Pan,Sauce,Alfredo Sauce,per serving,11,25,20,2.5,1.5,0,5,65,1,0,0,1
+Medium,Medium,Pan,Sauce,BBQ Sauce,per serving,11,20,0,0,0,0,0,135,4,0,4,0
+Medium,Medium,Pan,Sauce,Garlic Parmesan White Sauce,per serving,11,45,45,5,1,0,5,100,1,0,0,0
+Medium,Medium,Pan,Sauce,Hearty Marinara Sauce,per serving,15,10,0,0,0,0,0,95,2,0,1,0
+Medium,Medium,Pan,Sauce,Ranch,per serving,11,50,45,5,1,0,0,90,0,0,0,0
+Medium,Medium,Pan,Sauce,Donair Sauce*,per serving,15,25,0,0,0,0,0,10,5,0,4,0
+Medium,Medium,Pan,Cheese Only,Light Cheese,per serving,22,70,45,5,3,0,15,110,1,0,0,6
+Medium,Medium,Pan,Cheese Only,Regular Cheese,per serving,30,90,60,6,4,0,20,160,2,0,0,7
+Medium,Medium,Pan,Cheese Only,Extra Cheese,per serving,35,110,70,7,5,0,25,190,2,0,0,9
+Medium,Medium,Pan,Cheese Only,Double Cheese,per serving,35,110,70,7,5,0,25,190,2,0,0,9
+Medium,Medium,Pan,Cheese Only,Triple Cheese,per serving,41,120,80,8,5,0,30,220,2,1,0,10
+Medium,Medium,Pan,Cheese With Toppings,Light Cheese,per serving,22,70,45,5,3,0,15,110,1,0,0,6
+Medium,Medium,Pan,Cheese With Toppings,Regular Cheese,per serving,25,80,50,5,3.5,0,20,130,1,0,0,6
+Medium,Medium,Pan,Cheese With Toppings,Extra Cheese,per serving,30,90,60,6,4,0,20,160,2,0,0,7
+Medium,Medium,Pan,Cheese With Toppings,Double Cheese,per serving,35,110,70,7,5,0,25,190,2,0,0,9
+Medium,Medium,Pan,Cheese With Toppings,Triple Cheese,per serving,41,120,80,8,5,0,30,220,2,1,0,10
+Medium,Medium,Pan,1-Topping,White Processed Cheddar Cheese,per serving,11,35,25,2.5,1.5,0,10,210,1,0,0,2
+Medium,Medium,Pan,1-Topping,Bacon Strip Crumble,per serving,7,30,20,2,0.5,0,5,130,0,0,0,3
+Medium,Medium,Pan,1-Topping,Beef Crumble,per serving,12,40,30,3.5,1.5,0,10,95,0,0,0,2
+Medium,Medium,Pan,1-Topping,Black Olives,per serving,7,10,10,1,0,0,0,0,0,0,0,0
+Medium,Medium,Pan,1-Topping,Cheddar Cheese,per serving,7,30,20,2.5,1.5,0,5,50,0,0,0,2
+Medium,Medium,Pan,1-Topping,Chicken,per serving,12,15,0,0,0,0,5,65,1,0,0,2
+Medium,Medium,Pan,1-Topping,Feta Cheese,per serving,5,15,10,1,0.5,0,5,85,0,0,0,1
+Medium,Medium,Pan,1-Topping,Green Peppers,per serving,7,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Pan,1-Topping,Ham,per serving,12,10,0,0,0,0,5,150,0,0,0,2
+Medium,Medium,Pan,1-Topping,Banana Peppers,per serving,7,0,0,0,0,0,0,105,0,0,0,0
+Medium,Medium,Pan,1-Topping,Jalapeño Peppers,per serving,7,0,0,0,0,0,0,130,0,0,0,0
+Medium,Medium,Pan,1-Topping,Mushrooms,per serving,12,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Pan,1-Topping,Onions,per serving,7,0,0,0,0,0,0,0,1,0,0,0
+Medium,Medium,Pan,1-Topping,Pepperoni,per serving,7,30,25,2.5,1,0,5,125,0,0,0,1
+Medium,Medium,Pan,1-Topping,Extra-Large Pepperoni,per serving,7,35,30,3,1,0,5,120,0,0,0,1
+Medium,Medium,Pan,1-Topping,Philly Steak,per serving,9,15,5,0.5,0,0,5,100,0,0,0,1
+Medium,Medium,Pan,1-Topping,Pineapple,per serving,12,10,0,0,0,0,0,0,2,0,2,0
+Medium,Medium,Pan,1-Topping,Provolone Cheese,per serving,7,25,15,1.5,1,0,5,35,0,0,0,2
+Medium,Medium,Pan,1-Topping,Roasted Red Pepper,per serving,7,0,0,0,0,0,0,10,0,0,0,0
+Medium,Medium,Pan,1-Topping,Salami,per serving,15,40,25,2.5,1.5,0,10,180,1,0,0,2
+Medium,Medium,Pan,1-Topping,Sausage,per serving,12,35,25,3,1,0,10,15,1,0,0,2
+Medium,Medium,Pan,1-Topping,Shredded Parmesan Asiago,per serving,5,20,10,1.5,1,0,5,45,0,0,0,1
+Medium,Medium,Pan,1-Topping,Tomatoes,per serving,11,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Pan,1-Topping,Donair Meat*,per serving,44,110,60,7,2.5,0,30,400,6,0,0,6
+Medium,Medium,Pan,1-Topping,Green Olive*,per serving,7,5,5,0.5,0,0,0,115,0,0,0,0
+Medium,Medium,New York Style,Crust,New York Style,1/6 of pizza,45,120,15,2,0,0,0,125,21,1,1,4
+Medium,Medium,New York Style,Sauce,Pizza Sauce,per serving,20,10,0,0,0,0,0,70,2,1,1,0
+Medium,Medium,New York Style,Sauce,Alfredo Sauce,per serving,14,30,25,2.5,1.5,0,10,90,1,0,0,1
+Medium,Medium,New York Style,Sauce,BBQ Sauce,per serving,12,20,0,0,0,0,0,150,5,0,4,0
+Medium,Medium,New York Style,Sauce,Garlic Parmesan White Sauce,per serving,14,60,60,7,1,0,5,125,1,0,0,0
+Medium,Medium,New York Style,Sauce,Hearty Marinara Sauce,per serving,20,10,0,0,0,0,0,125,2,0,1,0
+Medium,Medium,New York Style,Sauce,Ranch,per serving,14,70,70,7,1,0,5,140,1,0,0,0
+Medium,Medium,New York Style,Sauce,Donair Sauce*,per serving,20,30,0,0,0,0,0,15,7,0,6,0
+Medium,Medium,New York Style,Cheese Only,Light Cheese,per serving,17,50,30,3.5,2,0,10,110,0,0,0,4
+Medium,Medium,New York Style,Cheese Only,Regular Cheese,per serving,35,110,70,7,5,0,25,240,1,0,0,9
+Medium,Medium,New York Style,Cheese Only,Extra Cheese,per serving,47,140,90,10,6,0,30,310,1,0,0,12
+Medium,Medium,New York Style,Cheese Only,Double Cheese,per serving,47,140,90,10,6,0,30,310,1,0,0,12
+Medium,Medium,New York Style,Cheese Only,Triple Cheese,per serving,59,180,110,12,8,0,40,390,2,0,0,15
+Medium,Medium,New York Style,Cheese With Toppings,Light Cheese,per serving,17,50,30,3.5,2,0,10,110,0,0,0,4
+Medium,Medium,New York Style,Cheese With Toppings,Regular Cheese,per serving,24,70,45,5,3,0,15,160,1,0,0,6
+Medium,Medium,New York Style,Cheese With Toppings,Extra Cheese,per serving,35,110,70,7,5,0,25,240,1,0,0,9
+Medium,Medium,New York Style,Cheese With Toppings,Double Cheese,per serving,47,140,90,10,6,0,30,310,1,0,0,12
+Medium,Medium,New York Style,Cheese With Toppings,Triple Cheese,per serving,59,180,110,12,8,0,40,390,2,0,0,15
+Medium,Medium,New York Style,1-Topping,Bacon Strip Crumble,per serving,9,40,25,2.5,1,0,10,170,1,0,0,3
+Medium,Medium,New York Style,1-Topping,Banana Peppers,per serving,9,0,0,0,0,0,0,140,0,0,0,0
+Medium,Medium,New York Style,1-Topping,Beef Crumble,per serving,17,50,45,5,2,0,15,180,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Black Olives,per serving,9,15,10,1.5,0,0,0,75,1,0,0,0
+Medium,Medium,New York Style,1-Topping,Cheddar Cheese,per serving,9,35,25,3,2,0,10,75,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Chicken,per serving,19,25,5,0.5,0,0,15,75,1,0,0,4
+Medium,Medium,New York Style,1-Topping,Feta Cheese,per serving,8,25,15,1.5,1,0,5,115,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Green Peppers,per serving,9,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,New York Style,1-Topping,Ham,per serving,16,15,5,0.5,0,0,5,170,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Jalapeno Peppers,per serving,9,0,0,0,0,0,0,150,0,0,0,0
+Medium,Medium,New York Style,1-Topping,Mushrooms,per serving,17,5,0,0,0,0,0,0,1,0,0,1
+Medium,Medium,New York Style,1-Topping,Onions,per serving,9,5,0,0,0,0,0,0,1,0,0,0
+Medium,Medium,New York Style,1-Topping,Pepperoni,per serving,9,40,30,3.5,1.5,0,10,170,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Extra-Large Pepperoni,per serving,11,50,45,4.5,2,0,10,180,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Philly Steak,per serving,12,20,10,1,0,0,5,135,1,0,0,2
+Medium,Medium,New York Style,1-Topping,Pineapple,per serving,17,10,0,0,0,0,0,0,3,0,3,0
+Medium,Medium,New York Style,1-Topping,Provolone Cheese,per serving,9,30,20,2.5,1.5,0,10,45,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Roasted Red Pepper,per serving,9,5,0,0,0,0,0,0,1,0,0,0
+Medium,Medium,New York Style,1-Topping,Salami,per serving,22,60,40,4.5,2,0,15,260,1,0,0,3
+Medium,Medium,New York Style,1-Topping,Sausage,per serving,17,50,35,4,1.5,0,10,220,1,0,0,2
+Medium,Medium,New York Style,1-Topping,Shredded Parmesan Asiago,per serving,7,30,20,2,1.5,0,5,110,0,0,0,2
+Medium,Medium,New York Style,1-Topping,Spinach,per serving,4.5,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,New York Style,1-Topping,Tomatoes,per serving,17,5,0,0,0,0,0,0,1,0,0,0
+Medium,Medium,New York Style,1-Topping,White Processed Cheddar Cheese,per serving,14,50,35,4,2.5,0,15,200,1,0,0,3
+Medium,Medium,New York Style,1-Topping,Donair Meat*,per serving,59,150,90,11,4,0.5,30,530,7,0,0,7
+Medium,Medium,New York Style,1-Topping,Green Olives*,per serving,9,10,5,0.5,0,0,0,150,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,Crust,Parmesan Stuffed Crust,1/8 of pizza,75,240,100,11,6,0,10,260,26,1,1,9
+Medium,Medium,Parmesan Stuffed Crust,Sauce,Pizza Sauce,per serving,15,10,0,0,0,0,0,55,1,0,1,0
+Medium,Medium,Parmesan Stuffed Crust,Sauce,Alfredo Sauce,per serving,11,25,20,2,1.5,0,5,65,1,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,Sauce,BBQ Sauce,per serving,9,15,0,0,0,0,0,115,3,0,3,0
+Medium,Medium,Parmesan Stuffed Crust,Sauce,Garlic Parmesan White Sauce,per serving,11,50,45,5,1,0,5,95,1,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,Sauce,Hearty Marinara Sauce,per serving,15,10,0,0,0,0,0,95,2,0,1,0
+Medium,Medium,Parmesan Stuffed Crust,Sauce,Ranch,per serving,11,50,50,6,1,0,0,105,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,Sauce,Donair Sauce*,per serving,15,25,0,0,0,0,0,10,5,0,4,0
+Medium,Medium,Parmesan Stuffed Crust,Cheese Only,Light Cheese,per serving,12,35,25,2.5,1.5,0,10,85,0,0,0,3
+Medium,Medium,Parmesan Stuffed Crust,Cheese Only,Regular Cheese,per serving,27,80,50,5,3.5,0,20,180,1,0,0,7
+Medium,Medium,Parmesan Stuffed Crust,Cheese Only,Extra Cheese,per serving,35,110,70,7,5,0,25,240,1,0,0,9
+Medium,Medium,Parmesan Stuffed Crust,Cheese Only,Double Cheese,per serving,35,110,70,7,5,0,25,240,1,0,0,9
+Medium,Medium,Parmesan Stuffed Crust,Cheese Only,Triple Cheese,per serving,44,130,80,9,6,0,30,300,1,0,0,11
+Medium,Medium,Parmesan Stuffed Crust,Cheese With Toppings,Light Cheese,per serving,12,35,25,2.5,1.5,0,10,85,0,0,0,3
+Medium,Medium,Parmesan Stuffed Crust,Cheese With Toppings,Regular Cheese,per serving,18,50,35,3.5,2.5,0,10,120,1,0,0,4
+Medium,Medium,Parmesan Stuffed Crust,Cheese With Toppings,Extra Cheese,per serving,27,80,50,5,3.5,0,20,180,1,0,0,7
+Medium,Medium,Parmesan Stuffed Crust,Cheese With Toppings,Double Cheese,per serving,35,110,70,7,5,0,25,240,1,0,0,9
+Medium,Medium,Parmesan Stuffed Crust,Cheese With Toppings,Triple Cheese,per serving,44,130,80,9,6,0,30,300,1,0,0,11
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Bacon Strip Crumble,per serving,9,40,25,2.5,1,0,10,170,1,0,0,3
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Banana Peppers,per serving,7,0,0,0,0,0,0,105,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Beef Crumble,per serving,12,40,30,3.5,1.5,0,10,135,0,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Black Olives,per serving,7,10,10,1,0,0,0,60,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Cheddar Cheese,per serving,7,25,20,2,1.5,0,5,60,0,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Chicken,per serving,14,15,5,0,0,0,10,55,0,0,0,3
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Feta Cheese,per serving,6,15,10,1.5,1,0,5,85,0,0,0,1
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Green Peppers,per serving,7,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Ham,per serving,12,10,5,0,0,0,5,130,0,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Jalapeno Peppers,per serving,7,0,0,0,0,0,0,110,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Mushrooms,per serving,12,5,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Onions,per serving,7,5,0,0,0,0,0,0,1,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Pepperoni,per serving,7,30,25,2.5,1,0,5,125,0,0,0,1
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Extra-Large Pepperoni,per serving,8,40,30,3.5,1.5,0,5,140,0,0,0,1
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Philly Steak,per serving,9,15,5,0.5,0,0,5,100,0,0,0,1
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Pineapple,per serving,12,10,0,0,0,0,0,0,2,0,2,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Provolone Cheese,per serving,7,25,15,1.5,1,0,5,35,0,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Roasted Red Pepper,per serving,7,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Salami,per serving,17,45,30,3.5,1.5,0,10,190,1,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Sausage,per serving,12,35,25,3,1,0,10,170,1,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Shredded Parmesan Asiago,per serving,5,20,15,1.5,1,0,5,80,0,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Spinach,per serving,3.5,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Tomatoes,per serving,12,0,0,0,0,0,0,0,0,0,0,0
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,White Processed Cheddar Cheese,per serving,11,35,25,3,2,0,10,150,1,0,0,2
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Donair Meat*,per serving,44,120,70,8,3,0,25,400,5,0,0,5
+Medium,Medium,Parmesan Stuffed Crust,1-Topping,Green Olives*,per serving,7,5,5,0.5,0,0,0,115,0,0,0,0
+Large,Large,Hand Tossed,Crust,Hand Tossed,1/8 of pizza,68,170,20,2,0,0,0,170,31,1,1,5
+Large,Large,Crunchy Thin,Crust,Crunchy Thin,1/8 of pizza,30,110,40,4.5,1,0,0,15,15,2,1,3
+Large,Large,Hand Tossed / Crunchy Thin,Sauce,Pizza Sauce,per serving,21,10,0,0,0,0,0,75,2,1,1,0
+Large,Large,Hand Tossed / Crunchy Thin,Sauce,Alfredo Sauce,per serving,14,35,30,3,2,0,10,85,1,0,0,1
+Large,Large,Hand Tossed / Crunchy Thin,Sauce,BBQ Sauce,per serving,14,25,0,0,0,0,0,180,6,0,5,0
+Large,Large,Hand Tossed / Crunchy Thin,Sauce,Garlic Parmesan White Sauce,per serving,14,60,60,6,1,0,5,135,1,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,Sauce,Hearty Marinara Sauce,per serving,21,10,0,0,0,0,0,135,2,0,1,0
+Large,Large,Hand Tossed / Crunchy Thin,Sauce,Ranch,per serving,14,70,60,7,1,0,5,120,1,0,1,0
+Large,Large,Hand Tossed / Crunchy Thin,Sauce,Donair Sauce*,per serving,21,35,0,0,0,0,0,15,7,0,6,0
+Large,Large,Hand Tossed / Crunchy Thin,Cheese Only,Light Cheese,per serving,18,50,30,3.5,2,0,10,105,1,0,0,4
+Large,Large,Hand Tossed / Crunchy Thin,Cheese Only,Regular Cheese,per serving,37,110,70,7,4.5,0,25,220,2,0,0,9
+Large,Large,Hand Tossed / Crunchy Thin,Cheese Only,Extra Cheese,per serving,50,140,90,10,6,0,30,290,2,1,0,12
+Large,Large,Hand Tossed / Crunchy Thin,Cheese Only,Double Cheese,per serving,50,140,90,10,6,0,30,290,2,1,0,12
+Large,Large,Hand Tossed / Crunchy Thin,Cheese Only,Triple Cheese,per serving,62,180,110,12,8,0,40,370,3,1,0,15
+Large,Large,Hand Tossed / Crunchy Thin,Cheese With Toppings,Light Cheese,per serving,18,50,30,3.5,2,0,10,105,1,0,0,4
+Large,Large,Hand Tossed / Crunchy Thin,Cheese With Toppings,Regular Cheese,per serving,25,70,45,5,3,0,15,150,1,0,0,6
+Large,Large,Hand Tossed / Crunchy Thin,Cheese With Toppings,Extra Cheese,per serving,37,110,70,7,4.5,0,25,220,2,0,0,9
+Large,Large,Hand Tossed / Crunchy Thin,Cheese With Toppings,Double Cheese,per serving,50,140,90,10,6,0,30,290,2,1,0,12
+Large,Large,Hand Tossed / Crunchy Thin,Cheese With Toppings,Triple Cheese,per serving,62,180,110,12,8,0,40,370,3,1,0,15
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,White Processed Cheddar Cheese,per serving,12,40,30,3,2,0,10,250,1,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Bacon Strip Crumble,per serving,11,45,25,3,1,0,10,190,1,0,0,4
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Beef Crumble,per serving,18,50,45,5,2,0,15,135,0,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Black Olives,per serving,11,15,10,1.5,0,0,0,0,0,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Cheddar Cheese,per serving,9,35,25,3,2,0,10,65,0,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Chicken,per serving,18,20,0,0,0,0,10,95,1,0,0,4
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Feta Cheese,per serving,7,20,15,1.5,1,0,5,115,0,0,0,1
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Green Peppers,per serving,11,0,0,0,0,0,0,0,0,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Ham,per serving,16,15,0,0.5,0,0,10,200,0,0,0,3
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Banana Peppers,per serving,11,0,0,0,0,0,0,160,0,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Jalapeño Peppers,per serving,11,0,0,0,0,0,0,190,0,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Mushrooms,per serving,18,0,0,0,0,0,0,0,1,0,0,1
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Onions,per serving,11,0,0,0,0,0,0,0,1,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Pepperoni,per serving,9,40,30,3.5,1.5,0,10,170,0,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Extra-Large Pepperoni,per serving,9,45,35,4,1.5,0,10,160,0,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Philly Steak,per serving,12,20,10,1,0,0,5,140,1,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Pineapple,per serving,18,10,0,0,0,0,0,0,3,0,3,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Provolone Cheese,per serving,9,30,20,2,1.5,0,5,40,1,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Roasted Red Pepper,per serving,11,0,0,0,0,0,0,15,0,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Salami,per serving,20,50,30,3.5,1.5,0,10,240,2,0,0,3
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Sausage,per serving,18,50,40,4.5,1.5,0,15,25,1,0,0,3
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Shredded Parmesan Asiago,per serving,7,25,15,2,1,0,5,60,1,0,0,2
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Tomatoes,per serving,13,0,0,0,0,0,0,0,1,0,0,0
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Donair Meat*,per serving,59,150,80,9,3.5,0,40,530,7,0,0,8
+Large,Large,Hand Tossed / Crunchy Thin,1-Topping,Green Olive*,per serving,11,10,10,1,0,0,0,170,0,0,0,0
+Large,Large,New York Style,Crust,New York Style,1/6 of pizza,56,150,20,2.5,0,0,0,150,27,1,1,5
+Large,Large,New York Style,Sauce,Pizza Sauce,per serving,28,15,0,0,0,0,0,100,3,1,1,1
+Large,Large,New York Style,Sauce,Alfredo Sauce,per serving,19,40,30,3.5,2,0,10,120,1,0,0,1
+Large,Large,New York Style,Sauce,BBQ Sauce,per serving,17,30,5,0,0,0,0,210,7,0,6,0
+Large,Large,New York Style,Sauce,Garlic Parmesan White Sauce,per serving,19,90,80,9,1.5,0,5,170,1,0,0,1
+Large,Large,New York Style,Sauce,Hearty Marinara Sauce,per serving,28,15,0,0,0,0,0,180,3,1,2,1
+Large,Large,New York Style,Sauce,Ranch,per serving,19,90,90,10,1.5,0,5,180,1,0,1,0
+Large,Large,New York Style,Sauce,Donair Sauce*,per serving,28,45,5,0,0,0,0,20,10,0,8,1
+Large,Large,New York Style,Cheese Only,Light Cheese,per serving,24,70,45,5,3,0,15,160,1,0,0,6
+Large,Large,New York Style,Cheese Only,Regular Cheese,per serving,50,150,90,10,7,0,35,330,1,0,0,13
+Large,Large,New York Style,Cheese Only,Extra Cheese,per serving,66,200,120,14,9,0,45,440,2,0,0,17
+Large,Large,New York Style,Cheese Only,Double Cheese,per serving,66,200,120,14,9,0,45,440,2,0,0,17
+Large,Large,New York Style,Cheese Only,Triple Cheese,per serving,83,250,150,17,11,0,55,550,2,0,0,21
+Large,Large,New York Style,Cheese With Toppings,Light Cheese,per serving,24,70,45,5,3,0,15,160,1,0,0,6
+Large,Large,New York Style,Cheese With Toppings,Regular Cheese,per serving,33,100,60,7,4.5,0,25,220,1,0,0,8
+Large,Large,New York Style,Cheese With Toppings,Extra Cheese,per serving,50,150,90,10,7,0,35,330,1,0,0,13
+Large,Large,New York Style,Cheese With Toppings,Double Cheese,per serving,66,200,120,14,9,0,45,440,2,0,0,17
+Large,Large,New York Style,Cheese With Toppings,Triple Cheese,per serving,83,250,150,17,11,0,55,550,2,0,0,21
+Large,Large,New York Style,1-Topping,Bacon Strip Crumble,per serving,14,60,35,4,1.5,0,15,260,1,0,0,5
+Large,Large,New York Style,1-Topping,Banana Peppers,per serving,14,5,0,0,0,0,0,210,1,0,0,0
+Large,Large,New York Style,1-Topping,Beef Crumble,per serving,24,80,60,7,3,0,20,260,0,0,0,3
+Large,Large,New York Style,1-Topping,Black Olives,per serving,14,25,20,2,0,0,0,115,1,0,0,0
+Large,Large,New York Style,1-Topping,Cheddar Cheese,per serving,12,45,35,3.5,2.5,0,10,95,0,0,0,3
+Large,Large,New York Style,1-Topping,Chicken,per serving,26,30,10,1,0,0,20,100,1,0,0,5
+Large,Large,New York Style,1-Topping,Feta Cheese,per serving,11,30,20,2,1.5,0,5,150,0,0,0,2
+Large,Large,New York Style,1-Topping,Green Peppers,per serving,14,5,0,0,0,0,0,0,1,0,0,0
+Large,Large,New York Style,1-Topping,Ham,per serving,21,20,5,0.5,0,0,10,230,1,0,0,3
+Large,Large,New York Style,1-Topping,Jalapeno Peppers,per serving,14,0,0,0,0,0,0,220,0,0,0,0
+Large,Large,New York Style,1-Topping,Mushrooms,per serving,24,5,0,0,0,0,0,0,1,0,0,1
+Large,Large,New York Style,1-Topping,Onions,per serving,14,5,0,0,0,0,0,0,1,0,1,0
+Large,Large,New York Style,1-Topping,Pepperoni,per serving,12,50,40,4.5,2,0,10,220,0,0,0,3
+Large,Large,New York Style,1-Topping,Extra-Large Pepperoni,per serving,15,70,60,7,2.5,0,15,250,0,0,0,3
+Large,Large,New York Style,1-Topping,Philly Steak,per serving,17,25,10,1.5,0.5,0,10,190,1,0,0,2
+Large,Large,New York Style,1-Topping,Pineapple,per serving,24,15,0,0,0,0,0,0,4,0,4,0
+Large,Large,New York Style,1-Topping,Provolone Cheese,per serving,12,40,25,3,2,0,10,55,0,0,0,3
+Large,Large,New York Style,1-Topping,Roasted Red Pepper,per serving,14,5,0,0,0,0,0,0,1,0,0,0
+Large,Large,New York Style,1-Topping,Salami,per serving,31,80,60,6,2.5,0,20,350,2,0,0,4
+Large,Large,New York Style,1-Topping,Sausage,per serving,24,70,50,6,2,0,15,320,1,0,0,3
+Large,Large,New York Style,1-Topping,Shredded Parmesan Asiago,per serving,9,40,25,3,2,0,10,150,0,0,0,3
+Large,Large,New York Style,1-Topping,Spinach,per serving,7,0,0,0,0,0,0,5,0,0,0,0
+Large,Large,New York Style,1-Topping,Tomatoes,per serving,19,5,0,0,0,0,0,0,1,0,0,0
+Large,Large,New York Style,1-Topping,White Processed Cheddar Cheese,per serving,17,60,40,4.5,3,0,15,240,1,0,0,3
+Large,Large,New York Style,1-Topping,Donair Meat*,per serving,79,210,130,14,5,1,40,710,9,0,0,10
+Large,Large,New York Style,1-Topping,Green Olives*,per serving,14,15,10,1,0,0,0,230,1,0,0,0
+XLarge,XLarge,Hand Tossed,Crust,Hand Tossed,1/10 of pizza,64,170,25,2.5,0,0,0,180,31,1,1,5
+XLarge,XLarge,Hand Tossed,Sauce,Pizza Sauce,per serving,28,15,0,0,0,0,0,100,3,1,1,1
+XLarge,XLarge,Hand Tossed,Sauce,Alfredo Sauce,per serving,14,35,30,3,2,0,10,85,1,0,0,1
+XLarge,XLarge,Hand Tossed,Sauce,BBQ Sauce,per serving,14,25,0,0,0,0,0,180,6,0,5,0
+XLarge,XLarge,Hand Tossed,Sauce,Garlic Parmesan White Sauce,per serving,14,60,60,6,1,0,5,135,1,0,0,0
+XLarge,XLarge,Hand Tossed,Sauce,Hearty Marinara Sauce,per serving,23,10,0,0,0,0,0,140,2,0,2,0
+XLarge,XLarge,Hand Tossed,Sauce,Ranch,per serving,14,70,60,7,1,0,5,120,1,0,1,0
+XLarge,XLarge,Hand Tossed,Sauce,Donair Sauce*,per serving,23,35,0,0,0,0,0,15,8,0,7,0
+XLarge,XLarge,Hand Tossed,Cheese Only,Light Cheese,per serving,18,50,30,3.5,2.5,0,10,110,1,0,0,4
+XLarge,XLarge,Hand Tossed,Cheese Only,Regular Cheese,per serving,38,110,70,7,5,0,25,230,2,0,0,9
+XLarge,XLarge,Hand Tossed,Cheese Only,Extra Cheese,per serving,51,150,90,10,6,0,35,300,2,1,0,12
+XLarge,XLarge,Hand Tossed,Cheese Only,Double Cheese,per serving,51,150,90,10,6,0,35,300,2,1,0,12
+XLarge,XLarge,Hand Tossed,Cheese Only,Triple Cheese,per serving,64,180,110,12,8,0,40,380,3,1,0,15
+XLarge,XLarge,Hand Tossed,Cheese With Toppings,Light Cheese,per serving,18,50,30,3.5,2.5,0,10,110,1,0,0,4
+XLarge,XLarge,Hand Tossed,Cheese With Toppings,Regular Cheese,per serving,26,70,45,5,3,0,15,150,1,0,0,6
+XLarge,XLarge,Hand Tossed,Cheese With Toppings,Extra Cheese,per serving,38,110,70,7,5,0,25,230,2,0,0,9
+XLarge,XLarge,Hand Tossed,Cheese With Toppings,Double Cheese,per serving,51,150,90,10,6,0,35,300,2,1,0,12
+XLarge,XLarge,Hand Tossed,Cheese With Toppings,Triple Cheese,per serving,64,180,110,12,8,0,40,380,3,1,0,15
+XLarge,XLarge,Hand Tossed,1-Topping,White Processed Cheddar Cheese,per serving,13,40,30,3,2,0,10,250,1,0,0,2
+XLarge,XLarge,Hand Tossed,1-Topping,Bacon Strip Crumble,per serving,13,50,30,3.5,1,0,10,230,1,0,0,5
+XLarge,XLarge,Hand Tossed,1-Topping,Beef Crumble,per serving,18,60,45,5,2,0,15,140,0,0,0,3
+XLarge,XLarge,Hand Tossed,1-Topping,Black Olives,per serving,11,15,15,1.5,0,0,0,0,0,0,0,0
+XLarge,XLarge,Hand Tossed,1-Topping,Cheddar Cheese,per serving,10,40,30,3.5,2,0,10,70,0,0,0,2
+XLarge,XLarge,Hand Tossed,1-Topping,Chicken,per serving,18,20,0,0,0,0,10,100,1,0,0,4
+XLarge,XLarge,Hand Tossed,1-Topping,Feta Cheese,per serving,7,20,15,1.5,1,0,5,115,0,0,0,1
+XLarge,XLarge,Hand Tossed,1-Topping,Green Peppers,per serving,11,0,0,0,0,0,0,0,1,0,0,0
+XLarge,XLarge,Hand Tossed,1-Topping,Ham,per serving,17,20,5,0.5,0,0,10,220,0,0,0,3
+XLarge,XLarge,Hand Tossed,1-Topping,Banana Peppers,per serving,11,0,0,0,0,0,0,170,0,0,0,0
+XLarge,XLarge,Hand Tossed,1-Topping,Jalapeño Peppers,per serving,11,0,0,0,0,0,0,200,0,0,0,0
+XLarge,XLarge,Hand Tossed,1-Topping,Mushrooms,per serving,18,0,0,0,0,0,0,0,1,0,0,1
+XLarge,XLarge,Hand Tossed,1-Topping,Onions,per serving,11,0,0,0,0,0,0,0,1,0,0,0
+XLarge,XLarge,Hand Tossed,1-Topping,Pepperoni,per serving,10,45,35,4,1.5,0,10,180,0,0,0,2
+XLarge,XLarge,Hand Tossed,1-Topping,Extra-Large Pepperoni,per serving,5,35,4,1.5,0,10,160,0,0,0,2,2
+XLarge,XLarge,Hand Tossed,1-Topping,Philly Steak,per serving,14,20,10,1,0,0,5,160,1,0,0,2
+XLarge,XLarge,Hand Tossed,1-Topping,Pineapple,per serving,18,15,0,0,0,0,0,0,3,0,3,0
+XLarge,XLarge,Hand Tossed,1-Topping,Provolone Cheese,per serving,10,30,20,2.5,1.5,0,10,45,1,0,0,2
+XLarge,XLarge,Hand Tossed,1-Topping,Roasted Red Pepper,per serving,11,0,0,0,0,0,0,15,0,0,0,0
+XLarge,XLarge,Hand Tossed,1-Topping,Salami,per serving,22,60,35,4,2,0,10,260,2,0,0,4
+XLarge,XLarge,Hand Tossed,1-Topping,Sausage,per serving,18,50,40,4.5,1.5,0,15,25,1,0,0,3
+XLarge,XLarge,Hand Tossed,1-Topping,Shredded Parmesan Asiago,per serving,7,25,15,2,1,0,5,60,1,0,0,2
+XLarge,XLarge,Hand Tossed,1-Topping,Tomatoes,per serving,15,0,0,0,0,0,0,0,1,0,0,0
+XLarge,XLarge,Hand Tossed,1-Topping,Donair Meat*,per serving,59,150,80,9,3.5,0,40,530,7,0,0,8
+XLarge,XLarge,Hand Tossed,1-Topping,Green Olive*,per serving,11,10,10,1,0,0,0,180,1,0,0,0
+XLarge,XLarge,New York Style,Crust,New York Style,1/6 of pizza,81,210,30,3.5,0,0,0,220,39,2,1,7
+XLarge,XLarge,New York Style,Sauce,Pizza Sauce,per serving,38,20,0,0,0,0,0,135,4,1,2,1
+XLarge,XLarge,New York Style,Sauce,Alfredo Sauce,per serving,24,50,40,4.5,3,0,15,150,1,0,0,1
+XLarge,XLarge,New York Style,Sauce,BBQ Sauce,per serving,21,40,5,0,0,0,0,280,8,0,7,0
+XLarge,XLarge,New York Style,Sauce,Garlic Parmesan White Sauce,per serving,24,110,100,11,2,0,5,210,2,0,0,1
+XLarge,XLarge,New York Style,Sauce,Hearty Marinara Sauce,per serving,38,20,0,0,0,0,0,240,4,1,3,1
+XLarge,XLarge,New York Style,Sauce,Ranch,per serving,24,120,110,12,2,0,5,230,1,0,1,0
+XLarge,XLarge,New York Style,Sauce,Donair Sauce*,per serving,38,60,5,0,0,0,0,30,13,0,11,1
+XLarge,XLarge,New York Style,Cheese Only,Light Cheese,per serving,31,90,60,6,4,0,20,200,1,0,0,8
+XLarge,XLarge,New York Style,Cheese Only,Regular Cheese,per serving,64,190,120,13,9,0,45,420,2,0,0,16
+XLarge,XLarge,New York Style,Cheese Only,Extra Cheese,per serving,85,250,160,17,11,0,60,570,2,0,0,22
+XLarge,XLarge,New York Style,Cheese Only,Double Cheese,per serving,85,250,160,17,11,0,60,570,2,0,0,22
+XLarge,XLarge,New York Style,Cheese Only,Triple Cheese,per serving,106,320,200,22,14,0.5,75,710,3,0,0,27
+XLarge,XLarge,New York Style,Cheese With Toppings,Light Cheese,per serving,31,90,60,6,4,0,20,200,1,0,0,8
+XLarge,XLarge,New York Style,Cheese With Toppings,Regular Cheese,per serving,43,130,80,9,6,0,30,280,1,0,0,11
+XLarge,XLarge,New York Style,Cheese With Toppings,Extra Cheese,per serving,64,190,120,13,9,0,45,420,2,0,0,16
+XLarge,XLarge,New York Style,Cheese With Toppings,Double Cheese,per serving,85,250,160,17,11,0,60,570,2,0,0,22
+XLarge,XLarge,New York Style,Cheese With Toppings,Triple Cheese,per serving,106,320,200,22,14,0.5,75,710,3,0,0,27
+XLarge,XLarge,New York Style,1-Topping,Bacon Strip Crumble,per serving,21,90,50,6,2,0,20,380,1,0,1,8
+XLarge,XLarge,New York Style,1-Topping,Banana Peppers,per serving,19,5,0,0,0,0,0,280,1,0,0,0
+XLarge,XLarge,New York Style,1-Topping,Beef Crumble,per serving,31,100,80,9,3.5,0,30,340,0,0,0,4
+XLarge,XLarge,New York Style,1-Topping,Black Olives,per serving,19,30,25,2.5,0,0,0,150,1,1,0,0
+XLarge,XLarge,New York Style,1-Topping,Cheddar Cheese,per serving,17,60,45,5,3.5,0,15,135,0,0,0,4
+XLarge,XLarge,New York Style,1-Topping,Chicken,per serving,33,40,10,1,0,0,25,130,1,0,0,7
+XLarge,XLarge,New York Style,1-Topping,Feta Cheese,per serving,14,40,25,3,2,0,10,190,0,0,0,3
+XLarge,XLarge,New York Style,1-Topping,Green Peppers,per serving,19,5,0,0,0,0,0,0,1,0,0,0
+XLarge,XLarge,New York Style,1-Topping,Ham,per serving,28,30,10,1,0,0,10,310,1,0,0,4
+XLarge,XLarge,New York Style,1-Topping,Jalapeno Peppers,per serving,19,5,0,0,0,0,0,300,1,0,0,0
+XLarge,XLarge,New York Style,1-Topping,Mushrooms,per serving,31,5,0,0,0,0,0,0,1,0,1,1
+XLarge,XLarge,New York Style,1-Topping,Onions,per serving,19,10,0,0,0,0,0,0,2,0,1,0
+XLarge,XLarge,New York Style,1-Topping,Pepperoni,per serving,16,70,60,6,2.5,0,15,300,1,0,0,3
+XLarge,XLarge,New York Style,1-Topping,Extra-Large Pepperoni,per serving,19,90,70,8,3,0,15,320,1,0,0,3
+XLarge,XLarge,New York Style,1-Topping,Philly Steak,per serving,24,35,15,2,1,0,10,270,1,0,0,3
+XLarge,XLarge,New York Style,1-Topping,Pineapple,per serving,31,20,0,0,0,0,0,0,5,0,5,0
+XLarge,XLarge,New York Style,1-Topping,Provolone Cheese,per serving,17,50,35,4,2.5,0,15,80,1,0,0,4
+XLarge,XLarge,New York Style,1-Topping,Roasted Red Pepper,per serving,19,5,0,0,0,0,0,0,1,0,0,0
+XLarge,XLarge,New York Style,1-Topping,Salami,per serving,40,110,80,8,3,0,25,460,3,0,0,6
+XLarge,XLarge,New York Style,1-Topping,Sausage,per serving,31,90,70,7,2.5,0,20,410,1,0,0,5
+XLarge,XLarge,New York Style,1-Topping,Shredded Parmesan Asiago,per serving,12,50,30,3.5,2.5,0,10,180,1,0,0,4
+XLarge,XLarge,New York Style,1-Topping,Spinach,per serving,9,0,0,0,0,0,0,5,0,0,0,0
+XLarge,XLarge,New York Style,1-Topping,Tomatoes,per serving,24,5,0,0,0,0,0,0,1,0,1,0
+XLarge,XLarge,New York Style,1-Topping,White Processed Cheddar Cheese,per serving,21,70,50,6,4,0,20,300,1,0,0,4
+XLarge,XLarge,New York Style,1-Topping,Donair Meat*,per serving,98,260,160,18,7,1,50,880,11,1,1,12
+XLarge,XLarge,New York Style,1-Topping,Green Olives*,per serving,19,20,15,1.5,0,0,0,310,1,1,0,0
+Feast Pizzas,Small,Hand Tossed,Feast,BBQ Chicken Bacon,1/6 of pizza,95,230,70,8,4,0,25,440,28,1,3,11
+Feast Pizzas,Medium,Hand Tossed,Feast,BBQ Chicken Bacon,1/8 of pizza,101,240,80,9,4.5,0,25,480,28,1,4,12
+Feast Pizzas,Large,Hand Tossed,Feast,BBQ Chicken Bacon,1/8 of pizza,137,330,100,12,6,0.5,35,630,38,2,6,16
+Feast Pizzas,XLarge,Hand Tossed,Feast,BBQ Chicken Bacon,1/10 of pizza,145,350,110,13,6,0.5,35,680,40,2,6,17
+Feast Pizzas,Small,Hand Tossed,Feast,Buffalo Chicken,1/3 of pizza,179,460,150,17,9,1,55,1230,52,2,3,24
+Feast Pizzas,Medium,Hand Tossed,Feast,Buffalo Chicken,1/4 of pizza,186,490,180,20,11,1,65,1240,51,2,3,26
+Feast Pizzas,Large,Hand Tossed,Feast,Buffalo Chicken,1/4 of pizza,247,640,220,25,13,1.5,80,1620,69,3,4,34
+Feast Pizzas,XLarge,Hand Tossed,Feast,Buffalo Chicken,1/5 of pizza,257,670,240,26,14,1.5,85,1690,72,3,4,35
+Feast Pizzas,Small,Hand Tossed,Feast,Canadian,1/6 of pizza,102,230,80,9,4,0,25,440,26,2,2,12
+Feast Pizzas,Medium,Hand Tossed,Feast,Canadian,1/8 of pizza,106,240,90,10,4.5,0,25,470,26,2,2,13
+Feast Pizzas,Large,Hand Tossed,Feast,Canadian,1/8 of pizza,144,330,110,13,6,0.5,35,630,35,2,2,17
+Feast Pizzas,XLarge,Hand Tossed,Feast,Canadian,1/10 of pizza,153,350,130,14,7,0.5,40,690,37,2,2,18
+Feast Pizzas,Small,Hand Tossed,Feast,Chicken Bacon Alfredo,1/6 of pizza,96,240,90,10,5,0.5,30,380,25,1,1,12
+Feast Pizzas,Medium,Hand Tossed,Feast,Chicken Bacon Alfredo,1/8 of pizza,105,260,100,12,6,0.5,35,430,25,1,1,13
+Feast Pizzas,Large,Hand Tossed,Feast,Chicken Bacon Alfredo,1/8 of pizza,140,340,140,15,8,1,45,560,34,2,2,17
+Feast Pizzas,XLarge,Hand Tossed,Feast,Chicken Bacon Alfredo,1/10 of pizza,148,360,150,16,9,1,45,590,36,2,2,18
+Feast Pizzas,Small,Hand Tossed,Feast,Chicken Bacon Ranch,1/6 of pizza,91,240,100,11,4,0,20,370,25,1,1,10
+Feast Pizzas,Medium,Hand Tossed,Feast,Chicken Bacon Ranch,1/8 of pizza,98,260,110,13,4.5,0.5,25,420,25,1,1,11
+Feast Pizzas,Large,Hand Tossed,Feast,Chicken Bacon Ranch,1/8 of pizza,131,350,150,17,6,0.5,30,550,33,1,2,14
+Feast Pizzas,XLarge,Hand Tossed,Feast,Chicken Bacon Ranch,1/10 of pizza,138,360,160,18,6,0.5,35,580,35,1,2,15
+Feast Pizzas,Small,Hand Tossed,Feast,Deluxe,1/6 of pizza,100,220,70,8,3,0,20,350,26,2,2,10
+Feast Pizzas,Medium,Hand Tossed,Feast,Deluxe,1/8 of pizza,104,220,70,8,3.5,0,20,370,26,2,2,10
+Feast Pizzas,Large,Hand Tossed,Feast,Deluxe,1/8 of pizza,144,300,100,11,5,0,25,510,36,2,2,14
+Feast Pizzas,XLarge,Hand Tossed,Feast,Deluxe,1/10 of pizza,152,320,110,12,5,0.5,30,550,37,2,3,15
+Feast Pizzas,Small,Hand Tossed,Feast,Donair Pizza*,1/6 of pizza,104,220,60,7,3,0,15,340,30,1,4,10
+Feast Pizzas,Medium,Hand Tossed,Feast,Donair Pizza*,1/8 of pizza,107,230,60,7,3,0,20,350,29,1,4,11
+Feast Pizzas,Large,Hand Tossed,Feast,Donair Pizza*,1/8 of pizza,147,310,90,10,4.5,0.5,25,480,40,2,6,15
+Feast Pizzas,XLarge,Hand Tossed,Feast,Donair Pizza*,1/10 of pizza,154,320,90,10,4.5,0.5,25,490,42,2,7,15
+Feast Pizzas,Small,Hand Tossed,Feast,ExtravaganZZa,1/6 of pizza,120,260,100,11,5,0,30,510,27,2,2,13
+Feast Pizzas,Medium,Hand Tossed,Feast,ExtravaganZZa,1/8 of pizza,129,270,110,12,5,0,35,550,27,2,2,15
+Feast Pizzas,Large,Hand Tossed,Feast,ExtravaganZZa,1/8 of pizza,178,380,150,16,7,0.5,45,760,37,3,3,20
+Feast Pizzas,XLarge,Hand Tossed,Feast,ExtravaganZZa,1/10 of pizza,189,400,160,17,8,0.5,50,840,39,3,3,21
+Feast Pizzas,Small,Hand Tossed,Feast,Hawaiian,1/6 of pizza,105,220,60,7,3.5,0,20,430,27,2,3,12
+Feast Pizzas,Medium,Hand Tossed,Feast,Hawaiian,1/8 of pizza,110,230,60,7,3.5,0,20,460,27,2,3,12
+Feast Pizzas,Large,Hand Tossed,Feast,Hawaiian,1/8 of pizza,151,310,90,10,5,0.5,30,630,37,2,4,17
+Feast Pizzas,XLarge,Hand Tossed,Feast,Hawaiian,1/10 of pizza,159,320,90,10,5,0.5,30,680,39,2,4,18
+Feast Pizzas,Small,Hand Tossed,Feast,MeatZZa,1/6 of pizza,108,250,90,10,4.5,0,30,510,26,2,1,13
+Feast Pizzas,Medium,Hand Tossed,Feast,MeatZZa,1/8 of pizza,113,270,100,11,5,0,35,550,26,2,2,14
+Feast Pizzas,Large,Hand Tossed,Feast,MeatZZa,1/8 of pizza,155,360,140,16,7,0.5,45,760,36,2,2,20
+Feast Pizzas,XLarge,Hand Tossed,Feast,MeatZZa,1/10 of pizza,165,390,150,17,8,0.5,50,840,37,2,2,21
+Feast Pizzas,Small,Hand Tossed,Feast,Pepperoni Feast,1/6 of pizza,97,240,90,9,4.5,0,25,470,26,2,1,12
+Feast Pizzas,Medium,Hand Tossed,Feast,Pepperoni Feast,1/8 of pizza,100,250,90,10,5,0,25,490,26,2,1,12
+Feast Pizzas,Large,Hand Tossed,Feast,Pepperoni Feast,1/8 of pizza,137,340,120,14,7,0.5,35,670,35,2,2,17
+Feast Pizzas,XLarge,Hand Tossed,Feast,Pepperoni Feast,1/10 of pizza,144,360,130,15,7,0.5,35,720,37,2,2,18
+Feast Pizzas,Small,Hand Tossed,Feast,Philly Steak,1/6 of pizza,90,210,70,7,3.5,0,20,470,26,1,1,10
+Feast Pizzas,Medium,Hand Tossed,Feast,Philly Steak,1/8 of pizza,94,220,70,8,4,0,25,500,25,1,1,11
+Feast Pizzas,Large,Hand Tossed,Feast,Philly Steak,1/8 of pizza,128,290,90,10,5,0.5,30,640,34,2,2,14
+Feast Pizzas,XLarge,Hand Tossed,Feast,Philly Steak,1/10 of pizza,135,310,100,11,6,0.5,35,670,36,2,2,15
+Feast Pizzas,Small,Hand Tossed,Feast,6 Cheese,1/3 of pizza,170,440,140,16,8,1,40,790,52,3,3,21
+Feast Pizzas,Medium,Hand Tossed,Feast,6 Cheese,1/4 of pizza,183,490,180,20,11,1,55,890,51,3,3,25
+Feast Pizzas,Large,Hand Tossed,Feast,6 Cheese,1/4 of pizza,248,650,230,26,14,1.5,70,1200,70,4,5,33
+Feast Pizzas,XLarge,Hand Tossed,Feast,6 Cheese,1/5 of pizza,262,690,250,27,15,1.5,75,1260,73,5,5,35
+Feast Pizzas,Small,Hand Tossed,Feast,Spinach & Feta,1/6 of pizza,85,210,70,7,4,0,20,340,25,1,1,10
+Feast Pizzas,Medium,Hand Tossed,Feast,Spinach & Feta,1/8 of pizza,88,220,70,8,4.5,0,20,370,25,1,1,10
+Feast Pizzas,Large,Hand Tossed,Feast,Spinach & Feta,1/8 of pizza,121,300,100,11,6,0.5,30,500,34,2,1,14
+Feast Pizzas,XLarge,Hand Tossed,Feast,Spinach & Feta,1/10 of pizza,126,310,100,12,6,0.5,30,510,35,2,1,15
+Feast Pizzas,Small,Hand Tossed,Feast,Pacific Veggie,1/6 of pizza,112,200,60,6,3,0,15,360,27,2,2,10
+Feast Pizzas,Medium,Hand Tossed,Feast,Pacific Veggie,1/8 of pizza,115,210,60,7,3.5,0,15,380,27,2,2,10
+Feast Pizzas,Large,Hand Tossed,Feast,Pacific Veggie,1/8 of pizza,157,280,80,9,4.5,0.5,25,520,36,3,3,14
+Feast Pizzas,XLarge,Hand Tossed,Feast,Pacific Veggie,1/10 of pizza,163,300,90,10,4.5,0.5,25,540,38,3,3,14
+Feast Pizzas,Small,Hand Tossed,Feast,Veggie,1/6 of pizza,104,190,50,5,2.5,0,10,280,27,2,2,9
+Feast Pizzas,Medium,Hand Tossed,Feast,Veggie,1/8 of pizza,108,190,50,6,2.5,0,10,290,26,2,2,9
+Feast Pizzas,Large,Hand Tossed,Feast,Veggie,1/8 of pizza,147,270,70,8,3.5,0,15,400,36,2,3,12
+Feast Pizzas,XLarge,Hand Tossed,Feast,Veggie,1/10 of pizza,153,280,70,8,3.5,0,15,410,37,3,3,13
+Feast Pizzas - New York Style,Medium,New York Style,Feast,BBQ Chicken Bacon,1/3 of pizza (2 slices),219,570,220,25,12,0.5,75,1280,56,3,11,31
+Feast Pizzas - New York Style,Large,New York Style,Feast,BBQ Chicken Bacon,1/6 of pizza (1 slice),145,370,150,16,8,0,50,860,36,2,7,20
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,BBQ Chicken Bacon,1/6 of pizza (1 slice),196,510,190,22,11,0,65,1130,51,2,10,27
+Feast Pizzas - New York Style,Large,New York Style,Feast,Brooklyn,1/3 of pizza (2 slices),256,690,300,34,16,0.5,85,1420,63,4,5,33
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Brooklyn,1/6 of pizza (1 slice),177,480,210,23,11,0,55,970,45,3,3,23
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Canadian,1/3 of pizza (2 slices),226,580,240,26,13,0,75,1320,51,3,4,34
+Feast Pizzas - New York Style,Large,New York Style,Feast,Canadian,1/6 of pizza (1 slice),151,380,160,18,9,0,50,890,32,2,3,23
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Canadian,1/6 of pizza (1 slice),205,520,220,24,12,0,65,1210,46,3,4,31
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Chicken Bacon Alfredo,1/3 of pizza (2 slices),241,640,290,32,18,1,105,1220,49,2,3,37
+Feast Pizzas - New York Style,Large,New York Style,Feast,Chicken Bacon Alfredo,1/6 of pizza (1 slice),158,420,190,22,12,0.5,70,820,31,2,2,25
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Chicken Bacon Alfredo,1/6 of pizza (1 slice),213,570,260,29,16,0.5,95,1090,45,2,3,33
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Chicken Bacon Ranch,1/3 of pizza (2 slices),228,660,340,37,14,0.5,80,1240,48,2,3,32
+Feast Pizzas - New York Style,Large,New York Style,Feast,Chicken Bacon Ranch,1/6 of pizza (1 slice),149,430,230,25,10,0,55,830,31,2,2,21
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Chicken Bacon Ranch,1/6 of pizza (1 slice),200,580,290,33,13,0.5,70,1100,44,2,3,28
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Deluxe,1/3 of pizza (2 slices),100,220,70,8,3,0,20,350,26,2,2,10
+Feast Pizzas - New York Style,Large,New York Style,Feast,Deluxe,1/6 of pizza (1 slice),104,220,70,8,3.5,0,20,370,26,2,2,10
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Deluxe,1/6 of pizza (1 slice),144,300,100,11,5,0,25,510,36,2,2,14
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Donair Pizza*,1/6 of pizza (1 slice),152,380,160,17,8,1,45,820,37,2,8,17
+Feast Pizzas - New York Style,Large,New York Style,Feast,Donair Pizza*,1/6 of pizza (1 slice),200,500,210,23,10,1,65,1100,48,2,10,23
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Donair Pizza*,1/6 of pizza (1 slice),265,660,270,30,13,1.5,80,1420,66,3,14,31
+Feast Pizzas - New York Style,Medium,New York Style,Feast,ExtravaganZZa,1/6 of pizza (1 slice),120,260,100,11,5,0,30,510,27,2,2,13
+Feast Pizzas - New York Style,Large,New York Style,Feast,ExtravaganZZa,1/6 of pizza (1 slice),129,270,110,12,5,0,35,550,27,2,2,15
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,ExtravaganZZa,1/6 of pizza (1 slice),178,380,150,16,7,0.5,45,760,37,3,3,20
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Hawaiian,1/3 of pizza (2 slices),233,510,170,19,10,0,60,1140,54,3,7,30
+Feast Pizzas - New York Style,Large,New York Style,Feast,Hawaiian,1/6 of pizza (1 slice),156,340,120,13,7,0,40,770,35,2,5,20
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Hawaiian,1/6 of pizza (1 slice),213,460,160,17,9,0,55,1050,49,3,7,27
+Feast Pizzas - New York Style,Medium,New York Style,Feast,MeatZZa,1/3 of pizza (2 slices),243,620,280,31,15,0.5,90,1620,51,3,4,35
+Feast Pizzas - New York Style,Large,New York Style,Feast,MeatZZa,1/6 of pizza (1 slice),162,410,190,21,10,0,60,1090,32,2,2,24
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,MeatZZa,1/6 of pizza (1 slice),223,570,250,28,13,0.5,85,1500,46,3,3,32
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Pacific Veggie,1/3 of pizza (2 slices),263,540,210,23,13,0.5,60,1110,53,4,5,29
+Feast Pizzas - New York Style,Large,New York Style,Feast,Pacific Veggie,1/6 of pizza (1 slice),176,350,140,15,8,0,40,740,34,3,3,19
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Pacific Veggie,1/6 of pizza (1 slice),237,480,190,21,11,0,55,1000,48,4,4,26
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Pepperoni Feast,1/3 of pizza (2 slices),210,560,240,27,13,0,70,1270,50,3,3,31
+Feast Pizzas - New York Style,Large,New York Style,Feast,Pepperoni Feast,1/6 of pizza (1 slice),140,370,160,18,9,0,50,860,32,2,2,21
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Pepperoni Feast,1/6 of pizza (1 slice),193,510,220,25,12,0,65,1170,45,3,3,28
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Philly Steak,1/3 of pizza (2 slices),183,440,160,18,10,0.5,55,1010,48,2,3,22
+Feast Pizzas - New York Style,Large,New York Style,Feast,Philly Steak,1/3 of pizza (2 slices),236,550,200,22,12,0.5,70,1270,61,3,4,27
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Philly Steak,1/6 of pizza (1 slice),162,380,140,15,8,0,45,850,43,2,3,19
+Feast Pizzas - New York Style,Medium,New York Style,Feast,6 Cheese,1/3 of pizza (2 slices),208,560,240,26,15,1,75,1200,50,3,3,31
+Feast Pizzas - New York Style,Large,New York Style,Feast,6 Cheese,1/6 of pizza (1 slice),136,360,150,17,10,0.5,50,790,32,2,2,20
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,6 Cheese,1/6 of pizza (1 slice),187,500,210,23,13,0.5,65,1060,45,3,3,27
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Spinach & Feta,1/3 of pizza (2 slices),221,610,280,31,18,1,90,1280,49,2,2,33
+Feast Pizzas - New York Style,Large,New York Style,Feast,Spinach & Feta,1/6 of pizza (1 slice),146,400,180,20,12,0.5,60,850,31,1,2,22
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Spinach & Feta,1/6 of pizza (1 slice),198,540,240,27,16,1,80,1120,44,2,2,30
+Feast Pizzas - New York Style,Medium,New York Style,Feast,Veggie,1/3 of pizza (2 slices),221,420,130,15,7,0,30,780,51,4,5,21
+Feast Pizzas - New York Style,Large,New York Style,Feast,Veggie,1/6 of pizza (1 slice),148,280,90,10,5,0,25,540,33,3,3,14
+Feast Pizzas - New York Style,XLarge,New York Style,Feast,Veggie,1/6 of pizza (1 slice),200,380,120,13,6,0,30,720,47,4,4,19
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,BBQ Chicken Bacon,1/4 of pizza (2 slices),245,720,330,36,20,0.5,80,1280,63,3,9,36
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Buffalo Chicken,1/4 of pizza (2 slices),235,710,350,39,23,1,90,1360,57,3,3,34
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Canadian,1/4 of pizza (2 slices),253,730,350,39,21,0.5,75,1320,59,3,4,37
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Chicken Bacon Alfredo,1/4 of pizza (2 slices),264,790,390,43,25,1,100,1250,58,3,3,40
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Chicken Bacon Ranch,1/4 of pizza (2 slices),254,800,420,47,22,1,80,1260,57,3,3,36
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Deluxe,1/4 of pizza (2 slices),248,670,310,35,19,0.5,60,1160,59,4,4,31
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,ExtravaganZZa,1/8 of pizza (1 slice),147,390,190,22,11,0,45,800,30,2,2,19
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Hawaiian,1/4 of pizza (2 slices),258,680,300,33,19,0.5,65,1190,61,3,6,34
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,MeatZZa,1/4 of pizza (2 slices),266,770,380,42,23,1,90,1540,59,3,3,38
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Pacific Veggie,1/8 of pizza (1 slice),140,350,160,18,10,0,35,580,30,2,2,17
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Pepperoni Feast,1/4 of pizza (2 slices),241,720,350,39,21,0.5,75,1280,58,3,3,35
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Philly Cheese Steak,1/4 of pizza (2 slices),221,630,290,33,19,0.5,65,1090,57,3,3,28
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,6 Cheese,1/4 of pizza (2 slices),240,720,350,39,23,1,80,1230,58,3,3,35
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Spinach & Feta,1/4 of pizza (2 slices),250,760,380,42,25,1,90,1290,57,3,2,37
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Veggie,1/4 of pizza (2 slices),249,620,270,30,17,0.5,45,920,59,4,4,28
+Feast Pizzas - Parmesan Stuffed Crust,Medium,Parmesan Stuffed Crust,Feast,Donair Pizza*,1/8 of pizza (1 slice),156,430,200,23,11,0.5,45,780,38,2,6,19
+Specialty Pizzas,Small,Gluten Free,Specialty,Domino's 6 Cheese,1/2 of pizza (2 slices),211,510,190,21,12,0.5,65,1020,53,3,8,22
+Specialty Pizzas,Small,Crunchy Thin,Specialty,Domino's 6 Cheese,1/2 of pizza,178,480,240,27,13,0.5,65,830,35,3,2,24
+Specialty Pizzas,Medium,Crunchy Thin,Specialty,Domino's 6 Cheese,1/3 of pizza,188,530,270,30,15,1,75,880,36,3,2,27
+Specialty Pizzas,Large,Crunchy Thin,Specialty,Domino's 6 Cheese,1/4 of pizza,191,530,270,30,15,1,70,890,37,3,2,26
+Specialty Pizzas,Large,New York Style,Specialty,Domino's 6 Cheese,1/3 of pizza (2 slices),257,670,290,32,19,1.5,95,1400,58,5,5,38
+Specialty Pizzas,XLarge,New York Style,Specialty,Domino's 6 Cheese,1/6 of pizza (1 slice),169,440,190,21,12,1,65,910,37,3,3,25
+Specialty Pizzas,Medium,Pan,Specialty,Domino's 6 Cheese,1/4 of pizza (2 slices),219,680,320,35,20,1.5,70,1000,58,3,3,30
+Specialty Pizzas,Small,Gluten Free,Specialty,Buffalo Chicken,1/3 of pizza (2 slices),150,360,140,15,9,0.5,55,1120,35,1,5,17
+Specialty Pizzas,Small,Crunchy Thin,Specialty,Buffalo Chicken,1/2 of pizza,192,510,260,29,14,1,80,1480,35,2,2,27
+Specialty Pizzas,Medium,Crunchy Thin,Specialty,Buffalo Chicken,1/3 of pizza,191,530,270,30,15,1,85,1350,35,2,2,28
+Specialty Pizzas,Large,Crunchy Thin,Specialty,Buffalo Chicken,1/4 of pizza,189,520,260,29,14,1,80,1310,36,2,2,27
+Specialty Pizzas,Large,New York Style,Specialty,Buffalo Chicken,1/3 of pizza (2 slices),256,660,280,31,17,1.5,105,1960,56,3,4,39
+Specialty Pizzas,XLarge,New York Style,Specialty,Buffalo Chicken,1/6 of pizza (1 slice),166,430,180,20,11,1,70,1280,36,2,3,25
+Specialty Pizzas,Medium,Pan,Specialty,Buffalo Chicken,1/4 of pizza (2 slices),215,640,290,32,18,1.5,65,1300,58,3,3,28
+Sides & Other,,,Bread,Breadsticks,2 pieces,49,170,70,8,1.5,0,0,180,20,1,1,4
+Sides & Other,,,Bread,Cheesy Bread,2 pieces,63,220,110,12,4,0,15,280,21,1,1,7
+Sides & Other,,,Bread,Cinna Stix,2 pieces,62,210,80,9,2,0,0,160,28,1,5,4
+Sides & Other,,,Bread,Cinna Bites (16pc order),4 pieces,69,240,90,10,4,0,0,160,33,1,8,5
+Sides & Other,,,Bread,Cinna Bites (32pc order),4 pieces,69,240,90,10,4,0,0,160,33,1,8,5
+Sides & Other,,,Bread,10" Cheesy Garlic Fingers,2 pieces,48,140,50,5,2,0,10,200,17,1,1,6
+Sides & Other,,,Bread,12" Cheesy Garlic Fingers,2 pieces,65,190,70,8,3.5,0,10,290,21,1,1,8
+Sides & Other,,,Bread,14" Cheesy Garlic Fingers,2 pieces,62,180,70,8,3,0,10,280,20,1,1,8
+Sides & Other,,,Bread,16" Cheesy Garlic Fingers,2 pieces,82,240,90,10,4,0,15,370,27,1,1,10
+Sides & Other,,,Bread,10" Bacon Garlic Fingers,2 pieces,53,160,60,7,2.5,0,15,300,17,1,1,8
+Sides & Other,,,Bread,12" Bacon Garlic Fingers,2 pieces,72,220,90,10,4,0,20,420,21,1,1,11
+Sides & Other,,,Bread,14" Bacon Garlic Fingers,2 pieces,69,210,90,10,4,0,20,410,21,1,1,10
+Sides & Other,,,Bread,16" Bacon Garlic Fingers,2 pieces,92,290,120,13,5,0,25,560,27,1,1,14
+Sides & Other,,,Bread,Stuffed Cheesy Bread,1 piece,50,160,60,7,3,0,15,230,15,1,1,7
+Sides & Other,,,Bread,Bacon & Jalapeño Stuffed Cheesy Bread,1 piece,53,160,70,8,3.5,0,15,320,15,1,1,8
+Sides & Other,,,Bread,Pepperoni Stuffed Cheesy Bread,1 piece,52,170,70,8,3.5,0,15,300,15,1,1,8
+Sides & Other,,,Bread,Philly Steak Stuffed Cheesy Bread,1 piece,56,160,70,7,3.5,0,15,300,16,1,1,7
+Sides & Other,,,Bread,Spinach & Feta Stuffed Cheesy Bread,1 piece,52,160,70,7,3.5,0,15,260,15,1,1,7
+Sides & Other,,,Chicken,Boneless Chicken,2 pieces,50,90,25,3,0,0,20,450,8,1,0,9
+Sides & Other,,,Chicken,BBQ Wings,2 pieces,45,90,45,5,1.5,0,35,390,4,0,3,7
+Sides & Other,,,Chicken,Hot Wings,2 pieces,56,90,45,5,1.5,0,35,770,4,0,3,7
+Sides & Other,,,Chicken,Honey Garlic Wings,2 pieces,56,120,45,5,1.5,0,35,410,11,0,7,7
+Sides & Other,,,Chicken,Specialty Chicken - Classic Hot Buffalo,4 pieces,85,170,80,9,3,0,35,1090,9,1,1,13
+Sides & Other,,,Chicken,Specialty Chicken - Crispy Bacon & Tomato,4 pieces,90,230,140,15,4.5,0,45,810,10,1,1,15
+Sides & Other,,,Chicken,Specialty Chicken - Spicy Jalapeño & Pineapple,4 pieces,90,170,60,7,3,0,30,650,16,1,7,12
+Sides & Other,,,Chicken,Specialty Chicken - Sweet BBQ Bacon,4 pieces,86,190,80,9,3.5,0,40,860,14,1,5,15
+Sides & Other,,,Chicken,Specialty Chicken - Chicken Parm,4 pieces,82,150,60,6,2.5,0,30,700,10,1,2,13
+Sides & Other,,,Pasta,Chicken Alfredo,1 dish,326,570,220,24,14,0.5,100,950,58,3,4,25
+Sides & Other,,,Pasta,Chicken Carbonara,1 dish,369,640,250,28,16,0.5,115,1200,61,3,5,30
+Sides & Other,,,Pasta,Italian Sausage Marinara,1 dish,383,630,240,26,12,0,80,1780,67,5,11,30
+Sides & Other,,,Pasta,Pasta Primavera,1 dish,360,520,200,23,14,0.5,65,750,61,4,6,15
+Sides & Other,,,Pasta,Creamy 5-Cheese Penne,1 dish,360,820,420,47,29,1.5,145,1640,60,2,4,35
+Sides & Other,,,Pasta,Hot Buffalo 5-Cheese Penne,1 dish,374,820,420,47,29,1.5,145,2140,60,3,4,35
+Sides & Other,,,Other,Large French Fries,1/4 order,100,170,70,7,0.5,0,0,510,25,2,0,2
+Sides & Other,,,Other,Family French Fries,1/6 order,108,180,70,8,0.5,0,0,550,27,2,0,3
+Sides & Other,,,Other,Poutine,1/2 poutine,305,440,210,23,8,1,40,1760,45,3,1,14
+Sides & Other,,,Other,Saputo Butter Cup,1 container,7,50,45,5,4,0,15,45,0,0,0,0
+Sides & Other,,,Dessert,Chocolate Lava Crunch Cake,1 cake,85,350,160,17,10,0,60,180,47,1,30,4
+Sides & Other,,,Dessert,Marbled Cookie Brownie,1 brownie,42,200,90,10,4.5,0,20,120,25,1,18,2

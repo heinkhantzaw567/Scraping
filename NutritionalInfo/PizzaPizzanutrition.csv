@@ -1,0 +1,220 @@
+Category,Product Name,Serving Size (g),Weight Per Slice (g),Serving Size,Calories (Cals),Protein (g),Carbs (g),Fibre (g),Sugars (g),Total Fat (g),Sat. Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Potassium (% DV),Calcium (% DV),Iron (% DV)
+Small,Pepperoni Pizza,,,Per slice,210,10,24,1,3,8,35,0.3,20,520,3%,12%,10%
+Small,Ultimate Pepperoni Pizza,,,Per slice,,,,,,,,,,,,,
+Small,Meat Supreme Pizza,,,Per slice,250,13,24,1,3,11,45,0.2,35,760,,15%,15%
+Small,Tropical Hawaiian Pizza,,,Per slice,220,11,25,1,5,9,4,0.2,25,570,,15%,15%
+Small,Canadian Eh! Pizza,,,Per slice,220,12,24,1,4,9,4,0.2,30,610,,15%,15%
+Small,Buffalo Chicken Pizza,,,Per slice,220,11,24,1,3,9,35,0.2,25,640,,15%,10%
+Small,Spicy BBQ Chicken Pizza,,,Per slice,210,11,28,1,7,6,3,0.2,25,600,,15%,15%
+Small,Classic Super Pizza,,,Per slice,200,10,24,1,4,7,35,0.2,25,520,,15%,15%
+Small,Bacon Double Cheeseburger Pizza,,,Per slice,230,11,24,1,3,9,4,0.2,25,580,,15%,15%
+Small,Chicken Bruschetta Pizza,,,Per slice,210,12,25,1,4,7,3,0.2,25,570,,15%,15%
+Small,Sausage Mushroom Melt Pizza,,,Per slice,250,11,23,1,3,13,35,0.3,25,550,,15%,10%
+Small,Hot Honey,,,Per slice,,,,,,,,,,,,,
+Small,Butter Chicken Pizza,,,Per slice,,,,,,,,,,,,,
+Small,Classic Cheese Pizza,,,Per slice,180,9,24,1,3,5,25,0.2,10,410,2%,12%,8%
+Small,Garden Veggie Pizza,,,Per slice,170,10,23,3,4,5,25,0.2,15,310,,15%,10%
+Small,Mediterranean Vegetarian Pizza,,,Per slice,210,10,25,2,4,7,35,0.2,20,570,,15%,15%
+Small,Creamy Garlic Pizza,,,Per slice,240,9,24,1,2,13,4,0.2,15,320,,20%,10%
+Small,Pesto Amore Pizza,,,Per slice,210,11,24,4,3,8,35,0.2,20,340,,15%,10%
+Small,Plant-Based Pepperoni Pizza,,,Per slice,200,9,25,1,3,7,3,0.2,10,480,3%,12%,10%
+Small,Creamy Mushroom Florentine Pizza,,,Per slice,,,,,,,,,,,,,
+Medium,Medium Donair Pizza,,,Per Slice,235,11,30,0,7,8,3,0,25,410,,9%,17%
+Medium,Pepperoni Pizza,,,Per slice,210,10,25,1,3,8,35,0.3,20,520,3%,12%,10%
+Medium,Ultimate Pepperoni Pizza,,,Per slice,,,,,,,,,,,,,
+Medium,Meat Supreme Pizza,,,Per slice,260,14,26,1,4,11,45,0.2,35,800,,15%,15%
+Medium,Tropical Hawaiian Pizza,,,Per slice,230,11,26,1,5,9,4,0.2,25,580,,15%,15%
+Medium,Canadian Eh! Pizza,,,Per slice,230,12,26,1,4,9,4,0.2,30,630,,15%,15%
+Medium,Buffalo Chicken Pizza,,,Per slice,230,11,25,1,3,9,35,0.2,25,640,,15%,10%
+Medium,Spicy BBQ Chicken Pizza,,,Per slice,220,11,30,1,7,6,25,0.2,25,600,,15%,15%
+Medium,Classic Super Pizza,,,Per slice,210,11,26,1,4,8,35,0.2,25,540,,15%,15%
+Medium,Bacon Double Cheeseburger Pizza,,,Per slice,230,11,25,1,3,9,4,0.2,25,590,,10%,15%
+Medium,Chicken Bruschetta,,,Per slice,210,12,27,1,4,6,3,0.1,25,590,,15%,15%
+Medium,Sausage Mushroom Melt Pizza,,,Per slice,250,11,24,1,3,12,35,0.2,20,570,,15%,15%
+Medium,Hot Honey,,,Per slice,,,,,,,,,,,,,
+Medium,Butter Chicken Pizza,,,Per slice,,,,,,,,,,,,,
+Medium,Classic Cheese Pizza,,,Per slice,180,9,25,1,3,5,25,0.2,10,420,3%,12%,8%
+Medium,Garden Veggie Pizza,,,Per slice,180,10,25,4,4,5,25,0.1,15,310,,15%,10%
+Medium,Mediterranean Vegetarian Pizza,,,Per slice,220,10,27,2,4,8,35,0.2,20,620,,15%,15%
+Medium,Creamy Garlic Pizza,,,Per slice,240,9,25,1,2,12,35,0.2,15,330,,15%,10%
+Medium,Pesto Amore Pizza,,,Per slice,210,11,25,4,3,8,35,0.2,20,340,,15%,10%
+Medium,Plant-Based Pepperoni Pizza,,,Per slice,200,9,26,2,3,7,25,0.2,10,480,3%,12%,10%
+Medium,Creamy Mushroom Florentine Pizza,,,Per slice,,,,,,,,,,,,,
+Medium,Medium Classic Stuffed Crust Pizza,,,Per Slice,251,13,26,1,3,11,5,0,31,618,,26%,15%
+Medium,Medium Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,235,24,28,1,3,10,11,1,31,588,,23%,15%
+Medium,Medium Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,185,8,25,1,3,6,3,0,19,445,,15%,15%
+Large,Large Donair Pizza,,,Per Slice,269,7,42,0,7,9,4,0,14,414,,6%,19%
+Large,Pepperoni Pizza,,,Per slice,250,12,29,1,3,9,4.5,0.3,20,590,3%,15%,11%
+Large,Ultimate Pepperoni Pizza,,,Per slice,,,,,,,,,,,,,
+Large,Meat Supreme Pizza,,,Per slice,290,16,29,1,4,12,5,0.2,40,890,,15%,15%
+Large,Tropical Hawaiian Pizza,,,Per slice,260,13,30,1,5,10,4.5,0.2,30,650,,15%,15%
+Large,Canadian Eh! Pizza,,,Per slice,270,14,29,1,4,10,4.5,0.2,35,690,,15%,15%
+Large,Buffalo Chicken Pizza,,,Per slice,260,13,29,2,4,10,4,0.2,25,730,,15%,15%
+Large,Spicy BBQ Chicken Pizza,,,Per slice,250,13,33,2,7,7,3.5,0.2,25,680,,15%,15%
+Large,Classic Super Pizza,,,Per slice,250,13,29,1,4,9,4,0.2,30,610,,15%,15%
+Large,Bacon Double Cheeseburger Pizza,,,Per slice,260,13,29,1,3,11,4.5,0.2,25,650,,15%,15%
+Large,Chicken Bruschetta,,,Per slice,250,14,30,2,4,8,4,0.2,30,680,,20%,15%
+Large,Sausage Mushroom Melt Pizza,,,Per slice,290,13,28,1,3,14,4,0.3,25,660,,15%,15%
+Large,Hot Honey,,,Per slice,,,,,,,,,,,,,
+Large,Butter Chicken Pizza,,,Per slice,,,,,,,,,,,,,
+Large,Classic Cheese Pizza,,,Per slice,220,10,29,1,3,7,3,0.2,15,480,3%,15%,10%
+Large,Garden Veggie Pizza,,,Per slice,210,12,28,4,4,6,3.5,0.2,20,350,,15%,10%
+Large,Mediterranean Vegetarian Pizza,,,Per slice,260,13,31,2,5,10,5,0.2,25,730,,20%,20%
+Large,Creamy Garlic Pizza,,,Per slice,290,11,29,2,2,14,4.5,0.3,20,380,,20%,15%
+Large,Pesto Amore Pizza,,,Per slice,250,13,29,4,4,10,4,0.2,25,410,,20%,10%
+Large,Plant-Based Pepperoni Pizza,,,Per slice,230,11,30,2,3,8,3.5,0.2,15,550,4%,15%,11%
+Large,Creamy Mushroom Florentine Pizza,,,Per slice,,,,,,,,,,,,,
+Large,Large Classic Stuffed Crust Pizza,,,Per Slice,320,45,334,6,63,57,5,3,857,8989,,47%,119%
+Large,Large Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,303,56,337,6,63,56,10,3,857,8950,,45%,120%
+Large,Large Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,303,56,334,6,63,56,5,3,857,8926,,45%,120%
+X-Large,X-Large Donair Pizza,,,Per Slice,284,13,38,0,7,9,4,0,30,499,,11%,21%
+X-Large,Pepperoni Pizza,,,Per slice,260,12,32,2,4,9,4,0.3,20,620,4%,13%,13%
+X-Large,Ultimate Pepperoni Pizza,,,Per slice,280,14,33,2,5,11,45,0.2,30,780,,15%,15%
+X-Large,Meat Supreme Pizza,,,Per slice,310,16,33,2,4,13,5,0.2,40,950,,15%,20%
+X-Large,Tropical Hawaiian Pizza,,,Per slice,280,13,34,2,6,11,45,0.2,30,710,,15%,15%
+X-Large,Canadian Eh! Pizza,,,Per slice,280,14,33,2,4,11,45,0.2,35,750,,15%,20%
+X-Large,Buffalo Chicken Pizza,,,Per slice,280,13,32,2,4,10,4,0.2,25,750,,15%,15%
+X-Large,Spicy BBQ Chicken Pizza,,,Per slice,270,14,37,2,8,7,3,0.2,25,720,,15%,15%
+X-Large,Classic Super Pizza,,,Per slice,260,13,33,2,5,9,4,0.2,30,650,,15%,20%
+X-Large,Bacon Double Cheeseburger Pizza,,,Per slice,290,14,33,1,4,11,45,0.2,25,710,,15%,20%
+X-Large,Chicken Bruschetta,,,Per slice,280,16,34,2,5,9,4,0.2,30,750,,20%,15%
+X-Large,Sausage Mushroom Melt Pizza,,,Per slice,300,13,31,1,3,14,4,0.3,25,690,,15%,15%
+X-Large,Hot Honey,,,Per slice,,,,,,,,,,,,,
+X-Large,Butter Chicken Pizza,,,Per slice,,,,,,,,,,,,,
+X-Large,Classic Cheese Pizza,,,Per Slice,230,11,32,2,4,7,3,0.2,15,520,3%,13%,11%
+X-Large,Garden Veggie Pizza,,,Per Slice,220,12,32,5,4,6,3,0.2,20,370,,15%,15%
+X-Large,Mediterranean Vegetarian Pizza,,,Per Slice,280,13,35,2,5,10,5,0.2,25,810,,20%,20%
+X-Large,Creamy Garlic Pizza,,,Per Slice,300,12,32,2,3,14,45,0.3,15,420,,20%,15%
+X-Large,Pesto Amore Pizza,,,Per Slice,260,13,32,5,4,10,4,0.2,25,430,,20%,15%
+X-Large,Plant-Based Pepperoni Pizza,,,Per Slice,250,12,33,2,4,8,3,0.2,15,580,4%,13%,13%
+X-Large,Creamy Mushroom Florentine Pizza,,,Per Slice,,,,,,,,,,,,,
+X-Large,X-Large Classic Stuffed Crust Pizza,,,Per Slice,300,14,32,1,4,13,6,0,35,730,,28%,19%
+X-Large,X-Large Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,280,25,35,1,4,11,11,1,35,686,,26%,19%
+X-Large,X-Large Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,280,25,32,1,4,11,5,0,35,662,,26%,19%
+XXL,XXL Cheese Pizza,,,Per Slice,450,21,63,3,7,13,6,0.4,30,1010,6%,27%,22%
+XXL,XXL Pepperoni Pizza,,,Per Slice,520,24,63,3,7,19,8,0.5,45,1250,7%,27%,25%
+XXL,XXL Classic Stuffed Crust Pizza,,,Per Slice,498,16,48,2,5,28,8,0,35,1227,,28%,28%
+XXL,XXL Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,430,41,53,2,5,17,18,1,55,1057,,41%,29%
+XXL,XXL Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,430,41,49,2,5,17,9,0,55,1017,,41%,29%
+Stuffed Crust,Medium Classic Stuffed Crust Pizza,,,Per Slice,251,13,26,1,3,11,5,0,31,618,,26%,15%
+Stuffed Crust,Medium Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,235,24,28,1,3,10,11,1,31,588,,23%,15%
+Stuffed Crust,Medium Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,185,8,25,1,3,6,3,0,19,445,,15%,15%
+Stuffed Crust,Large Classic Stuffed Crust Pizza,,,Per Slice,320,45,334,6,63,57,5,3,857,8989,,47%,119%
+Stuffed Crust,Large Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,303,56,337,6,63,56,10,3,857,8950,,45%,120%
+Stuffed Crust,Large Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,303,56,334,6,63,56,5,3,857,8926,,45%,120%
+Stuffed Crust,X-Large Classic Stuffed Crust Pizza,,,Per Slice,300,14,32,1,4,13,6,0,35,730,,28%,19%
+Stuffed Crust,X-Large Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,280,25,35,1,4,11,11,1,35,686,,26%,19%
+Stuffed Crust,X-Large Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,280,25,32,1,4,11,5,0,35,662,,26%,19%
+Stuffed Crust,XXL Classic Stuffed Crust Pizza,,,Per Slice,498,16,48,2,5,28,8,0,35,1227,,28%,28%
+Stuffed Crust,XXL Dill Pickle Cheese Stuffed Crust Pizza,,,Per Slice,430,41,53,2,5,17,18,1,55,1057,,41%,29%
+Stuffed Crust,XXL Spicy Habanero Cheese Stuffed Crust Pizza,,,Per Slice,430,41,49,2,5,17,9,0,55,1017,,41%,29%
+Gourmet,Gourmet Thin Creamy Mushroom Florentine Pizza,,,Per Slice,,,,,,,,,,,,,
+Gourmet,Gourmet Thin Hot Honey Pizza,,,Per Slice,,,,,,,,,,,,,
+Gourmet,Gourmet Thin Buffalo Chicken Pizza,,,Per Slice,,,,,,,,,,,,,
+Gourmet,Gourmet Thin Pesto Amore Pizza,,,Per Slice,180,8,22,1,3,6,25,0.1,15,380,,10%,10%
+Gourmet,Gourmet Thin Chicken Bruschetta Pizza,,,Per Slice,190,12,23,1,3,6,25,0.1,25,510,,15%,10%
+Walk-In,Bacon Double Cheeseburger Pizza,,,Per Slice,700,34,80,3,10,26,12,0.5,65,1710,,40%,40%
+Walk-In,Big Cheese,,,Per Slice,580,29,78,3,10,17,8,0.5,50,1380,,40%,40%
+Walk-In,Canadian Eh! Pizza,,,Per Slice,710,36,81,4,11,27,12,0.5,85,1870,,40%,45%
+Walk-In,Classic Super/All Dressed,,,Per Slice,660,33,81,4,11,23,10,0.5,75,1660,,40%,45%
+Walk-In,Garden Veggie Pizza,,,Per Slice,560,30,77,11,11,16,8,0.5,50,950,,40%,30%
+Walk-In,Pepperoni Pizza,,,Per Slice,670,33,78,4,10,25,11,0.5,70,1680,,40%,40%
+Walk-In,Spicy BBQ Chicken Pizza,,,Per Slice,680,35,94,5,21,18,8,0.5,70,1890,,45%,40%
+Walk-In,Plant-Based Pepperoni Slice,,,Per Slice,,,,,,,,,,,,,
+Walk-In,Tropical Hawaiian Pizza,,,Per Slice,690,33,82,4,14,26,11,0.5,70,1720,,40%,40%
+Alternative,Cauli Pesto,,,0,190,9,20,2,2,8,3,0.1,25,340,,15%,8%
+Alternative,Gluten Free Cheese Pizza,,,0,149,5,23,3,2,5,2,0,12,343,,12%,0
+Alternative,Gluten Free Pepperoni Pizza,,,0,175,7,23,3,2,7,3,0,18,438,,12%,0
+Chicken,Chicken Tenders,,,,,,,,,,,,,,,,
+Chicken,Classic Wings,5,,,510,40,1,0,1,38,9,0.2,225,1090,,8%,15%
+Chicken,Chicken Bites,,,,,,,,,,,,,,,,
+Chicken,Crispy Breaded Wings,5,,,650,40,21,2,1,47,11,0.2,165,1260,,6%,25%
+Chicken,Boneless Chicken Bites,5,,,380,27,25,2,1,19,2.5,0.1,75,1060,,2%,15%
+Chicken,Gluten Free Chicken Bites,5,,,350,23,36,2,1,12,1.5,0,70,510,,2%,4%
+Chicken,Popcorn Chicken,0.5,,,280,15,20,0,4,16,2.5,0,15,590,,0%,6%
+Chicken,Buffalo Chicken Sandwich,,,,,,,,,,,,,,,,
+Chicken,Classic Chicken Sandwich,,,Per sandwich,760,24,52,4,8,52,5,0.2,35,1530,,6%,25%
+Chicken,Creamy Garlic Chicken Sandwich,,,Per sandwich,760,24,51,4,8,52,4.5,0.5,35,1430,,8%,25%
+Chicken,Spicy Sriracha Mayo Chicken Sandwich,,,Per sandwich,680,24,53,4,9,43,4.5,0.2,35,1650,,6%,25%
+Desserts,Two-Bite Brownies,2,,,160,1,21,1,12,9,2,0,0,75,,0%,8%
+Desserts,Funnel Cake Stix,,,1/4,250,2,36,0,16,12,3,0,20,220,,2%,2%
+Dips,Buffalo Sauce,1,,,80,0.1,0.5,0.2,0,8,1.7,0,0,563,,,0%
+Dips,Cheddar Jalapeno,,,,,,,,,,,,,,,,
+Dips,Chimichurri Ranch,,,,,,,,,,,,,,,,
+Dips,Creamy Dill,,,,,,,,,,,,,,,,
+Dips,Creamy Garlic Sauce,1,,,180,0.2,1,0,0,19,1.5,0.3,0,160,,,0%
+Dips,Honey Garlic Sauce,1,,,45,0.1,11,0,10,0,0,0,0,65,,,0%
+Dips,Honey Mustard,,,,,,,,,,,,,,,,
+Dips,Hot Sauce,1,,,35,0.3,6,0,4,1,0.5,0,0,590,,,0%
+Dips,Italian Marinara,,,,,,,,,,,,,,,,
+Dips,Mango Pineapple Chili Crisp,,,,,,,,,,,,,,,,
+Dips,Peppercorn Ranch,,,,,,,,,,,,,,,,
+Dips,Sriracha Creamy Garlic,,,,,,,,,,,,,,,,
+Dips,Sweet Chili Thai Sauce,1,,,50,0.1,13,0,11,0,0,0,0,210,,,0%
+Dips,Texas BBQ Sauce,1,,,50,0.3,11,0,9,2,0,0,0,240,,,2%
+Dips,Sweet & Spicy Bang Bang,,,,,,,,,,,,,,,,
+Dips,Home Style Italian Tomato Sauce,1,,,20,0.5,3,0,2,5,0.1,0,0,138,,,2%
+Dips,Mild Sauce,1,,,35,0.2,8,0,6,0,0,0,0,350,,,0%
+Dips,Pesto Sauce,1,,,100,2,5,1,2,8,1.5,0,5,180,,,2%
+Donair,Single Donair Wrap,,,,478,23,44,2,6,23,10,1,68,995,,7%,32%
+Donair,Double Donair Wrap,,,,804,41,56,4,11,45,20,2,136,1857,,11%,49%
+Donair,Single Donair Wrap Combo,,,,618,23,83,2,45,23,10,1,68,1020,,7%,32%
+Donair,Double Donair Wrap Combo,,,,944,41,95,4,50,45,20,2,136,1882,,11%,49%
+Donair,Donair Poutine,,,,739,25,71,4,7,41,18,1,81,2222,,3%,14%
+Donair,Large Donair Poutine,,,,,,,,,,,,,,,,
+Donair,Donair Poutine Combo,,,,879,25,110,4,46,41,18,1,81,2247,,3%,14%
+Donair,Small Donair Pizza,,,Per Slice,229,11,29,0,6,8,3,0,25,390,,9%,16%
+Donair,Medium Donair Pizza,,,Per Slice,235,11,30,0,7,8,3,0,25,410,,9%,17%
+Donair,Large Donair Pizza,,,Per Slice,269,7,42,0,7,9,4,0,14,414,,6%,19%
+Donair,X-Large Donair Pizza,,,Per Slice,284,13,38,0,7,9,4,0,30,499,,11%,21%
+Donair,Donair Dip,,,,,,,,,,,,,,,,
+Loaded Tots,Plain tots with dip cup,341,Full Serving,,828,8,70,8,4,55,12,0,0,1497,,0,8%
+Loaded Tots,Plain tots with dip cup,171,2 Servings per,,414,4,35,4,2,28,6,0,0,748,,0,4%
+Loaded Tots,Plain tots with dip cup,114,3 Servings per,,276,3,23,3,1,18,4,0,0,499,,0,3%
+Loaded Tots,Portion for snack box,241,Full Serving,,459,6,49,6,3,26,7,0,0,947,,0,6%
+Loaded Tots,Poutine Loaded Tots,462,Full Serving,,756,21,67,6,4,46,20,1,55,2212,,0,8%
+Loaded Tots,Poutine Loaded Tots,231,2 Servings per,,378,11,33,3,2,23,10,0,28,1106,,0,4%
+Loaded Tots,Poutine Loaded Tots,154,3 Servings per,,252,7,22,2,1,15,7,0,18,737,,0,3%
+Loaded Tots,Buffalo Popcorn Chicken and Cheese Tots,441,Full Serving,,1168,27,67,6,5,86,20,1,45,2220,,43%,7%
+Loaded Tots,Buffalo Popcorn Chicken and Cheese Tots,221,2 Servings per,,584,13,34,3,2,43,10,0,23,1110,,22%,3%
+Loaded Tots,Buffalo Popcorn Chicken and Cheese Tots,147,3 Servings per,,389,9,22,2,2,29,7,0,15,740,,14%,2%
+Loaded Tots,Creamy Garlic and Cheese Tots,371,Full Serving,,1016,20,57,6,3,77,18,1,38,1663,,38%,6%
+Loaded Tots,Creamy Garlic and Cheese Tots,185,2 Servings per,,508,10,29,3,2,38,9,0,19,831,,19%,3%
+Loaded Tots,Creamy Garlic and Cheese Tots,124,3 Servings per,,339,7,19,2,1,26,6,0,13,554,,13%,2%
+Loaded Tots,Smokey BBQ Bacon and Cheese Tots,406,Full Serving,,1132,20,62,6,16,80,21,16,38,1760,,42%,7%
+Loaded Tots,Smokey BBQ Bacon and Cheese Tots,203,2 Servings per,,566,10,31,3,8,40,10,8,19,880,,21%,4%
+Loaded Tots,Smokey BBQ Bacon and Cheese Tots,135,3 Servings per,,377,7,21,2,5,27,7,5,13,587,,14%,2%
+Plant-Based Chicken,Plant-Based Chicken Sandwich,,,Per sandwich,760,17,54,7,3,55,8,0.2,0,1780,,25%,35%
+Plant-Based Chicken,Spicy Plant-Based Chicken Sandwich,,,Per sandwich,680,17,55,7,4,46,7,0.2,0,1900,,25%,35%
+Plant-Based Chicken,Plant-Based Buffalo Chicken Sandwich,,,Per sandwich,,,,,,,,,,,,,
+Poutine,Classic Poutine,,,Per Poutine,600,18,63,4,2,32,14,0.7,55,1890,,,8%
+Poutine,Popcorn Chicken Poutine,,,Per Poutine,720,25,72,5,3,38,15,0.7,65,1805,,,10%
+Poutine,Bacon Poutine,,,Per Poutine,720,23,63,4,2,42,18,0.7,80,2190,,,8%
+Poutine,Large Poutine,,,Per 1/2 poutine,465,105,55.5,4,1.5,22.5,7.75,0.4,27.5,1285,,1%,7%
+Poutine,Large Popcorn Chicken Poutine,,,Per 1/2 poutine,525,14,60,4.5,2,25.5,8.25,0.4,32.5,1242.5,,1%,8%
+Poutine,Large Bacon Poutine,,,Per 1/2 poutine,525,13,55.5,4,1.5,27.5,9.75,0.4,40,1435,,1%,7%
+Poutine,Donair Poutine,,,Per Poutine,889,33,82,5,11,33,22,1,105,2815,,40%,21%
+Poutine,Large Donair Poutine,,,Per 1/2 poutine,513,20,44,3,7,21,13,1,65,1573,,22%,14%
+Sandwiches,Buffalo Chicken Sandwich,,,,,,,,,,,,,,,,
+Sandwiches,Classic Chicken Sandwich,,,Per sandwich,760,24,52,4,8,52,5,0.2,35,1530,,,25%
+Sandwiches,Creamy Garlic Chicken Sandwich,,,Per sandwich,760,24,51,4,8,52,4.5,0.5,35,1430,,,25%
+Sandwiches,Spicy Sriracha Mayo Chicken Sandwich,,,Per sandwich,680,24,53,4,9,43,4.5,0.2,35,1650,,,25%
+Sides,Fries,,,1,330,3,48,4,1,13,15,0.1,0,680,,,6%
+Sides,Curly Fries,,,,,,,,,,,,,,,,
+Sides,Jalapeño Poppers,2,,,140,3,16,1,3,8,35,0.1,15,490,,,4%
+Sides,Cauliflower Bites,,,1,280,4,28,0,2,17,2,0,0,550,,,6%
+Sides,Sauced Clauliflower Bites,,,,,,,,,,,,,,,,
+Sides,Onion Rings,,,1,500,5,56,2,7,29,3,0.1,0,1310,,,20%
+Sides,Lay’s Classic,40,,,220,2,21,1,0,14,15,0,0,270,,,4%
+Sides,Doritos Nachos Cheese,45,,,230,3,28,2,1,12,15,0,0,330,,,4%
+Sides,Ruffles,40,,,210,3,21,1,1,13,15,0,0,470,,,4%
+Strombolis,Pesto Mediterranean Stromboli,,,Per stromboli,810,26,91,4,11,38,"9,00","4,00",30,2.280,12,27%,36%
+Strombolis,Pepperoni Stromboli,,,Per stromboli,770,31,84,4,9,35,"12,00","10,00",60,1.910,10,23%,33%
+Strombolis,Four Meat Stromboli,,,Per stromboli,790,35,84,4,9,35,"12,00","5,00",70,2.040,9,23%,36%
+Strombolis,Smokey BBQ Chicken Stromboli,,,Per stromboli,740,35,96,4,20,24,"8,00","3,00",65,1.970,19,27%,33%
+Strombolis,Hawaiian Stromboli,,,Per stromboli,730,29,90,4,14,28,"10,00","4,00",45,1.750,9,23%,33%
+Wing Sauce,Buffalo Sauce,1,,,80,0.1,0.5,0.2,0,8,1.7,0,0,563,,,0%
+Wing Sauce,Honey Garlic Sauce,1,,,45,0.1,11,0,10,0,0,0,0,65,,,0%
+Wing Sauce,Hot Sauce,1,,,35,0.3,6,0,4,1,0.5,0,0,590,,,0%
+Wing Sauce,Sweet Chili Thai Sauce,1,,,50,0.1,13,0,11,0,0,0,0,210,,,0%
+Wing Sauce,Texas BBQ Sauce,1,,,50,0.3,11,0,9,2,0,0,0,240,,,2%

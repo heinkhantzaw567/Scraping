@@ -1,0 +1,135 @@
+Category,Item,Serving Weight (g),Calories,Calories from Fat,Fat - Total (g),Saturated Fat (g),Trans Fat,Cholesterol (mg),Sodium (mg),Carbohydrates (g),Dietary Fiber (g),Sugars (g),Protein (g),Allergen Statement
+PROTEINS,1 Pc. Hand-Breaded Chicken Tenders,52,90,25,3,1,0,40,370,2,0,0,13,"Contains Egg, Milk, MSG, Soy, Wheat."
+PROTEINS,3 Pc. Hand-Breaded Chicken Tenders,156,260,80,9,2.5,0,125,1100,5,1,0,40,"Contains Egg, Milk, MSG, Soy, Wheat."
+PROTEINS,3 Piece Chicken Strips - Freezer to Fryer,176,370,160,18,2.5,0,55,1190,29,2,8,21,"Contains Sesame, Wheat."
+PROTEINS,5 Pc. Hand-Breaded Chicken Tenders,260,430,140,15,4,0,210,1830,8,2,0,67,"Contains Egg, Milk, MSG, Soy, Wheat."
+PROTEINS,Grilled Tender - 1 Tender,73,70,15,1.5,0,0,40,240,0,0,0,7,None.
+PROTEINS,Grilled Tenders - 3 Tenders,218,220,40,4.5,1,0,120,630,0,0,0,20,None.
+PROTEINS,Grilled Tenders - 5 Tenders,363,360,70,8,1.5,0,200,1180,0,0,0,33,None.
+PROTEINS,Chicken Club Sandwich - Grilled,291,440,130,14,3.5,0,85,1220,39,1,8,22,"Contains Egg, Milk, Soy, Wheat."
+PROTEINS,Chicken Club Sandwich - Hand Breaded,250,470,150,17,5,0,85,1370,43,2,9,36,"Contains Egg, Milk, MSG, Soy, Wheat."
+PROTEINS,Chicken Sandwich - Grilled,272,380,80,9,1,0,85,970,40,1,8,19,"Contains Egg, Wheat."
+PROTEINS,Chicken Sandwich - Hand Breaded,230,410,110,12,2,0,85,1130,43,2,8,33,"Contains Egg, Milk, MSG, Soy, Wheat."
+PROTEINS,Chicken Slider - Grilled,127,200,50,6,0.5,0,45,600,19,0,3,10,"Contains Egg, Wheat."
+PROTEINS,Chicken Slider - Hand Breaded,106,220,60,7,1.5,0,45,680,21,0,3,16,"Contains Egg, Milk, MSG, Soy, Wheat."
+PROTEINS,Crispy Chicken Club Sandwich - FTF,260,540,230,25,5,0,40,1510,52,2,12,26,"Contains Egg, Milk, Sesame, Soy, Wheat."
+PROTEINS,Crispy Chicken Sandwich FTF,240,480,180,20,2.5,0,40,1270,51,2,12,23,"Contains Egg, Sesame, Wheat."
+PROTEINS,BBQ Bacon Crunch Cheeseburger - Double,269,760,423,47,18,1.5,90,1450,51,1,14,36,"Contains Milk, Wheat."
+PROTEINS,BBQ Bacon Crunch Cheeseburger - Single,198,550,270,30,11,0.5,50,1050,50,1,13,22,"Contains Milk, Wheat."
+PROTEINS,Beyond Bacon Cheeseburger,252,510,240,27,8,0.5,5,1110,46,3,9,25,"Contains Egg, Milk, Wheat."
+PROTEINS,Beyond Burger,250,500,220,25,6,0,5,990,51,4,13,22,"Contains Egg, Wheat."
+PROTEINS,Cheeseburger,175,410,170,19,7,1.5,40,910,42,1,10,19,"Contains Milk, Wheat."
+PROTEINS,Double Cheeseburger,242,600,310,34,13,2.5,75,1260,42,1,10,31,"Contains Milk, Wheat."
+PROTEINS,Hamburger,161,360,130,14,4,1.5,40,680,41,1,9,16,Contains Wheat.
+PROTEINS,Original Bacon Cheeseburger - Double,296,690,390,43,16,2,95,1410,42,2,10,36,"Contains Egg, Milk, Wheat."
+PROTEINS,Original Bacon Cheeseburger - Single,225,480,230,26,9,1,50,1010,41,2,9,23,"Contains Egg, Milk, Wheat."
+PROTEINS,Papa Burger - Double,282,650,360,40,14,1.5,80,1260,42,2,11,31,"Contains Egg, Milk, Wheat."
+PROTEINS,Papa Burger - Single,214,460,220,24,8,0.5,45,920,42,2,10,19,"Contains Egg, Milk, Wheat."
+PROTEINS,Spicy Papa Burger - Double,300,660,360,40,14,1.5,80,1660,44,2,12,31,"Contains Egg, Milk, Wheat."
+PROTEINS,Spicy Papa Burger - Single,233,470,216,24,8,0.5,45,1400,43,2,11,19,"Contains Egg, Milk, Wheat."
+PROTEINS,Mushroom Onion Melts - Burger - Double,235,590,300,34,13,1.5,100,1480,39,1,7,32,"Contains Milk, Wheat."
+PROTEINS,Mushroom Onion Melts - Burger - Single,167,400,170,19,7,0.5,50,1150,38,1,7,19,"Contains Milk, Wheat."
+PROTEINS,Mushroom Onion Melts - Texas Toast Double,245,640,370,41,16,1.5,90,1820,35,2,4,36,"Contains Milk, Soy, Wheat."
+PROTEINS,Mushroom Onion Melts - Texas Toast Single,175,430,220,24,9,0.5,50,1420,34,2,3,22,"Contains Milk, Soy, Wheat."
+PROTEINS,Corn Dog Nuggets - 10 Pc.,194,540,230,26,5,0,100,670,60,12,12,17,"Contains Egg, Milk, Soy, Wheat."
+PROTEINS,Corn Dog Nuggets - 5 Pc.,97,270,120,13,2.5,0,50,330,30,6,6,8,"Contains Egg, Milk, Soy, Wheat."
+PROTEINS,Bacon Cheese Dog,146,390,225,25,9,1,45,1010,29,1,3,15,"Contains Milk, Sesame, Wheat."
+PROTEINS,Coney Cheese Dog,168,380,207,23,9,1,40,1100,31,1,4,15,"Contains Milk, Sesame, Soy, Wheat."
+PROTEINS,Coney Dog,139,340,180,20,7,1,40,890,29,1,4,14,"Contains Sesame, Soy, Wheat."
+PROTEINS,Footlong Coney Cheese Dog,335,730,400,44,16,1.5,85,2340,56,1,9,26,"Contains Milk, Soy, Wheat."
+PROTEINS,Footlong Coney Dog,278,650,340,38,14,1.5,80,1910,52,1,9,24,"Contains Soy, Wheat."
+PROTEINS,Footlong Hot Dog Regular,250,640,320,36,13,2.5,70,1660,55,0,13,20,Contains Wheat.
+PROTEINS,Hot Dog Regular,125,330,171,19,7,1.5,35,770,31,1,6,12,"Contains Sesame, Wheat."
+PROTEINS,Pork Tenderloin Sandwich,242,470,120,13,2,0.5,50,1070,63,2,8,19,"Contains Egg, Milk, Soy, Wheat."
+PROTEINS,2 Pc. Pub Cod Sandwich,364,940,460,51,6,0,70,1810,85,3,9,33,"Contains Egg, Fish, Wheat."
+PROTEINS,Pub Battered Cod A La Carte - 2 Pc.,306,890,550,61,8,0,85,1780,57,2,9,27,"Contains Egg, Fish, Milk, Wheat."
+PROTEINS,Pub Battered Cod A La Carte - 3 Pc.,259,850,620,68,8,0,65,930,75,0,9,11,"Contains Egg, Fish, Milk, Wheat."
+PROTEINS,Pub Battered Cod Slider,121,360,200,22,2.5,0,20,490,41,0,4,7,"Contains Egg, Fish, Milk, Wheat."
+PROTEINS,Shrimp - 16 Pc.,161,480,230,26,6,0,150,1010,45,3,1,18,"Contains Milk, Shellfish, Wheat."
+SIDES,Cheese Curds Large 10oz,291,1060,660,74,38,2,195,1770,44,2,4,52,"Contains Egg, Milk, Soy, Wheat."
+SIDES,Cheese Curds Small 5oz,146,530,330,37,19,1,100,890,22,1,2,26,"Contains Egg, Milk, Soy, Wheat."
+SIDES,Cheese Fries - Large,299,680,260,29,8,0,10,2090,90,9,2,12,Contains Milk.
+SIDES,Cheese Fries - Regular,271,640,230,26,6,0,10,1870,88,9,2,11,Contains Milk.
+SIDES,Chili Cheese Fries - Large,298,600,240,27,8,0,20,1700,73,7,3,14,"Contains Milk, Soy."
+SIDES,Chili Cheese Fries - Regular,198,410,160,18,5,0,10,1100,51,5,2,9,"Contains Milk, Soy."
+SIDES,Chili Fries - Large,271,670,270,30,8,0,5,1880,88,8,0,9,Contains Soy.
+SIDES,Chili Fries - Regular,143,350,140,16,4,0,0,1260,47,4,0,5,Contains Soy.
+SIDES,Coney Cheese Fries - Large,241,510,180,20,5,0,15,1270,68,7,3,12,"Contains Milk, Soy."
+SIDES,Coney Fries - Large,170,370,130,15,4,0,10,880,49,5,2,8,Contains Soy.
+SIDES,Fries - Large 5.5oz,157,430,153,17,4,0,0,1220,61,1,0,5,None.
+SIDES,Fries - Regular 4oz,115,310,108,12,3,0,0,1050,44,1,0,4,None.
+SIDES,Onion Rings - Large 12 Pc.,224,380,60,7,0,0,0,1810,67,2,9,9,"Contains Milk, Wheat."
+SIDES,Onion Rings - Regular 8 Pc.,149,250,45,4.5,0,0,0,1200,45,1,6,6,"Contains Milk, Wheat."
+SIDES,Slaw 4oz,113,130,100,11,2,0,0,270,9,3,7,1,Contains Egg.
+KID'S MEALS,2 Pc. Hand-Breaded Chicken Tender Kid's Meal,402-421,243-524,54-149,6-17,2-5,0,83-98,745-1203,21-55,1-2,17-22,27-37,"Contains Egg, Milk, Sesame, Soy, Wheat."
+KID'S MEALS,5 Pc. Corn Dog Nuggets Kid's Meal,395-414,338-619,116-210,13-23,3-6,0,50-65,345-803,48-82,6-7,23-28,8-18,"Contains Egg, Milk, Sesame, Soy, Wheat."
+KID'S MEALS,Cheeseburger Kid's Meal,473-492,480-761,167-261,19-29,7-10,2,38-53,926-1384,60-94,1-2,27-32,19-29,"Contains Milk, Sesame, Wheat."
+KID'S MEALS,Hamburger Kid's Meal,459-478,430-711,126-221,14-25,4-8,2,38-53,691-1149,59-93,1-2,26-31,16-26,"Contains Milk, Sesame, Soy, Wheat."
+KID'S MEALS,Hot Dog Kid's Meal,402-421,380-661,171-266,19-30,7-11,1,35-50,692-1150,44-78,1-2,20-25,12-22,"Contains Milk, Sesame, Soy, Wheat."
+SWEETS & TREATS,Chocolate Cone - Kids 4oz,119,220,47,5,4,0,19,122,36,1,29,4,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Chocolate Cone - Regular 5.5oz,162,293,63,7,5,0,27,163,48,1,39,6,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Vanilla Cone - Kids 4oz,119,206,53,6,4,0,23,126,30,0,24,5,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Vanilla Cone - Regular 5.5oz,162,274,72,8,5,0,31,168,39,0,33,6,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Float - Diet Root Beer 16oz,411,159,45,5,3,0,20,158,22,0,21,4,Contains Milk.
+SWEETS & TREATS,Float - Diet Root Beer 20oz,468,159,45,5,3,0,20,168,22,0,21,4,Contains Milk.
+SWEETS & TREATS,Float - Diet Root Beer 30oz,737,318,89,10,7,0,40,299,44,0,42,8,Contains Milk.
+SWEETS & TREATS,Float - Pepsi Large,794,580,89,10,7,0,40,256,116,0,114,8,Contains Milk.
+SWEETS & TREATS,Float - Pepsi Regular,468,321,45,5,3,0,20,135,67,0,66,4,Contains Milk.
+SWEETS & TREATS,Float - Pepsi Small,411,296,45,5,3,0,20,129,60,0,59,4,Contains Milk.
+SWEETS & TREATS,Float - Root Beer 16oz,411,315,45,5,3,0,20,151,60,0,59,4,Contains Milk.
+SWEETS & TREATS,Float - Root Beer 20oz,468,343,45,5,3,0,20,161,66,0,65,4,Contains Milk.
+SWEETS & TREATS,Float - Root Beer 30oz,737,587,89,10,7,0,40,288,109,0,107,8,Contains Milk.
+SWEETS & TREATS,Freeze - Diet Root Beer 16oz,397,272,77,9,6,0,34,213,37,0,36,7,Contains Milk.
+SWEETS & TREATS,Freeze - Diet Root Beer 20oz,539,363,102,11,8,0,45,285,50,0,48,9,Contains Milk.
+SWEETS & TREATS,Freeze - Diet Root Beer 30oz,822,635,179,20,14,0,79,477,87,0,83,16,Contains Milk.
+SWEETS & TREATS,Freeze - Pepsi Large,879,848,179,20,14,0,79,444,146,0,142,16,Contains Milk.
+SWEETS & TREATS,Freeze - Pepsi Regular,539,500,102,11,8,0,45,257,88,0,86,9,Contains Milk.
+SWEETS & TREATS,Freeze - Pepsi Small,397,372,77,9,6,0,34,192,65,0,63,7,Contains Milk.
+SWEETS & TREATS,Freeze - Root Beer 16oz,397,386,77,9,6,0,34,208,65,0,63,7,Contains Milk.
+SWEETS & TREATS,Freeze - Root Beer 20oz,539,519,102,11,8,0,45,279,88,0,85,9,Contains Milk.
+SWEETS & TREATS,Freeze - Root Beer 30oz,822,848,179,20,14,0,79,468,139,0,134,16,Contains Milk.
+SWEETS & TREATS,Polar Swirl - Cookie Dough 12oz,331,672,221,25,15,0,57,443,93,1,76,13,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Polar Swirl - Cookie Dough 16oz,388,763,247,27,17,0,68,500,106,1,88,15,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Polar Swirl - Cookie Dough 20oz,494,996,326,36,22,0,85,656,138,1,113,19,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Polar Swirl - M&M 12oz,360,817,255,28,19,0,62,337,118,2,109,15,"Contains Milk, Soy."
+SWEETS & TREATS,Polar Swirl - M&M 16oz,417,908,280,31,21,0,74,393,130,2,121,17,"Contains Milk, Soy."
+SWEETS & TREATS,Polar Swirl - M&M 20oz,536,1205,375,42,27,0,93,502,174,3,161,22,"Contains Milk, Soy."
+SWEETS & TREATS,Polar Swirl - Oreo 12oz,328,665,148,16,11,0,57,456,95,1,78,13,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Polar Swirl - Oreo 16oz,385,756,173,19,13,0,68,513,107,1,90,15,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Polar Swirl - Oreo 20oz,490,986,220,24,16,0,85,675,140,1,116,20,"Contains Milk, Soy, Wheat."
+SWEETS & TREATS,Polar Swirl - Reese's Peanut Butter Cup 12oz,331,693,252,28,15,0,60,431,90,2,85,16,"Contains Milk, Peanut, Soy."
+SWEETS & TREATS,Polar Swirl - Reese's Peanut Butter Cup 16oz,388,784,277,31,17,0,72,488,103,2,97,19,"Contains Milk, Peanut, Soy."
+SWEETS & TREATS,Polar Swirl - Reese's Peanut Butter Cup 20oz,494,1027,371,41,22,0,90,638,134,3,126,24,"Contains Milk, Peanut, Soy."
+SWEETS & TREATS,Shake - Chocolate 16oz,358,548,149,17,11,0,62,293,80,1,73,15,Contains Milk.
+SWEETS & TREATS,Shake - Chocolate 20oz,500,776,196,22,15,0,82,414,119,1,108,20,Contains Milk.
+SWEETS & TREATS,Shake - Chocolate 30oz,699,1073,262,29,20,0,111,579,167,2,152,26,Contains Milk.
+SWEETS & TREATS,Shake - Strawberry 16oz,358,515,147,16,11,0,62,271,72,0,67,15,"Contains Milk, Sesame."
+SWEETS & TREATS,Shake - Strawberry 20oz,500,710,191,21,14,0,82,370,104,1,97,19,"Contains Milk, Sesame."
+SWEETS & TREATS,Shake - Strawberry 30oz,699,973,255,28,19,0,111,513,144,1,110,24,"Contains Milk, Sesame."
+SWEETS & TREATS,Shake - Vanilla 16oz,358,540,147,16,11,0,62,278,78,0,72,15,Contains Milk.
+SWEETS & TREATS,Shake - Vanilla 20oz,500,760,191,21,14,0,82,386,116,0,106,19,Contains Milk.
+SWEETS & TREATS,Shake - Vanilla 30oz,670,987,255,28,19,0,111,528,147,0,135,24,Contains Milk.
+SWEETS & TREATS,Sundae - Chocolate Regular,202,367,98,11,7,0,40,178,55,1,49,11,Contains Milk.
+SWEETS & TREATS,Sundae - Hot Caramel Regular,202,373,99,11,7,0,40,197,56,0,47,10,"Contains Milk, Soy."
+SWEETS & TREATS,Sundae - Hot Fudge Regular,202,420,134,15,11,0,40,208,59,0,48,11,"Contains Milk, Soy."
+SWEETS & TREATS,Sundae - Strawberry Regular,202,333,96,11,7,0,40,156,47,0,44,10,"Contains Milk, Sesame."
+ROOT BEER,Diet Root Beer 1/2 Gallon,1920,0,0,0,0,0,0,576,0,0,0,0,None.
+ROOT BEER,Diet Root Beer Gallon,3840,0,0,0,0,0,0,1152,0,0,0,0,None.
+ROOT BEER,Diet Root Beer Kid's 12oz,340,0,0,0,0,0,0,108,0,0,0,0,None.
+ROOT BEER,Diet Root Beer Large 30oz,900,0,0,0,0,0,0,270,0,0,0,0,None.
+ROOT BEER,Diet Root Beer Regular 20oz,600,0,0,0,0,0,0,180,0,0,0,0,None.
+ROOT BEER,Diet Root Beer Small 16oz,480,0,0,0,0,0,0,144,0,0,0,0,None.
+ROOT BEER,Root Beer 1/2 Gallon,1920,928,0,0,0,0,0,432,250,0,240,0,None.
+ROOT BEER,Root Beer Gallon,3840,1856,0,0,0,0,0,864,500,0,480,0,None.
+ROOT BEER,Root Beer Kids 12oz,340,150,0,0,0,0,0,30,43,0,43,0,None.
+ROOT BEER,Root Beer Large 30oz,900,440,0,0,0,0,0,200,117,0,117,0,None.
+ROOT BEER,Root Beer Regular 20oz,600,290,0,0,0,0,0,135,78,0,75,0,None.
+ROOT BEER,Root Beer Small 16oz,480,230,0,0,0,0,0,108,63,0,60,0,None.
+SAUCES,Cheese Sauce 2oz,57,80,60,6,2.5,0,5,430,5,0,0,2,Contains Milk.
+SAUCES,Coney Sauce 2oz,57,60,20,2.5,1,0,10,420,5,1,2,5,Contains Soy.
+SAUCES,Ketchup 2oz,57,50,0,0,0,0,0,630,13,0,13,0,None.
+SAUCES,Marinara 2oz,57,30,5,1,0,0,0,180,6,1,4,1,None.
+SAUCES,Mustard 2oz,57,45,15,1.5,0,4,0,690,4,0,0,2,None.
+SAUCES,Papa Sauce 2oz,57,260,210,24,3.5,0,20,700,9,0,9,0,Contains Egg.
+SAUCES,Spicy Papa Sauce 2oz,57,260,216,24,4,0,20,690,12,0,10,0,Contains Egg.
+SAUCES,Tartar Sauce 2oz,57,200,150,16,2.5,0,20,490,13,0,9,0,Contains Egg.
