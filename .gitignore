@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+mcdonalds_env/
+# Debug/intermediate scraping files
+**/sanity_*.json
+**/response_*.json
+**/debug_page.html
+*_hints.txt

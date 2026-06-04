@@ -1,0 +1,171 @@
+Category,Item,Serving Size,Weight (g),Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Dietary Fiber (g),Sugars (g),Protein (g),Vitamin A (% DV),Vitamin C (% DV),Calcium (% DV),Iron (% DV)
+Toppings,Mozzarella Cheese,Per 1 Pizza,20,60,4,2.5,0.1,15,90,1,0,0,6,0,0,10,0
+Toppings,Mozzarella Cheese Small,1 slice = 1/6 pizza,6,20,1,1,0.0,4,27,0,0,0,1.7,0,0,3,0
+Toppings,Mozzarella Cheese Medium,1 slice = 1/8 pizza,8,25,2,1,0.1,6,38,0,0,0,2.3,0,0,4,0
+Toppings,Mozzarella Cheese Large,1 slice = 1/12 pizza,8,25,2,1,0.0,5,37,0,0,0,2.3,0,0,4,0
+Toppings,Cheddar Cheese,Per 1 Pizza,14,50,5,2.5,0,15,90,0,0,0,3,0,0,8,0
+Toppings,Cheddar Cheese Small,1 slice = 1/6 pizza,5,20,2,1,0.0,6,35,0,0,0,1.2,0,0,3,0
+Toppings,Cheddar Cheese Medium,1 slice = 1/8 pizza,7,30,3,1,0.1,8,46,0,0,0,1.6,0,0,4,0
+Toppings,Cheddar Cheese Large,1 slice = 1/12 pizza,6,25,2,1,0.1,8,43,0,0,0,1.5,0,0,3,0
+Toppings,Feta Cheese,Per 1 Pizza,19,50,4,2.5,0,15,270,1,0,0,4,0,0,8,0
+Toppings,Feta Cheese Small,1 slice = 1/6 pizza,7,20,1,1,0.0,5,93,0,0,0,1.3,0,0,3,0
+Toppings,Feta Cheese Medium,1 slice = 1/8 pizza,9,25,2,1,0.1,6,128,0,0,0,1.9,0,0,4,0
+Toppings,Feta Cheese Large,1 slice = 1/12 pizza,8,25,2,1,0.0,6,116,0,0,0,1.8,0,0,3,0
+Toppings,Bacon,Per 1 Pizza,19,60,5,1.5,0,20,240,0,0,0,5,0,2,0,0
+Toppings,Bacon Small,1 slice = 1/6 pizza,7,20,2,1,0.0,7,80,0,0,0,1.8,0,1,0,0
+Toppings,Bacon Medium,1 slice = 1/8 pizza,9,30,2,1,0.0,8,105,0,0,0,2.3,0,1,0,1
+Toppings,Bacon Large,1 slice = 1/12 pizza,8,25,2,1,0.0,8,96,0,0,0,2.1,0,1,0,0
+Toppings,Beef,Per 1 Pizza,18,40,2.5,1.5,0,10,110,1,1,0,3,0,0,0,2
+Toppings,Beef Small,1 slice = 1/6 pizza,6,15,1,1,0.0,3,38,0,0,0,1.2,0,0,0,1
+Toppings,Beef Medium,1 slice = 1/8 pizza,10,20,1,1,0.0,5,58,0,0,0,1.8,0,0,1,1
+Toppings,Beef Large,1 slice = 1/12 pizza,9,20,1,1,0.0,5,54,0,0,0,1.7,0,0,1,1
+Toppings,Pepperoni Slices,Per 1 Pizza,7,30,2.5,1,0,5,70,0,0,0,1,0,0,0,0
+Toppings,Pepperoni Slices Small,1 slice = 1/6 pizza,3,15,1,0,0.0,3,30,0,0,0,0.7,0,0,0,0
+Toppings,Pepperoni Slices Medium,1 slice = 1/8 pizza,4,20,2,1,0.0,3,40,0,0,0,0.9,0,0,0,1
+Toppings,Pepperoni Slices Large,1 slice = 1/12 pizza,4,20,2,1,0.0,3,42,0,0,0,0.8,0,0,0,1
+Toppings,Italian Sausage,Per 1 Pizza,16,50,4.5,1.5,0,15,100,1,0,0,3,0,0,0,2
+Toppings,Italian Sausage Small,1 slice = 1/6 pizza,7,20,2,1,0.0,7,43,0,0,0,1.0,0,0,0,1
+Toppings,Italian Sausage Medium,1 slice = 1/8 pizza,9,30,3,1,0.0,9,58,0,0,0,1.4,0,0,0,1
+Toppings,Italian Sausage Large,1 slice = 1/12 pizza,9,30,3,1,0.0,9,60,0,0,0,1.5,0,0,0,1
+Toppings,Sliced Ham,Per 1 Pizza,12,15,0.5,0,0,5,115,0,0,0,2,0,0,0,0
+Toppings,Sliced Ham Small,1 slice = 1/6 pizza,5,5,0,0,0.0,3,48,0,0,0,1.0,0,0,0,0
+Toppings,Sliced Ham Medium,1 slice = 1/8 pizza,7,10,0,0,0.0,4,65,0,0,0,1.3,0,0,0,0
+Toppings,Sliced Ham Large,1 slice = 1/12 pizza,7,10,0,0,0.0,4,68,0,0,0,1.3,0,0,0,0
+Toppings,Pork,Per 1 Pizza,18,40,3,1,0,10,115,1,1,0,3,0,0,2,2
+Toppings,Pork Small,1 slice = 1/6 pizza,6,15,1,0,0.0,4,40,0,0,0,1.2,0,0,0,1
+Toppings,Pork Medium,1 slice = 1/8 pizza,10,25,2,1,0.0,6,60,0,0,0,1.8,0,0,1,1
+Toppings,Pork Large,1 slice = 1/12 pizza,9,20,1,1,0.0,5,57,0,0,0,1.6,0,0,1,1
+Toppings,Chicken,Per 1 Pizza,19,20,0,0,0,10,105,0,0,0,4,0,0,0,0
+Toppings,Chicken Small,1 slice = 1/6 pizza,7,10,0,0,0.0,3,40,0,0,0,1.5,0,0,0,0
+Toppings,Chicken Medium,1 slice = 1/8 pizza,9,10,0,0,0.0,4,51,0,0,0,2.0,0,1,0,0
+Toppings,Chicken Large,1 slice = 1/12 pizza,8,10,0,0,0.0,4,44,0,0,0,1.7,0,0,0,0
+Toppings,Green Peppers,Per 1 Pizza,16,5,0,0,0.0,0,0,1,0,0,0,0,20,0,0
+Toppings,Green Peppers Small,1 slice = 1/6 pizza,6,0,0,0,0.0,0,0,0,0,0,0.0,0,8,0,0
+Toppings,Green Peppers Medium,1 slice = 1/8 pizza,9,0,0,0,0.0,0,0,0,0,0,0.0,1,11,0,0
+Toppings,Green Peppers Large,1 slice = 1/12 pizza,8,0,0,0,0.0,0,0,0,0,0,0.1,1,11,0,0
+Toppings,Red Onions,Per 1 Pizza,17,5,0,0,0,0,0,1,0,1,0.2,0,2,0,0
+Toppings,Red Onions Small,1 slice = 1/6 pizza,5,0,0,0,0.0,0,0,1,0,0,0.1,0,1,0,0
+Toppings,Red Onions Medium,1 slice = 1/8 pizza,6,5,0,0,0.0,0,0,1,0,0,0.1,0,1,0,0
+Toppings,Red Onions Large,1 slice = 1/12 pizza,6,0,0,0,0.0,0,0,1,0,0,0.1,0,1,0,0
+Toppings,Mushrooms,Per 1 Pizza,13,5,0,0,0,0,1,0,0,0,0.2,0,0,0,0
+Toppings,Mushrooms Small,1 slice = 1/6 pizza,4,0,0,0,0.0,0,0,0,0,0,0.1,0,0,0,0
+Toppings,Mushrooms Medium,1 slice = 1/8 pizza,6,0,0,0,0.0,0,0,0,0,0,0.1,0,0,0,0
+Toppings,Mushrooms Large,1 slice = 1/12 pizza,6,0,0,0,0.0,0,0,0,0,0,0.1,0,0,0,0
+Toppings,Tomatoes,Per 1 Pizza,21,5,0,0,0,0,0,1,0,0,0.2,2,4,0,0
+Toppings,Tomatoes Small,1 slice = 1/6 pizza,9,0,0,0,0.0,0,0,0,0,0,0.2,1,1,0,0
+Toppings,Tomatoes Medium,1 slice = 1/8 pizza,11,0,0,0,0.0,0,0,0,0,0,0.1,1,2,0,0
+Toppings,Tomatoes Large,1 slice = 1/12 pizza,10,0,0,0,0.0,0,0,0,0,0,0.1,1,1,0,0
+Toppings,Black Olives,Per 1 Pizza,9,25,1.5,0.2,0,0,140,1,1,0.2,0.2,0,0,0,0
+Toppings,Black Olives Small,1 slice = 1/6 pizza,2,5,0,0,0.0,0,37,0,0,0,0.1,0,0,0,0
+Toppings,Black Olives Medium,1 slice = 1/8 pizza,3,10,1,0,0.0,0,53,0,0,0,0.1,0,0,0,0
+Toppings,Black Olives Large,1 slice = 1/12 pizza,3,10,1,0,0.0,0,53,0,0,0,0.1,0,0,0,0
+Toppings,Green Olives,Per 1 Pizza,9,15,1.5,0.2,0,0,150,0,0,0,0.1,0,0,0,0
+Toppings,Green Olives Small,1 slice = 1/6 pizza,2,5,0,0,0.0,0,38,0,0,0,0.0,0,0,0,0
+Toppings,Green Olives Medium,1 slice = 1/8 pizza,3,5,1,0,0.0,0,55,0,0,0,0.0,0,0,0,0
+Toppings,Green Olives Large,1 slice = 1/12 pizza,3,5,1,0,0.0,0,56,0,0,0,0.0,0,0,0,0
+Toppings,Hot Peppers,Per 1 Pizza,22,5,0,0,0,0,350,1,0,0,0,0,0,0,0
+Toppings,Hot Peppers Small,1 slice = 1/6 pizza,7,0,0,0,0.0,0,110,0,0,0,0.0,0,0,0,0
+Toppings,Hot Peppers Medium,1 slice = 1/8 pizza,9,0,0,0,0.0,0,141,0,0,0,0.0,0,0,0,0
+Toppings,Hot Peppers Large,1 slice = 1/12 pizza,8,0,0,0,0.0,0,133,0,0,0,0.0,0,0,0,0
+Toppings,Pineapple,Per 1 Pizza,30,20,0,0,0,0,0,5,0,5,0.2,0,0,0,0
+Toppings,Pineapple Small,1 slice = 1/6 pizza,10,10,0,0,0.0,0,0,2,0,2,0.1,0,0,0,0
+Toppings,Pineapple Medium,1 slice = 1/8 pizza,12,10,0,0,0.0,0,0,2,0,2,0.1,0,0,0,0
+Toppings,Pineapple Large,1 slice = 1/12 pizza,10,10,0,0,0.0,0,0,2,0,2,0.1,0,0,0,0
+Toppings,Spinach,Per 1 Pizza,6,0,0,0,0,0,3,0,0,0,0.1,0,0,0,0
+Toppings,Spinach Small,1 slice = 1/6 pizza,2,0,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0
+Toppings,Spinach Medium,1 slice = 1/8 pizza,2,0,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0
+Toppings,Spinach Large,1 slice = 1/12 pizza,2,0,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0
+Toppings,Parmesan,Per 1 Pizza,5,20,1,1,0.1,5,105,1,0,0,2,0,0,6,0
+Toppings,Parmesan Small,1 slice = 1/6 pizza,2,5,0,0,0.0,2,32,0,0,0,0.5,0,0,2,0
+Toppings,Parmesan Medium,1 slice = 1/8 pizza,2,10,1,0,0.0,3,48,0,0,0,0.8,0,0,3,0
+Toppings,Parmesan Large,1 slice = 1/12 pizza,2,10,1,0,0.0,2,48,0,0,0,0.8,0,0,2,0
+Toppings,Roasted Red Pepper,Per 1 Pizza,14,5,0,0,0,0,0,1,0,0,0.1,10,50,0,0
+Toppings,Roasted Red Pepper Small,1 slice = 1/6 pizza,6,0,0,0,0.0,0,0,1,0,0,0.1,4,23,0,0
+Toppings,Roasted Red Pepper Medium,1 slice = 1/8 pizza,7,5,0,0,0.0,0,0,1,0,0,0.1,5,29,0,0
+Toppings,Roasted Red Pepper Large,1 slice = 1/12 pizza,7,5,0,0,0.0,0,0,1,0,0,0.1,5,28,0,0
+Toppings,Garlic,Per 1 Pizza,4,5,0,0,0,0,1,0,0,0,0,0,0,0,0
+Toppings,Garlic Small,1 slice = 1/6 pizza,1,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0
+Toppings,Garlic Medium,1 slice = 1/8 pizza,2,5,0,0,0.0,0,0,1,0,0,0.0,0,0,0,0
+Toppings,Garlic Large,1 slice = 1/12 pizza,3,5,0,0,0.0,0,0,1,0,0,0.0,0,0,0,0
+Toppings,Old World Sauce,Per 1 Pizza,15,10,0.1,0,0,0,80,2,0,1,0.3,0,4,0,0
+Toppings,Old World Sauce Small,1 slice = 1/6 pizza,8,5,0,0,0.0,0,42,1,0,1,0.2,0,3,0,0
+Toppings,Old World Sauce Medium,1 slice = 1/8 pizza,12,10,0,0,0.0,0,65,2,0,1,0.3,1,4,0,0
+Toppings,Old World Sauce Large,1 slice = 1/12 pizza,11,5,0,0,0.0,0,58,1,0,1,0.3,1,3,0,0
+Toppings,Regular Sauce,Per 1 Pizza,15,10,0,0,0,0,75,2,0,1,0.3,2,4,0,0
+Toppings,Regular Sauce Small,1 slice = 1/6 pizza,8,5,0,0,0.0,0,38,1,0,0,0.2,1,2,0,0
+Toppings,Regular Sauce Medium,1 slice = 1/8 pizza,12,5,0,0,0.0,0,60,1,0,1,0.3,2,3,0,0
+Toppings,Regular Sauce Large,1 slice = 1/12 pizza,11,5,0,0,0.0,0,53,1,0,1,0.2,2,2,0,0
+Toppings,Pesto Sauce,Per 1 Pizza,9,35,3.5,0.5,0.1,0,90,0,0,0,1,2,2,2,2
+Toppings,Pesto Sauce Small,1 slice = 1/6 pizza,3,10,1,0,0.0,0,32,0,0,0,0.2,1,1,1,0
+Toppings,Pesto Sauce Medium,1 slice = 1/8 pizza,5,20,2,0,0.1,1,48,0,0,0,0.3,1,1,1,1
+Toppings,Pesto Sauce Large,1 slice = 1/12 pizza,5,20,2,0,0.0,0,48,0,0,0,0.3,1,2,1,1
+Toppings,Alfredo Sauce,Per 1 Pizza,15,20,1.5,0.4,0,0,80,1,0,0,0.2,0,0,0,0
+Toppings,Alfredo Sauce Small,1 slice = 1/6 pizza,8,10,1,0,0.0,1,43,0,0,0,0.2,0,0,0,0
+Toppings,Alfredo Sauce Medium,1 slice = 1/8 pizza,11,15,1,0,0.0,1,63,0,0,0,0.1,0,0,1,0
+Toppings,Alfredo Sauce Large,1 slice = 1/12 pizza,10,15,1,0,0.0,1,56,0,0,0,0.1,0,0,1,0
+Toppings,BBQ Sauce,Per 1 Pizza,16,30,0,0,0,0,220,7,0,6,0.2,0,2,0,2
+Toppings,BBQ Sauce Small,1 slice = 1/6 pizza,8,15,0,0,0.0,0,103,3,0,3,0.1,0,1,0,0
+Toppings,BBQ Sauce Medium,1 slice = 1/8 pizza,12,20,0,0,0.0,0,163,5,0,4,0.1,0,1,0,1
+Toppings,BBQ Sauce Large,1 slice = 1/12 pizza,10,20,0,0,0.0,0,143,4,0,4,0.1,0,1,0,1
+Appetizers,Breadstick,1 piece,46,190,10,1,0.1,0,150,22,1,0,4,0,0,0,50
+Appetizers,Breadstick with Cheese,1 piece,58,230,12,3,0.2,10,200,22,1,0,7,0,0,8,50
+Appetizers,Breadstick Sauce,dip cup,85,45,1,0,0.0,0,340,8,2,5,1,8,20,0,2
+Appetizers,Garlic Bread,1 piece,40,120,5,5,0.0,0,230,17,1,1,3,0,0,2,8
+Appetizers,Garlic Bread with Cheese,1 piece,64,190,10,5,0.2,20,400,15,1,1,11,2,0,20,8
+Appetizers,Top Your Own Bruschetta,1/6 of order,101,260,13,3,0.2,10,520,28,1,2,8,4,8,10,15
+Appetizers,Stuffed Pizza Rollers,1 roll,77,270,11,5,0,25,390,31,1,1,12,0,0,15,15
+Appetizers,Poutine Bacon,1 order,621,1440,78,18,1,95,4290,147,12,1,34,0,6,50,25
+Appetizers,Poutine Canadian,1 order,647,1440,78,18,1,95,4300,148,13,1,35,0,6,50,25
+Appetizers,Poutine Chicken,1 order,704,1410,71,15,1,80,4120,154,14,6,36,0,15,50,25
+Appetizers,Poutine Plain,1 order,596,1330,70,14,1,65,3780,146,12,1,26,0,6,50,25
+Appetizers,Pesto Chicken Spin Rolls,1 roll,160,420,22,6,0.5,30,1020,39,2,2,16,4,6,20,10
+Appetizers,French Fries,Medium size,311,940,47,3.0,0,0,2120,121,11,0,8,0,6,6,15
+Wings,Oven Baked Wings Buffalo Wings,1 piece,25,47.5,3,1,0.0,30,147.5,0.5,0,1,6,0,0,0,2
+Wings,WingStreet Wings Traditional Wings,1 piece,16,40,3,1,0.0,19,126,0,0,0,4,0,0,0,1
+Wings,Boneless Bites,1 piece,21,60,4,0,0.0,9,196,5,0,0,3,0,0,0,2
+Wings,Buffalo Mild Wing Sauce,per serving for 1 wing,9,15,0,0,0,0,210,3,0,0,0,1,0,0,0
+Wings,Buffalo Medium Wing Sauce,per serving for 1 wing,9,15,0,0,0,0,212,3,0,1,0,0,2,0,0
+Wings,Buffalo Burning Hot Wing Sauce,per serving for 1 wing,9,15,0,0,0,0,212,3,0,1,0,0,2,0,0
+Wings,Honey BBQ Sauce,per serving for 1 wing,14,35,0,0,0,0,128,8,0,7,0,0,1,0,1
+Wings,Garlic Parmesan Sauce,per serving for 1 wing,7,5,0,0,0,1,21,0,0,0,0,0,0,1,0
+Wings,Honey Garlic Sauce,per serving for 1 wing,8,20,0,0,0,0,46,5,0,5,0,0,0,0,0
+Wings,Salt and Pepper Dry Rub,per serving for 1 wing,1,5,0,0,0,0,56,0,0,0,0,0,0,0,0
+Wings,Indian Butter Sauce,per serving for 1 wing,14,20,1,0,0,1,118,3,0,2,0,2,0,0,1
+Salad,Caesar Salad with Dressing,side,149,260,19,5,0.3,25,690,12,2,1,8,8,35,15,15
+Salad,Caesar Salad with Dressing,entrée,295,540,40,10,0.5,55,1490,25,4,2,18,10,70,25,30
+Salad,Greek Salad w/o Dressing,side,158,130,7,3,0.1,15,560,6,3,2,7,2,30,10,8
+Salad,Greek Salad w/o Dressing,entrée,317,280,16,8,0.4,40,1200,12,5,3,16,8,60,25,15
+Salad,Italian House Salad with Low Fat Raspberry Dressing,side,152,45,1,0,0,0,45,6,2,4,2,0,30,2,8
+Salad,Italian House Salad w/o Dressing,side,158,80,2,0,0,0,190,12,2,2,3,0,35,4,15
+Salad,Italian House Salad w/o Dressing,entrée,291,160,4,1,0.1,0,380,24,5,4,6,0,70,8,25
+Salad,Warm Spinach Salad with Dressing,entrée,272,410,29,5,0.2,65,1080,13,2,7,27,15,10,4,10
+Dressing and Dips,Caesar,side 28ml (1oz),,120,13,2,0.2,10,260,1,0,0,0.5,0,0,2,0
+Dressing and Dips,Sweet Italian,side 28ml (1oz),,140,13,2,0.1,0,160,4,0,2,0.2,0,0,0,0
+Dressing and Dips,Ranch,side 28ml (1oz),,120,13,2,0.1,10,230,2,0,1,0.3,0,0,0,0
+Dressing and Dips,Low Fat Ravin' Raspberry,side 28ml (1oz),,40,0,0,0,0,80,5,0,4,0,0,0,0,0
+Dressing and Dips,French,side 28ml (1oz),,110,10,2,0.1,0,240,4,0,3,0.1,2,0,0,0
+Dressing and Dips,Poppy Seed,side 28ml (1oz),,150,15,1,0,0,159,3.74,0,2,0.2,0,0,0,0
+Dressing and Dips,Greek Feta,side 28ml (1oz),,170,19,2,0.2,9.4,131,0,0,0,1.5,0,0,0,0
+Dressing and Dips,Marinara Dipping Sauce,1 cup 47g,,30,0.5,0,0,0,220,5,1,3,1,4,10,0,2
+Dressing and Dips,Creamy Garlic Dipping Sauce,1 cup 43g,,210,23,2,0.3,0,240,2,0,1,0.2,0,0,0,0
+Dressing and Dips,Cheddar Jalapeno Dipping Sauce,1 cup 44ml,,390,39,4,0.4,50,900,5,0,4,3,2,2,6,2
+Dressing and Dips,Traditional Donair Sauce,1 cup 100ml,,140,0,0,0,5,80,30,0,26,6,0,0,20,0
+Dressing and Dips,Peppercorn Ranch Dipping Sauce,1 cup 43g,,190,20,2,0.3,10,410,2,0,1,1,0,0,2,0
+Wraps,Chicken Caesar Wrap,1 wrap,217,570,33,7,0,65,1530,41,3,2,28,10,10,15,8
+Wraps,Chicken Pesto Wrap,1 wrap,225,490,24,6,0.5,50,1110,41,4,3,29,30,10,20,10
+Pasta,Tuscani Chicken Alfredo Pasta (regular size),1/2 order,307,550,26,8,0.5,45,1290,54,3,4,22,8,4,20,25
+Pasta,Tuscani Chicken Alfredo Pasta (family size),1/4 order,308,550,26,8,0.5,45,1290,54,3,4,22,8,4,20,25
+Pasta,Tuscani Premium Bacon Mac'n Cheese,individual meal,262,580,31,17,1,75,1460,46,3,4,30,10,4,50,25
+Pasta,Tuscani Premium Bacon Mac'n Cheese (regular size),1/2 order,300,600,31,17,1,65,1490,55,3,6,26,10,2,35,20
+Pasta,Tuscani Premium Bacon Mac'n Cheese (family size),1/4 order,299,600,31,17,1,65,1490,55,3,6,26,10,2,35,20
+Pasta,Tuscani Mediterranean con Pollo Pasta,individual meal,255,450,10,4,0,30,714,69,11,9,29,8,0,20,25
+Pasta,Tuscani Mediterranean con Pollo Pasta,1/3 of tray,243,340,7,3,0,20,705,55,8,9,22,10,0,10,15
+Pasta,Tuscani Mediterranean Vegetable Pasta,individual meal,252,430,10,5,0,20,706,68,10,9,28,8,0,20,25
+Pasta,Tuscani Mediterranean Vegetable Pasta,1/3 of tray,233,320,7,3,0,10,606,54,8,9,18,10,0,10,15
+Pasta,Tuscani Meaty Marinara Pasta (regular size),1/2 order,319,550,24,9,0.3,55,115,58,4,8,26,2,30,10,70
+Pasta,Tuscani Meaty Marinara Pasta (family size),1/4 order,322,550,24,9,0.3,55,105,59,4,8,26,2,30,10,70
+Pasta,Fettuccini Alfredo,meal size,475,760,32,9,0.5,40,1670,93,4,8,24,15,6,25,45
+Pasta,Chicken Fettuccini Alfredo,meal size,559,860,34,10,1,80,2150,95,5,9,42,15,8,25,50
+Pasta,Spaghetti Bolognese,meal size,577,770,24,5,1,35,1290,104,7,16,32,8,45,20,70
+Pasta,Spicy Italian Sausage Pasta,meal size,699,1130,62,14,0.5,95,4420,107,14,29,38,30,150,20,70
+Pasta,Grilled Chicken Breast Strips (optional),side,47,50,1,0,0,20,270,1,1,0,10,0,2,0,2

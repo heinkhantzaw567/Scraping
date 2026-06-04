@@ -1,0 +1,538 @@
+Category,Item,Serving Size,Weight (g),Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Dietary Fiber (g),Sugars (g),Protein (g),Vitamin A (% DV),Vitamin C (% DV),Calcium (% DV),Iron (% DV)
+Toppings,Mozzarella Cheese,Per 1 Pizza,20,60,4,2.5,0.1,15,90,1,0,0,6,0,0,10,0
+Toppings,Mozzarella Cheese Small,1 slice = 1/6 pizza,6,20,1,1,0.0,4,27,0,0,0,1.7,0,0,3,0
+Toppings,Mozzarella Cheese Medium,1 slice = 1/8 pizza,8,25,2,1,0.1,6,38,0,0,0,2.3,0,0,4,0
+Toppings,Mozzarella Cheese Large,1 slice = 1/12 pizza,8,25,2,1,0.0,5,37,0,0,0,2.3,0,0,4,0
+Toppings,Cheddar Cheese,Per 1 Pizza,14,50,5,2.5,0,15,90,0,0,0,3,0,0,8,0
+Toppings,Cheddar Cheese Small,1 slice = 1/6 pizza,5,20,2,1,0.0,6,35,0,0,0,1.2,0,0,3,0
+Toppings,Cheddar Cheese Medium,1 slice = 1/8 pizza,7,30,3,1,0.1,8,46,0,0,0,1.6,0,0,4,0
+Toppings,Cheddar Cheese Large,1 slice = 1/12 pizza,6,25,2,1,0.1,8,43,0,0,0,1.5,0,0,3,0
+Toppings,Feta Cheese,Per 1 Pizza,19,50,4,2.5,0,15,270,1,0,0,4,0,0,8,0
+Toppings,Feta Cheese Small,1 slice = 1/6 pizza,7,20,1,1,0.0,5,93,0,0,0,1.3,0,0,3,0
+Toppings,Feta Cheese Medium,1 slice = 1/8 pizza,9,25,2,1,0.1,6,128,0,0,0,1.9,0,0,4,0
+Toppings,Feta Cheese Large,1 slice = 1/12 pizza,8,25,2,1,0.0,6,116,0,0,0,1.8,0,0,3,0
+Toppings,Bacon,Per 1 Pizza,19,60,5,1.5,0,20,240,0,0,0,5,0,2,0,0
+Toppings,Bacon Small,1 slice = 1/6 pizza,7,20,2,1,0.0,7,80,0,0,0,1.8,0,1,0,0
+Toppings,Bacon Medium,1 slice = 1/8 pizza,9,30,2,1,0.0,8,105,0,0,0,2.3,0,1,0,1
+Toppings,Bacon Large,1 slice = 1/12 pizza,8,25,2,1,0.0,8,96,0,0,0,2.1,0,1,0,0
+Toppings,Beef,Per 1 Pizza,18,40,2.5,1.5,0,10,110,1,1,0,3,0,0,0,2
+Toppings,Beef Small,1 slice = 1/6 pizza,6,15,1,1,0.0,3,38,0,0,0,1.2,0,0,0,1
+Toppings,Beef Medium,1 slice = 1/8 pizza,10,20,1,1,0.0,5,58,0,0,0,1.8,0,0,1,1
+Toppings,Beef Large,1 slice = 1/12 pizza,9,20,1,1,0.0,5,54,0,0,0,1.7,0,0,1,1
+Toppings,Pepperoni Slices,Per 1 Pizza,7,30,2.5,1,0,5,70,0,0,0,1,0,0,0,0
+Toppings,Pepperoni Slices Small,1 slice = 1/6 pizza,3,15,1,0,0.0,3,30,0,0,0,0.7,0,0,0,0
+Toppings,Pepperoni Slices Medium,1 slice = 1/8 pizza,4,20,2,1,0.0,3,40,0,0,0,0.9,0,0,0,1
+Toppings,Pepperoni Slices Large,1 slice = 1/12 pizza,4,20,2,1,0.0,3,42,0,0,0,0.8,0,0,0,1
+Toppings,Italian Sausage,Per 1 Pizza,16,50,4.5,1.5,0,15,100,1,0,0,3,0,0,0,2
+Toppings,Italian Sausage Small,1 slice = 1/6 pizza,7,20,2,1,0.0,7,43,0,0,0,1.0,0,0,0,1
+Toppings,Italian Sausage Medium,1 slice = 1/8 pizza,9,30,3,1,0.0,9,58,0,0,0,1.4,0,0,0,1
+Toppings,Italian Sausage Large,1 slice = 1/12 pizza,9,30,3,1,0.0,9,60,0,0,0,1.5,0,0,0,1
+Toppings,Sliced Ham,Per 1 Pizza,12,15,0.5,0,0,5,115,0,0,0,2,0,0,0,0
+Toppings,Sliced Ham Small,1 slice = 1/6 pizza,5,5,0,0,0.0,3,48,0,0,0,1.0,0,0,0,0
+Toppings,Sliced Ham Medium,1 slice = 1/8 pizza,7,10,0,0,0.0,4,65,0,0,0,1.3,0,0,0,0
+Toppings,Sliced Ham Large,1 slice = 1/12 pizza,7,10,0,0,0.0,4,68,0,0,0,1.3,0,0,0,0
+Toppings,Pork,Per 1 Pizza,18,40,3,1,0,10,115,1,1,0,3,0,0,2,2
+Toppings,Pork Small,1 slice = 1/6 pizza,6,15,1,0,0.0,4,40,0,0,0,1.2,0,0,0,1
+Toppings,Pork Medium,1 slice = 1/8 pizza,10,25,2,1,0.0,6,60,0,0,0,1.8,0,0,1,1
+Toppings,Pork Large,1 slice = 1/12 pizza,9,20,1,1,0.0,5,57,0,0,0,1.6,0,0,1,1
+Toppings,Chicken,Per 1 Pizza,19,20,0,0,0,10,105,0,0,0,4,0,0,0,0
+Toppings,Chicken Small,1 slice = 1/6 pizza,7,10,0,0,0.0,3,40,0,0,0,1.5,0,0,0,0
+Toppings,Chicken Medium,1 slice = 1/8 pizza,9,10,0,0,0.0,4,51,0,0,0,2.0,0,1,0,0
+Toppings,Chicken Large,1 slice = 1/12 pizza,8,10,0,0,0.0,4,44,0,0,0,1.7,0,0,0,0
+Toppings,Green Peppers,Per 1 Pizza,16,5,0,0,0.0,0,0,1,0,0,0,0,20,0,0
+Toppings,Green Peppers Small,1 slice = 1/6 pizza,6,0,0,0,0.0,0,0,0,0,0,0.0,0,8,0,0
+Toppings,Green Peppers Medium,1 slice = 1/8 pizza,9,0,0,0,0.0,0,0,0,0,0,0.0,1,11,0,0
+Toppings,Green Peppers Large,1 slice = 1/12 pizza,8,0,0,0,0.0,0,0,0,0,0,0.1,1,11,0,0
+Toppings,Red Onions,Per 1 Pizza,17,5,0,0,0,0,0,1,0,1,0.2,0,2,0,0
+Toppings,Red Onions Small,1 slice = 1/6 pizza,5,0,0,0,0.0,0,0,1,0,0,0.1,0,1,0,0
+Toppings,Red Onions Medium,1 slice = 1/8 pizza,6,5,0,0,0.0,0,0,1,0,0,0.1,0,1,0,0
+Toppings,Red Onions Large,1 slice = 1/12 pizza,6,0,0,0,0.0,0,0,1,0,0,0.1,0,1,0,0
+Toppings,Mushrooms,Per 1 Pizza,13,5,0,0,0,0,1,0,0,0,0.2,0,0,0,0
+Toppings,Mushrooms Small,1 slice = 1/6 pizza,4,0,0,0,0.0,0,0,0,0,0,0.1,0,0,0,0
+Toppings,Mushrooms Medium,1 slice = 1/8 pizza,6,0,0,0,0.0,0,0,0,0,0,0.1,0,0,0,0
+Toppings,Mushrooms Large,1 slice = 1/12 pizza,6,0,0,0,0.0,0,0,0,0,0,0.1,0,0,0,0
+Toppings,Tomatoes,Per 1 Pizza,21,5,0,0,0,0,0,1,0,0,0.2,2,4,0,0
+Toppings,Tomatoes Small,1 slice = 1/6 pizza,9,0,0,0,0.0,0,0,0,0,0,0.2,1,1,0,0
+Toppings,Tomatoes Medium,1 slice = 1/8 pizza,11,0,0,0,0.0,0,0,0,0,0,0.1,1,2,0,0
+Toppings,Tomatoes Large,1 slice = 1/12 pizza,10,0,0,0,0.0,0,0,0,0,0,0.1,1,1,0,0
+Toppings,Black Olives,Per 1 Pizza,9,25,1.5,0.2,0,0,140,1,1,0.2,0.2,0,0,0,0
+Toppings,Black Olives Small,1 slice = 1/6 pizza,2,5,0,0,0.0,0,37,0,0,0,0.1,0,0,0,0
+Toppings,Black Olives Medium,1 slice = 1/8 pizza,3,10,1,0,0.0,0,53,0,0,0,0.1,0,0,0,0
+Toppings,Black Olives Large,1 slice = 1/12 pizza,3,10,1,0,0.0,0,53,0,0,0,0.1,0,0,0,0
+Toppings,Green Olives,Per 1 Pizza,9,15,1.5,0.2,0,0,150,0,0,0,0.1,0,0,0,0
+Toppings,Green Olives Small,1 slice = 1/6 pizza,2,5,0,0,0.0,0,38,0,0,0,0.0,0,0,0,0
+Toppings,Green Olives Medium,1 slice = 1/8 pizza,3,5,1,0,0.0,0,55,0,0,0,0.0,0,0,0,0
+Toppings,Green Olives Large,1 slice = 1/12 pizza,3,5,1,0,0.0,0,56,0,0,0,0.0,0,0,0,0
+Toppings,Hot Peppers,Per 1 Pizza,22,5,0,0,0,0,350,1,0,0,0,0,0,0,0
+Toppings,Hot Peppers Small,1 slice = 1/6 pizza,7,0,0,0,0.0,0,110,0,0,0,0.0,0,0,0,0
+Toppings,Hot Peppers Medium,1 slice = 1/8 pizza,9,0,0,0,0.0,0,141,0,0,0,0.0,0,0,0,0
+Toppings,Hot Peppers Large,1 slice = 1/12 pizza,8,0,0,0,0.0,0,133,0,0,0,0.0,0,0,0,0
+Toppings,Pineapple,Per 1 Pizza,30,20,0,0,0,0,0,5,0,5,0.2,0,0,0,0
+Toppings,Pineapple Small,1 slice = 1/6 pizza,10,10,0,0,0.0,0,0,2,0,2,0.1,0,0,0,0
+Toppings,Pineapple Medium,1 slice = 1/8 pizza,12,10,0,0,0.0,0,0,2,0,2,0.1,0,0,0,0
+Toppings,Pineapple Large,1 slice = 1/12 pizza,10,10,0,0,0.0,0,0,2,0,2,0.1,0,0,0,0
+Toppings,Spinach,Per 1 Pizza,6,0,0,0,0,0,3,0,0,0,0.1,0,0,0,0
+Toppings,Spinach Small,1 slice = 1/6 pizza,2,0,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0
+Toppings,Spinach Medium,1 slice = 1/8 pizza,2,0,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0
+Toppings,Spinach Large,1 slice = 1/12 pizza,2,0,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0
+Toppings,Parmesan,Per 1 Pizza,5,20,1,1,0.1,5,105,1,0,0,2,0,0,6,0
+Toppings,Parmesan Small,1 slice = 1/6 pizza,2,5,0,0,0.0,2,32,0,0,0,0.5,0,0,2,0
+Toppings,Parmesan Medium,1 slice = 1/8 pizza,2,10,1,0,0.0,3,48,0,0,0,0.8,0,0,3,0
+Toppings,Parmesan Large,1 slice = 1/12 pizza,2,10,1,0,0.0,2,48,0,0,0,0.8,0,0,2,0
+Toppings,Roasted Red Pepper,Per 1 Pizza,14,5,0,0,0,0,0,1,0,0,0.1,10,50,0,0
+Toppings,Roasted Red Pepper Small,1 slice = 1/6 pizza,6,0,0,0,0.0,0,0,1,0,0,0.1,4,23,0,0
+Toppings,Roasted Red Pepper Medium,1 slice = 1/8 pizza,7,5,0,0,0.0,0,0,1,0,0,0.1,5,29,0,0
+Toppings,Roasted Red Pepper Large,1 slice = 1/12 pizza,7,5,0,0,0.0,0,0,1,0,0,0.1,5,28,0,0
+Toppings,Garlic,Per 1 Pizza,4,5,0,0,0,0,1,0,0,0,0,0,0,0,0
+Toppings,Garlic Small,1 slice = 1/6 pizza,1,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0
+Toppings,Garlic Medium,1 slice = 1/8 pizza,2,5,0,0,0.0,0,0,1,0,0,0.0,0,0,0,0
+Toppings,Garlic Large,1 slice = 1/12 pizza,3,5,0,0,0.0,0,0,1,0,0,0.0,0,0,0,0
+Toppings,Old World Sauce,Per 1 Pizza,15,10,0.1,0,0,0,80,2,0,1,0.3,0,4,0,0
+Toppings,Old World Sauce Small,1 slice = 1/6 pizza,8,5,0,0,0.0,0,42,1,0,1,0.2,0,3,0,0
+Toppings,Old World Sauce Medium,1 slice = 1/8 pizza,12,10,0,0,0.0,0,65,2,0,1,0.3,1,4,0,0
+Toppings,Old World Sauce Large,1 slice = 1/12 pizza,11,5,0,0,0.0,0,58,1,0,1,0.3,1,3,0,0
+Toppings,Regular Sauce,Per 1 Pizza,15,10,0,0,0,0,75,2,0,1,0.3,2,4,0,0
+Toppings,Regular Sauce Small,1 slice = 1/6 pizza,8,5,0,0,0.0,0,38,1,0,0,0.2,1,2,0,0
+Toppings,Regular Sauce Medium,1 slice = 1/8 pizza,12,5,0,0,0.0,0,60,1,0,1,0.3,2,3,0,0
+Toppings,Regular Sauce Large,1 slice = 1/12 pizza,11,5,0,0,0.0,0,53,1,0,1,0.2,2,2,0,0
+Toppings,Pesto Sauce,Per 1 Pizza,9,35,3.5,0.5,0.1,0,90,0,0,0,1,2,2,2,2
+Toppings,Pesto Sauce Small,1 slice = 1/6 pizza,3,10,1,0,0.0,0,32,0,0,0,0.2,1,1,1,0
+Toppings,Pesto Sauce Medium,1 slice = 1/8 pizza,5,20,2,0,0.1,1,48,0,0,0,0.3,1,1,1,1
+Toppings,Pesto Sauce Large,1 slice = 1/12 pizza,5,20,2,0,0.0,0,48,0,0,0,0.3,1,2,1,1
+Toppings,Alfredo Sauce,Per 1 Pizza,15,20,1.5,0.4,0,0,80,1,0,0,0.2,0,0,0,0
+Toppings,Alfredo Sauce Small,1 slice = 1/6 pizza,8,10,1,0,0.0,1,43,0,0,0,0.2,0,0,0,0
+Toppings,Alfredo Sauce Medium,1 slice = 1/8 pizza,11,15,1,0,0.0,1,63,0,0,0,0.1,0,0,1,0
+Toppings,Alfredo Sauce Large,1 slice = 1/12 pizza,10,15,1,0,0.0,1,56,0,0,0,0.1,0,0,1,0
+Toppings,BBQ Sauce,Per 1 Pizza,16,30,0,0,0,0,220,7,0,6,0.2,0,2,0,2
+Toppings,BBQ Sauce Small,1 slice = 1/6 pizza,8,15,0,0,0.0,0,103,3,0,3,0.1,0,1,0,0
+Toppings,BBQ Sauce Medium,1 slice = 1/8 pizza,12,20,0,0,0.0,0,163,5,0,4,0.1,0,1,0,1
+Toppings,BBQ Sauce Large,1 slice = 1/12 pizza,10,20,0,0,0.0,0,143,4,0,4,0.1,0,1,0,1
+Appetizers,Breadstick,1 piece,46,190,10,1,0.1,0,150,22,1,0,4,0,0,0,50
+Appetizers,Breadstick with Cheese,1 piece,58,230,12,3,0.2,10,200,22,1,0,7,0,0,8,50
+Appetizers,Breadstick Sauce,dip cup,85,45,1,0,0.0,0,340,8,2,5,1,8,20,0,2
+Appetizers,Garlic Bread,1 piece,40,120,5,5,0.0,0,230,17,1,1,3,0,0,2,8
+Appetizers,Garlic Bread with Cheese,1 piece,64,190,10,5,0.2,20,400,15,1,1,11,2,0,20,8
+Appetizers,Top Your Own Bruschetta,1/6 of order,101,260,13,3,0.2,10,520,28,1,2,8,4,8,10,15
+Appetizers,Stuffed Pizza Rollers,1 roll,77,270,11,5,0,25,390,31,1,1,12,0,0,15,15
+Appetizers,Poutine Bacon,1 order,621,1440,78,18,1,95,4290,147,12,1,34,0,6,50,25
+Appetizers,Poutine Canadian,1 order,647,1440,78,18,1,95,4300,148,13,1,35,0,6,50,25
+Appetizers,Poutine Chicken,1 order,704,1410,71,15,1,80,4120,154,14,6,36,0,15,50,25
+Appetizers,Poutine Plain,1 order,596,1330,70,14,1,65,3780,146,12,1,26,0,6,50,25
+Appetizers,Pesto Chicken Spin Rolls,1 roll,160,420,22,6,0.5,30,1020,39,2,2,16,4,6,20,10
+Appetizers,French Fries,Medium size,311,940,47,3.0,0,0,2120,121,11,0,8,0,6,6,15
+Wings,Oven Baked Wings Buffalo Wings,1 piece,25,47.5,3,1,0.0,30,147.5,0.5,0,1,6,0,0,0,2
+Wings,WingStreet Wings Traditional Wings,1 piece,16,40,3,1,0.0,19,126,0,0,0,4,0,0,0,1
+Wings,Boneless Bites,1 piece,21,60,4,0,0.0,9,196,5,0,0,3,0,0,0,2
+Wings,Buffalo Mild Wing Sauce,per serving for 1 wing,9,15,0,0,0,0,210,3,0,0,0,1,0,0,0
+Wings,Buffalo Medium Wing Sauce,per serving for 1 wing,9,15,0,0,0,0,212,3,0,1,0,0,2,0,0
+Wings,Buffalo Burning Hot Wing Sauce,per serving for 1 wing,9,15,0,0,0,0,212,3,0,1,0,0,2,0,0
+Wings,Honey BBQ Sauce,per serving for 1 wing,14,35,0,0,0,0,128,8,0,7,0,0,1,0,1
+Wings,Garlic Parmesan Sauce,per serving for 1 wing,7,5,0,0,0,1,21,0,0,0,0,0,0,1,0
+Wings,Honey Garlic Sauce,per serving for 1 wing,8,20,0,0,0,0,46,5,0,5,0,0,0,0,0
+Wings,Salt and Pepper Dry Rub,per serving for 1 wing,1,5,0,0,0,0,56,0,0,0,0,0,0,0,0
+Wings,Indian Butter Sauce,per serving for 1 wing,14,20,1,0,0,1,118,3,0,2,0,2,0,0,1
+Salad,Caesar Salad with Dressing,side,149,260,19,5,0.3,25,690,12,2,1,8,8,35,15,15
+Salad,Caesar Salad with Dressing,entrée,295,540,40,10,0.5,55,1490,25,4,2,18,10,70,25,30
+Salad,Greek Salad w/o Dressing,side,158,130,7,3,0.1,15,560,6,3,2,7,2,30,10,8
+Salad,Greek Salad w/o Dressing,entrée,317,280,16,8,0.4,40,1200,12,5,3,16,8,60,25,15
+Salad,Italian House Salad with Low Fat Raspberry Dressing,side,152,45,1,0,0,0,45,6,2,4,2,0,30,2,8
+Salad,Italian House Salad w/o Dressing,side,158,80,2,0,0,0,190,12,2,2,3,0,35,4,15
+Salad,Italian House Salad w/o Dressing,entrée,291,160,4,1,0.1,0,380,24,5,4,6,0,70,8,25
+Salad,Warm Spinach Salad with Dressing,entrée,272,410,29,5,0.2,65,1080,13,2,7,27,15,10,4,10
+Dressing and Dips,Caesar,side 28ml (1oz),,120,13,2,0.2,10,260,1,0,0,0.5,0,0,2,0
+Dressing and Dips,Sweet Italian,side 28ml (1oz),,140,13,2,0.1,0,160,4,0,2,0.2,0,0,0,0
+Dressing and Dips,Ranch,side 28ml (1oz),,120,13,2,0.1,10,230,2,0,1,0.3,0,0,0,0
+Dressing and Dips,Low Fat Ravin' Raspberry,side 28ml (1oz),,40,0,0,0,0,80,5,0,4,0,0,0,0,0
+Dressing and Dips,French,side 28ml (1oz),,110,10,2,0.1,0,240,4,0,3,0.1,2,0,0,0
+Dressing and Dips,Poppy Seed,side 28ml (1oz),,150,15,1,0,0,159,3.74,0,2,0.2,0,0,0,0
+Dressing and Dips,Greek Feta,side 28ml (1oz),,170,19,2,0.2,9.4,131,0,0,0,1.5,0,0,0,0
+Dressing and Dips,Marinara Dipping Sauce,1 cup 47g,,30,0.5,0,0,0,220,5,1,3,1,4,10,0,2
+Dressing and Dips,Creamy Garlic Dipping Sauce,1 cup 43g,,210,23,2,0.3,0,240,2,0,1,0.2,0,0,0,0
+Dressing and Dips,Cheddar Jalapeno Dipping Sauce,1 cup 44ml,,390,39,4,0.4,50,900,5,0,4,3,2,2,6,2
+Dressing and Dips,Traditional Donair Sauce,1 cup 100ml,,140,0,0,0,5,80,30,0,26,6,0,0,20,0
+Dressing and Dips,Peppercorn Ranch Dipping Sauce,1 cup 43g,,190,20,2,0.3,10,410,2,0,1,1,0,0,2,0
+Wraps,Chicken Caesar Wrap,1 wrap,217,570,33,7,0,65,1530,41,3,2,28,10,10,15,8
+Wraps,Chicken Pesto Wrap,1 wrap,225,490,24,6,0.5,50,1110,41,4,3,29,30,10,20,10
+Pasta,Tuscani Chicken Alfredo Pasta (regular size),1/2 order,307,550,26,8,0.5,45,1290,54,3,4,22,8,4,20,25
+Pasta,Tuscani Chicken Alfredo Pasta (family size),1/4 order,308,550,26,8,0.5,45,1290,54,3,4,22,8,4,20,25
+Pasta,Tuscani Premium Bacon Mac'n Cheese,individual meal,262,580,31,17,1,75,1460,46,3,4,30,10,4,50,25
+Pasta,Tuscani Premium Bacon Mac'n Cheese (regular size),1/2 order,300,600,31,17,1,65,1490,55,3,6,26,10,2,35,20
+Pasta,Tuscani Premium Bacon Mac'n Cheese (family size),1/4 order,299,600,31,17,1,65,1490,55,3,6,26,10,2,35,20
+Pasta,Tuscani Mediterranean con Pollo Pasta,individual meal,255,450,10,4,0,30,714,69,11,9,29,8,0,20,25
+Pasta,Tuscani Mediterranean con Pollo Pasta,1/3 of tray,243,340,7,3,0,20,705,55,8,9,22,10,0,10,15
+Pasta,Tuscani Mediterranean Vegetable Pasta,individual meal,252,430,10,5,0,20,706,68,10,9,28,8,0,20,25
+Pasta,Tuscani Mediterranean Vegetable Pasta,1/3 of tray,233,320,7,3,0,10,606,54,8,9,18,10,0,10,15
+Pasta,Tuscani Meaty Marinara Pasta (regular size),1/2 order,319,550,24,9,0.3,55,115,58,4,8,26,2,30,10,70
+Pasta,Tuscani Meaty Marinara Pasta (family size),1/4 order,322,550,24,9,0.3,55,105,59,4,8,26,2,30,10,70
+Pasta,Fettuccini Alfredo,meal size,475,760,32,9,0.5,40,1670,93,4,8,24,15,6,25,45
+Pasta,Chicken Fettuccini Alfredo,meal size,559,860,34,10,1,80,2150,95,5,9,42,15,8,25,50
+Pasta,Spaghetti Bolognese,meal size,577,770,24,5,1,35,1290,104,7,16,32,8,45,20,70
+Pasta,Spicy Italian Sausage Pasta,meal size,699,1130,62,14,0.5,95,4420,107,14,29,38,30,150,20,70
+Pasta,Grilled Chicken Breast Strips (optional),side,47,50,1,0,0,20,270,1,1,0,10,0,2,0,2
+Meat,Italian Classic 6" Personal Pan Pizza®,1 pizza,223,650,28,9,0.3,50,790,73,4,3,27,10,50,20,160
+Meat,Italian Classic 9" Small Pan,1 slice = 1/6 pizza,74,210,10,3,0.1,20,280,23,1,1,9,4,25,8,45
+Meat,Italian Classic 12" Medium Pan,1 slice = 1/8 pizza,102,290,13,5,0.2,25,390,30,2,2,13,6,30,10,60
+Meat,Italian Classic 14" Large Pan,1 slice = 1/12 pizza,96,270,13,5,0.2,25,370,28,2,2,12,6,30,10,60
+Meat,Italian Classic 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,83,250,11,5,0.2,25,500,28,2,2,12,6,30,10,15
+Meat,Italian Classic 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,79,240,10,4,0.2,25,480,26,1,2,12,6,30,10,15
+Meat,Italian Classic 12" Medium Stuffed Crust,1 slice = 1/8 pizza,116,300,14,7,0.3,40,560,26,1,1,18,10,30,20,15
+Meat,Italian Classic 14" Large Stuffed Crust,1 slice = 1/12 pizza,106,270,13,6,0.3,40,500,22,1,1,16,10,30,20,10
+Meat,Italian Classic 12" Medium Homestyle,1 slice = 1/8 pizza,98,250,11,5,0.2,25,430,26,1,1,12,6,30,10,15
+Meat,Italian Classic 14" Large Homestyle,1 slice = 1/12 pizza,91,230,10,4,0.2,25,390,22,1,1,11,6,30,10,10
+Meat,Italian Classic Panormous,1 slice = 1/16 pizza,118,290,13,5,0.2,25,390,31,2,2,12,8,45,10,60
+Meat,Canadian 6" Personal Pan Pizza®,1 pizza,213,650,28,9,0.3,50,930,72,4,3,29,2,4,20,150
+Meat,Canadian 9" Small Pan,1 slice = 1/6 pizza,69,210,9,3,0.1,20,320,22,1,1,10,2,2,8,45
+Meat,Canadian 12" Medium Pan,1 slice = 1/8 pizza,95,290,13,5,0.2,25,450,30,2,1,14,2,4,10,60
+Meat,Canadian 14" Large Pan,1 slice = 1/12 pizza,88,270,12,4,0.2,25,420,27,1,1,13,2,2,10,60
+Meat,Canadian 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,76,250,10,4,0.2,25,550,27,1,1,13,2,4,10,15
+Meat,Canadian 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,68,240,10,4,0.2,25,530,25,1,1,12,2,4,10,15
+Meat,Canadian 12" Medium Stuffed Crust,1 slice = 1/8 pizza,109,290,13,6,0.3,40,610,25,1,1,18,6,4,20,15
+Meat,Canadian 14" Large Stuffed Crust,1 slice = 1/12 pizza,99,260,12,6,0.3,35,540,21,1,1,16,6,4,20,10
+Meat,Canadian 12" Medium Homestyle,1 slice = 1/8 pizza,91,250,11,5,0.2,25,470,25,1,1,13,2,4,10,15
+Meat,Canadian 14" Large Homestyle,1 slice = 1/12 pizza,84,220,10,4,0.2,25,420,21,1,1,12,2,4,10,10
+Meat,Canadian Panormous,1 slice = 1/16 pizza,107,280,13,4,0.2,25,430,30,2,1,13,2,4,10,60
+Meat,Triple Crown® 6" Personal Pan Pizza®,1 pizza,210,590,24,7,0.3,35,690,72,4,3,24,2,25,20,150
+Meat,Triple Crown® 9" Small Pan,1 slice = 1/6 pizza,68,190,8,3,0.1,10,240,22,1,1,8,2,10,8,45
+Meat,Triple Crown® 12" Medium Pan,1 slice = 1/8 pizza,95,260,11,4,0.2,15,330,30,2,1,11,2,15,10,60
+Meat,Triple Crown® 14" Large Pan,1 slice = 1/12 pizza,88,240,10,4,0.2,15,310,27,1,1,11,2,15,10,60
+Meat,Triple Crown® 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,78,220,8,4,0.2,15,450,27,1,2,11,2,15,10,15
+Meat,Triple Crown® 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,71,210,8,4,0.2,15,420,26,1,1,10,2,15,10,15
+Meat,Triple Crown® 12" Medium Stuffed Crust,1 slice = 1/8 pizza,110,270,11,6,0.3,30,500,25,1,1,16,6,15,20,15
+Meat,Triple Crown® 14" Large Stuffed Crust,1 slice = 1/12 pizza,99,230,10,5,0.3,30,440,22,1,1,14,6,15,20,10
+Meat,Triple Crown® 12" Medium Homestyle,1 slice = 1/8 pizza,91,220,8,4,0.2,20,370,25,1,1,11,2,15,10,15
+Meat,Triple Crown® 14" Large Homestyle,1 slice = 1/12 pizza,84,190,8,4,0.2,15,330,21,1,1,10,2,15,10,10
+Meat,Triple Crown® Panormous,1 slice = 1/16 pizza,107,250,11,4,0.2,15,330,30,2,1,11,2,15,10,60
+Meat,Hawaiian 6" Personal Pan Pizza®,1 pizza,234,650,25,9,0.4,45,810,77,4,7,30,2,2,30,150
+Meat,Hawaiian 9" Small Pan,1 slice = 1/6 pizza,76,210,8,3,0.1,15,280,24,1,2,10,2,2,10,45
+Meat,Hawaiian 12" Medium Pan,1 slice = 1/8 pizza,101,280,11,4,0.2,25,390,32,2,3,14,2,2,15,60
+Meat,Hawaiian 14" Large Pan,1 slice = 1/12 pizza,95,260,11,4,0.2,20,370,29,1,3,13,2,2,15,60
+Meat,Hawaiian 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,83,240,8,4,0.2,25,500,29,1,3,13,2,2,15,15
+Meat,Hawaiian 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,77,230,8,4,0.2,20,480,27,1,3,13,2,2,15,15
+Meat,Pepperoni Lover's® 12" Medium Stuffed Crust,1 slice = 1/8 pizza,116,280,12,6,0.3,40,560,27,1,3,19,6,4,25,15
+Meat,Pepperoni Lover's® 14" Large Stuffed Crust,1 slice = 1/12 pizza,105,250,10,5,0.3,35,500,23,1,2,17,6,2,25,10
+Meat,Pepperoni Lover's® 12" Medium Homestyle,1 slice = 1/8 pizza,95,210,7,3,0.2,20,390,27,1,3,11,2,4,10,15
+Meat,Pepperoni Lover's® 14" Large Homestyle,1 slice = 1/12 pizza,90,210,8,4,0.2,20,380,23,1,2,12,2,4,15,10
+Meat,Pepperoni Lover's® Panormous,1 slice = 1/16 pizza,115,280,11,4,0.2,20,390,32,2,3,13,2,2,15,60
+Meat,Pepperoni Lover's® 6" Personal Pan Pizza®,1 pizza,215,710,33,12,0.5,55,910,72,4,2,32,2,2,30,160
+Meat,Pepperoni Lover's® 9" Small Pan,1 slice = 1/6 pizza,69,230,11,4,0.2,20,320,22,1,1,11,2,2,10,45
+Meat,Pepperoni Lover's® 12" Medium Pan,1 slice = 1/8 pizza,95,310,15,6,0.3,30,440,30,2,1,15,2,2,15,60
+Meat,Pepperoni Lover's® 14" Large Pan,1 slice = 1/12 pizza,89,290,14,5,0.2,25,410,27,1,1,14,2,2,15,60
+Meat,Pepperoni Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,76,280,12,5,0.3,30,550,27,1,1,14,2,2,15,15
+Meat,Pepperoni Lover's® 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,71,260,12,5,0.3,25,520,25,1,1,13,2,2,15,15
+Meat,Pepperoni Lover's® 12" Medium Stuffed Crust,1 slice = 1/8 pizza,110,320,16,8,0.4,45,610,25,1,1,20,6,4,25,15
+Meat,Pepperoni Lover's® 14" Large Stuffed Crust,1 slice = 1/12 pizza,99,280,14,7,0.4,40,540,21,1,1,18,6,4,25,10
+Meat,Pepperoni Lover's® 12" Medium Homestyle,1 slice = 1/8 pizza,91,270,13,6,0.3,30,480,25,1,1,14,2,4,15,15
+Meat,Pepperoni Lover's® 14" Large Homestyle,1 slice = 1/12 pizza,84,240,12,5,0.3,25,430,21,1,1,13,2,4,15,10
+Meat,Pepperoni Lover's® Panormous,1 slice = 1/16 pizza,107,310,15,5,0.2,25,430,30,2,1,14,2,2,15,60
+Meat,Meat Lover's® 6" Personal Pan Pizza®,1 pizza,225,710,33,11,0.4,70,1080,73,4,3,33,2,2,25,160
+Meat,Meat Lover's® 9" Small Pan,1 slice = 1/6 pizza,74,230,11,4,0.1,25,360,22,1,1,11,2,2,8,50
+Meat,Meat Lover's® 12" Medium Pan,1 slice = 1/8 pizza,102,320,15,5,0.2,35,500,30,2,1,15,2,2,10,60
+Meat,Meat Lover's® 14" Large Pan,1 slice = 1/12 pizza,96,300,15,5,0.2,35,470,28,2,1,14,2,2,10,60
+Meat,Meat Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,83,280,13,5,0.2,35,610,28,2,1,15,2,2,10,20
+Meat,Meat Lover's® 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,79,270,12,5,0.2,35,580,26,2,1,14,2,2,10,15
+Meat,Meat Lover's® 12" Medium Stuffed Crust,1 slice = 1/8 pizza,116,320,16,7,0.3,50,660,25,1,1,20,6,4,25,15
+Meat,Meat Lover's® 14" Large Stuffed Crust,1 slice = 1/12 pizza,107,290,15,7,0.3,45,600,22,1,1,18,6,4,20,15
+Meat,Meat Lover's® 12" Medium Homestyle,1 slice = 1/8 pizza,98,280,13,5,0.3,35,530,25,1,1,15,2,4,10,15
+Meat,Meat Lover's® 14" Large Homestyle,1 slice = 1/12 pizza,92,250,12,5,0.2,35,490,22,1,1,14,2,4,10,15
+Meat,Meat Lover's® Panormous,1 slice = 1/16 pizza,114,310,15,5,0.2,35,480,30,2,1,15,2,2,10,60
+Meat,Smokey Maple Bacon 6" Personal Pan Pizza®,1 pizza,210,570,23,6,0.2,35,770,70,3,2,22,2,2,15,150
+Meat,Smokey Maple Bacon 9" Small Pan,1 slice = 1/6 pizza,69,180,8,2,0.1,10,260,21,1,1,7,0,0,4,45
+Meat,Smokey Maple Bacon 12" Medium Pan,1 slice = 1/8 pizza,94,240,11,3,0.1,15,350,28,1,1,10,0,0,6,60
+Meat,Smokey Maple Bacon 14" Large Pan,1 slice = 1/12 pizza,88,230,10,3,0.1,15,330,26,1,1,9,2,0,6,60
+Meat,Smokey Maple Bacon 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,72,210,8,3,0.1,15,460,26,1,1,9,0,0,8,15
+Meat,Smokey Maple Bacon 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,69,200,8,3,0.1,15,440,24,1,1,9,2,0,8,15
+Meat,Smokey Maple Bacon 12" Medium Stuffed Crust,1 slice = 1/8 pizza,109,250,11,5,0.3,30,520,23,1,0,15,6,2,20,15
+Meat,Smokey Maple Bacon 14" Large Stuffed Crust,1 slice = 1/12 pizza,96,220,10,5,0.2,30,460,20,1,0,13,4,2,15,10
+Meat,Smokey Maple Bacon 12" Medium Homestyle,1 slice = 1/8 pizza,90,200,8,3,0.2,15,390,23,1,0,9,0,2,8,10
+Meat,Smokey Maple Bacon 14" Large Homestyle,1 slice = 1/12 pizza,80,180,8,3,0.2,15,350,20,1,0,9,2,2,8,10
+Meat,Smokey Maple Bacon Panormous,1 slice = 1/16 pizza,93,240,10,3,0.1,15,350,28,1,1,9,0,0,6,60
+Meat,Supreme Lover's™ 6" Personal Pan Pizza®,1 pizza,230,670,29,10,0.4,55,910,73,5,3,31,2,10,25,160
+Meat,Supreme Lover's™ 9" Small Pan,1 slice = 1/6 pizza,75,220,10,4,0.2,20,320,23,2,1,10,2,4,8,50
+Meat,Supreme Lover's™ 12" Medium Pan,1 slice = 1/8 pizza,104,300,14,5,0.2,30,450,30,2,1,15,2,6,10,60
+Meat,Supreme Lover's™ 14" Large Pan,1 slice = 1/12 pizza,97,280,13,5,0.2,25,420,28,2,1,14,2,6,10,60
+Meat,Supreme Lover's™ 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,85,260,11,5,0.2,30,560,28,2,1,14,2,6,10,20
+Meat,Supreme Lover's™ 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,80,250,10,5,0.2,25,530,26,2,1,13,2,6,10,15
+Meat,Supreme Lover's™ 12" Medium Stuffed Crust,1 slice = 1/8 pizza,120,310,14,7,0.4,45,620,26,2,1,20,6,8,25,15
+Meat,Supreme Lover's™ 14" Large Stuffed Crust,1 slice = 1/12 pizza,108,270,13,6,0.3,40,550,22,1,1,18,6,8,20,15
+Meat,Supreme Lover's™ 12" Medium Homestyle,1 slice = 1/8 pizza,101,260,11,5,0.3,30,490,26,2,1,14,2,8,15,15
+Meat,Supreme Lover's™ 14" Large Homestyle,1 slice = 1/12 pizza,93,230,10,5,0.3,25,440,22,1,1,13,2,8,10,15
+Meat,Supreme Lover's™ Panormous,1 slice = 1/16 pizza,118,300,13,5,0.2,25,440,30,2,1,14,2,6,10,60
+Meat,Pepperoni Only 6" Personal Pan Pizza®,1 pizza,206,620,26,8,0.4,40,760,71,3,2,25,2,2,20,150
+Meat,Pepperoni Only 9" Small Pan,1 slice = 1/6 pizza,61,200,9,3,0.1,15,260,22,1,1,9,0,2,8,45
+Meat,Pepperoni Only 12" Medium Pan,1 slice = 1/8 pizza,85,270,12,4,0.2,20,360,29,1,1,12,2,2,10,60
+Meat,Pepperoni Only 14" Large Pan,1 slice = 1/12 pizza,79,260,12,4,0.2,20,340,27,1,1,11,2,2,10,60
+Meat,Pepperoni Only 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,66,240,9,4,0.2,20,470,26,1,1,11,2,0,10,15
+Meat,Pepperoni Only 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,62,220,9,4,0.2,20,450,25,1,1,11,2,0,10,15
+Meat,Pepperoni Only 12" Medium Stuffed Crust,1 slice = 1/8 pizza,96,260,11,6,0.3,30,480,24,1,0,16,6,4,20,15
+Meat,Pepperoni Only 14" Large Stuffed Crust,1 slice = 1/12 pizza,86,230,10,5,0.3,30,430,21,1,0,14,6,2,20,10
+Meat,Pepperoni Only 12" Medium Homestyle,1 slice = 1/8 pizza,81,230,10,4,0.2,20,390,24,1,1,12,2,4,10,15
+Meat,Pepperoni Only 14" Large Homestyle,1 slice = 1/12 pizza,75,210,9,4,0.2,20,360,21,1,0,11,2,2,10,10
+Meat,Pepperoni Only Panormous,1 slice = 1/16 pizza,83,270,12,4,0.2,20,350,29,1,1,11,2,2,10,60
+Meat,Super Supreme 6" Personal Pan Pizza®,1 pizza,225,670,29,9,0.4,55,950,73,4,3,30,2,10,20,160
+Meat,Super Supreme 9" Small Pan,1 slice = 1/6 pizza,74,220,10,4,0.1,20,330,22,1,1,10,2,4,8,45
+Meat,Super Supreme 12" Medium Pan,1 slice = 1/8 pizza,102,300,13,5,0.2,25,450,30,2,1,14,2,6,10,60
+Meat,Super Supreme 14" Large Pan,1 slice = 1/12 pizza,95,280,13,5,0.2,25,430,28,2,1,13,2,6,10,60
+Meat,Super Supreme 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,83,260,10,5,0.2,25,610,28,2,2,14,2,6,10,15
+Meat,Super Supreme 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,79,250,10,5,0.2,25,540,26,2,1,13,2,6,10,15
+Meat,Super Supreme 12" Medium Stuffed Crust,1 slice = 1/8 pizza,116,300,14,7,0.3,40,620,26,1,1,19,6,8,25,15
+Meat,Super Supreme 14" Large Stuffed Crust,1 slice = 1/12 pizza,105,270,13,6,0.3,40,550,22,1,1,17,6,8,20,15
+Meat,Super Supreme 12" Medium Homestyle,1 slice = 1/8 pizza,98,260,11,5,0.3,25,490,25,1,1,13,2,8,10,15
+Meat,Super Supreme 14" Large Homestyle,1 slice = 1/12 pizza,92,230,10,5,0.2,25,440,22,1,1,13,2,8,10,15
+Meat,Super Supreme Panormous,1 slice = 1/16 pizza,115,290,13,5,0.2,25,440,30,2,1,13,2,6,10,60
+Chicken,Chicken Lover's™ 6" Personal Pan Pizza®,1 pizza,221,580,21,6,0.3,35,720,73,4,3,27,2,20,20,150
+Chicken,Chicken Lover's™ 9" Small Pan,1 slice = 1/6 pizza,73,190,7,2,0.1,15,250,22,1,1,9,2,8,8,45
+Chicken,Chicken Lover's™ 12" Medium Pan,1 slice = 1/8 pizza,98,250,9,3,0.1,20,350,30,2,2,12,2,10,10,60
+Chicken,Chicken Lover's™ 14" Large Pan,1 slice = 1/12 pizza,90,230,9,3,0.1,15,310,28,2,2,11,2,10,10,60
+Chicken,Chicken Lover's™ 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,79,220,7,3,0.2,20,460,28,1,2,12,2,10,10,15
+Chicken,Chicken Lover's™ 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,71,200,6,3,0.1,15,420,26,1,2,11,2,10,10,15
+Chicken,Chicken Lover's™ 12" Medium Stuffed Crust,1 slice = 1/8 pizza,113,260,10,5,0.3,35,510,25,1,1,17,6,10,20,15
+Chicken,Chicken Lover's™ 14" Large Stuffed Crust,1 slice = 1/12 pizza,102,230,9,5,0.3,30,440,22,1,1,15,6,10,20,10
+Chicken,Chicken Lover's™ 12" Medium Homestyle,1 slice = 1/8 pizza,95,210,7,3,0.2,20,380,25,1,1,12,2,10,10,15
+Chicken,Chicken Lover's™ 14" Large Homestyle,1 slice = 1/12 pizza,86,190,6,3,0.2,15,330,22,1,1,11,2,10,10,10
+Chicken,Chicken Lover's™ Panormous,1 slice = 1/16 pizza,111,250,9,3,0.1,15,340,30,2,2,12,2,10,10,60
+Chicken,Chicken Caesar 6" Personal Pan Pizza®,1 pizza,201,610,25,7,0.3,45,980,72,3,2,28,2,2,15,150
+Chicken,Chicken Caesar 9" Small Pan,1 slice = 1/6 pizza,63,200,8,3,0.1,15,340,22,1,1,9,0,2,6,45
+Chicken,Chicken Caesar 12" Medium Pan,1 slice = 1/8 pizza,86,270,11,4,0.1,25,470,29,1,1,13,0,2,8,60
+Chicken,Chicken Caesar 14" Large Pan,1 slice = 1/12 pizza,82,250,10,3,0.1,20,430,27,1,1,12,0,2,8,60
+Chicken,Chicken Caesar 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,68,230,8,3,0.2,25,570,27,1,1,12,0,2,8,15
+Chicken,Chicken Caesar 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,64,220,8,3,0.1,20,530,25,1,1,11,0,2,8,15
+Chicken,Chicken Caesar 12" Medium Stuffed Crust,1 slice = 1/8 pizza,102,270,12,5,0.3,40,620,25,1,0,17,6,2,20,15
+Chicken,Chicken Caesar 14" Large Stuffed Crust,1 slice = 1/12 pizza,92,240,10,5,0.3,35,550,21,1,0,15,4,2,15,10
+Chicken,Chicken Caesar 12" Medium Homestyle,1 slice = 1/8 pizza,83,220,9,3,0.2,25,490,24,1,1,12,0,2,10,15
+Chicken,Chicken Caesar 14" Large Homestyle,1 slice = 1/12 pizza,77,200,8,3,0.2,20,430,21,1,0,11,0,2,8,10
+Chicken,Chicken Caesar Panormous,1 slice = 1/16 pizza,100,260,11,3,0.1,20,450,29,1,1,12,0,2,8,60
+Chicken,Creamy Butter Chicken 6" Personal Pan Pizza®,1 pizza,248,600,22,6,0,35,790,76,4,6,26,2,50,25,120
+Chicken,Creamy Butter Chicken 9" Small Pan,1 slice = 1/6 pizza,82,190,7,2,0,15,270,23,1,2,9,0,25,8,35
+Chicken,Creamy Butter Chicken 12" Medium Pan,1 slice = 1/8 pizza,110,260,10,3,0,20,370,31,2,3,12,2,30,10,50
+Chicken,Creamy Butter Chicken 14" Large Pan,1 slice = 1/12 pizza,102,240,9,3,0,15,350,29,1,3,11,2,25,10,35
+Chicken,Creamy Butter Chicken 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,89,220,7,3,0,20,480,28,1,3,12,2,30,15,10
+Chicken,Creamy Butter Chicken 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,83,210,7,3,0,15,450,27,1,3,11,2,25,10,10
+Chicken,Creamy Butter Chicken 12" Medium Stuffed Crust,1 slice = 1/8 pizza,125,270,10,5,0,35,540,26,1,2,17,2,30,25,10
+Chicken,Creamy Butter Chicken 14" Large Stuffed Crust,1 slice = 1/12 pizza,111,230,9,5,0,30,470,23,1,2,15,2,30,20,8
+Chicken,Creamy Butter Chicken 12" Medium Homestyle,1 slice = 1/8 pizza,106,220,8,3,0,20,400,26,1,2,12,2,30,15,10
+Chicken,Creamy Butter Chicken 14" Large Homestyle,1 slice = 1/12 pizza,95,190,7,3,0,15,360,23,1,2,11,2,30,10,8
+Chicken,Creamy Butter Chicken Panormous,1 slice = 1/16 pizza,108,260,10,3,0,15,360,31,2,3,12,2,30,10,50
+Chicken,BBQ Chicken 6" Personal Pan Pizza®,1 pizza,209,550,18,4,0.1,25,890,81,4,12,20,4,25,10,150
+Chicken,BBQ Chicken 9" Small Pan,1 slice = 1/6 pizza,70,180,6,2,0.1,10,300,25,1,4,8,2,10,6,45
+Chicken,BBQ Chicken 12" Medium Pan,1 slice = 1/8 pizza,92,250,9,3,0.1,15,430,34,2,6,10,2,15,8,60
+Chicken,BBQ Chicken 14" Large Pan,1 slice = 1/12 pizza,86,230,8,3,0.1,15,390,31,1,5,9,2,10,8,60
+Chicken,BBQ Chicken 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,75,210,6,3,0.1,15,540,31,1,6,10,2,15,8,15
+Chicken,BBQ Chicken 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,70,200,5,2,0.1,15,490,29,1,5,9,2,10,8,15
+Chicken,BBQ Chicken 12" Medium Stuffed Crust,1 slice = 1/8 pizza,108,260,9,5,0.3,30,600,29,1,5,15,6,15,20,15
+Chicken,BBQ Chicken 14" Large Stuffed Crust,1 slice = 1/12 pizza,98,230,8,4,0.2,25,510,25,1,5,13,6,15,15,10
+Chicken,BBQ Chicken 12" Medium Homestyle,1 slice = 1/8 pizza,90,210,6,3,0.2,15,460,29,1,5,10,2,15,8,15
+Chicken,BBQ Chicken 14" Large Homestyle,1 slice = 1/12 pizza,82,180,5,2,0.2,15,400,25,1,5,9,2,15,8,15
+Chicken,BBQ Chicken Panormous,1 slice = 1/16 pizza,109,260,10,3,0.1,20,450,34,2,6,11,2,15,8,60
+Chicken,Grilled Chicken Arrabbiatta 6" Personal Pan Pizza®,1 pizza,244,600,23,6,0,35,750,74,4,4,27,2,70,25,120
+Chicken,Grilled Chicken Arrabbiatta 9" Small Pan,1 slice = 1/6 pizza,78,190,7,2,0,15,260,23,1,1,9,0,30,8,35
+Chicken,Grilled Chicken Arrabbiatta 12" Medium Pan,1 slice = 1/8 pizza,104,260,10,3,0,20,350,31,2,2,12,2,35,10,50
+Chicken,Grilled Chicken Arrabbiatta 14" Large Pan,1 slice = 1/12 pizza,96,240,9,3,0,15,320,28,2,2,11,0,35,10,45
+Chicken,Grilled Chicken Arrabbiatta 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,86,220,7,3,0,20,460,28,2,2,12,2,35,15,10
+Chicken,Grilled Chicken Arrabbiatta 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,80,210,6,3,0,15,430,26,1,2,11,2,35,10,10
+Chicken,Grilled Chicken Arrabbiatta 12" Medium Stuffed Crust,1 slice = 1/8 pizza,119,260,10,5,0,35,520,26,1,1,17,0,40,25,10
+Chicken,Grilled Chicken Arrabbiatta 14" Large Stuffed Crust,1 slice = 1/12 pizza,110,230,9,5,0,30,450,22,1,1,15,0,35,20,8
+Chicken,Grilled Chicken Arrabbiatta 12" Medium Homestyle,1 slice = 1/8 pizza,121,220,7,3,0,20,390,26,1,1,12,0,35,15,10
+Chicken,Grilled Chicken Arrabbiatta 14" Large Homestyle,1 slice = 1/12 pizza,93,190,6,3,0,15,340,22,1,1,11,0,35,10,8
+Chicken,Grilled Chicken Arrabbiatta Panormous,1 slice = 1/16 pizza,121,250,10,3,0,15,350,31,2,2,12,2,35,10,50
+Chicken,Grilled Chicken Rustico 6" Personal Pan Pizza®,1 pizza,230,600,23,6,0,35,750,73,4,3,27,2,60,25,120
+Chicken,Grilled Chicken Rustico 9" Small Pan,1 slice = 1/6 pizza,74,190,7,2,0,15,260,23,1,1,9,0,25,8,35
+Chicken,Grilled Chicken Rustico 12" Medium Pan,1 slice = 1/8 pizza,95,250,10,3,0,20,350,30,2,1,12,0,30,10,50
+Chicken,Grilled Chicken Rustico 14" Large Pan,1 slice = 1/12 pizza,90,230,9,3,0,15,320,28,2,1,11,0,30,10,45
+Chicken,Grilled Chicken Rustico 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,78,220,7,3,0,20,460,28,1,2,12,0,30,15,10
+Chicken,Grilled Chicken Rustico 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,74,200,6,3,0,15,430,26,1,1,11,0,30,10,10
+Chicken,Grilled Chicken Rustico 12" Medium Stuffed Crust,1 slice = 1/8 pizza,113,260,10,5,0,35,520,25,1,1,17,0,30,25,10
+Chicken,Grilled Chicken Rustico 14" Large Stuffed Crust,1 slice = 1/12 pizza,101,230,9,5,0,30,450,22,1,1,15,0,30,20,8
+Chicken,Grilled Chicken Rustico 12" Medium Homestyle,1 slice = 1/8 pizza,95,210,7,3,0,20,390,25,1,1,12,0,30,15,10
+Chicken,Grilled Chicken Rustico 14" Large Homestyle,1 slice = 1/12 pizza,86,190,6,3,0,15,340,22,1,1,11,0,30,10,8
+Chicken,Grilled Chicken Rustico Panormous,1 slice = 1/16 pizza,110,250,9,3,0,15,350,30,2,1,12,0,30,10,50
+Veggie,Veggie Lover's® 6" Personal Pan Pizza®,1 pizza,238,570,21,6,0.3,25,610,74,4,4,23,4,30,20,150
+Veggie,Veggie Lover's® 9" Small Pan,1 slice = 1/6 pizza,78,180,7,2,0.1,10,210,23,1,2,8,2,10,8,45
+Veggie,Veggie Lover's® 12" Medium Pan,1 slice = 1/8 pizza,107,250,9,3,0.1,15,290,31,2,2,11,4,15,10,60
+Veggie,Veggie Lover's® 14" Large Pan,1 slice = 1/12 pizza,98,230,9,3,0.1,15,270,28,2,2,10,2,15,10,60
+Veggie,Veggie Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,85,210,6,3,0.1,15,410,28,1,2,10,4,15,10,15
+Veggie,Veggie Lover's® 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,82,200,6,3,0.1,15,380,26,1,2,9,2,15,10,15
+Veggie,Veggie Lover's® 12" Medium Stuffed Crust,1 slice = 1/8 pizza,129,280,11,6,0.3,35,500,26,1,2,18,8,20,25,15
+Veggie,Veggie Lover's® 14" Large Stuffed Crust,1 slice = 1/12 pizza,116,240,10,5,0.3,30,430,23,1,1,16,6,15,25,10
+Veggie,Veggie Lover's® 12" Medium Homestyle,1 slice = 1/8 pizza,104,210,7,3,0.2,15,330,26,1,2,10,4,20,10,15
+Veggie,Veggie Lover's® 14" Large Homestyle,1 slice = 1/12 pizza,94,180,6,3,0.2,15,290,22,1,2,9,2,15,10,10
+Veggie,Veggie Lover's® Panormous,1 slice = 1/16 pizza,121,240,9,3,0.1,15,290,31,2,2,10,4,15,10,60
+Veggie,Greek 6" Personal Pan Pizza®,1 pizza,243,580,22,7,0.3,25,930,74,4,3,21,6,8,15,150
+Veggie,Greek 9" Small Pan,1 slice = 1/6 pizza,77,170,7,2,0.1,10,290,22,1,1,7,2,4,6,45
+Veggie,Greek 12" Medium Pan,1 slice = 1/8 pizza,109,250,10,3,0.1,15,420,30,2,2,10,4,4,8,60
+Veggie,Greek 14" Large Pan,1 slice = 1/12 pizza,100,230,9,3,0.1,10,390,28,2,2,9,4,4,8,60
+Veggie,Greek 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,88,210,7,3,0.1,15,540,28,2,2,9,4,4,10,15
+Veggie,Greek 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,81,200,6,3,0.1,10,500,26,1,2,8,4,4,8,15
+Veggie,Greek 12" Medium Stuffed Crust,1 slice = 1/8 pizza,166,340,13,7,0.4,40,790,34,2,2,19,10,8,25,15
+Veggie,Greek 14" Large Stuffed Crust,1 slice = 1/12 pizza,163,330,13,7,0.4,35,780,33,2,2,19,10,8,25,15
+Veggie,Greek 12" Medium Homestyle,1 slice = 1/8 pizza,105,210,7,3,0.2,15,460,26,1,1,9,4,6,10,10
+Veggie,Greek 14" Large Homestyle,1 slice = 1/12 pizza,92,180,6,3,0.2,15,410,22,1,1,8,4,6,8,10
+Veggie,Greek Panormous,1 slice = 1/16 pizza,108,240,9,3,0.1,15,420,30,2,2,9,4,4,8,60
+Veggie,Margherita 6" Personal Pan Pizza®,1 pizza,201,580,23,7,0.0,30,730,73,4,4,24,8,10,25,120
+Veggie,Margherita 9" Small Pan,1 slice = 1/6 pizza,60,170,7,3,0.0,10,160,20,1,1,7,2,4,10,8
+Veggie,Margherita 12" Medium Pan,1 slice = 1/8 pizza,86,250,10,4,0.0,15,320,30,2,1,11,0,4,15,50
+Veggie,Margherita 14" Large Pan,1 slice = 1/12 pizza,80,230,9,3,0.0,15,290,27,1,1,10,0,4,10,45
+Veggie,Margherita 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,68,210,7,3,0.0,15,440,27,1,1,10,2,4,15,10
+Veggie,Margherita 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,63,200,7,3,0.0,15,410,25,1,1,10,2,4,15,10
+Veggie,Margherita 12" Medium Stuffed Crust,1 slice = 1/8 pizza,101,250,10,5,0.0,30,480,25,1,1,16,0,6,25,10
+Veggie,Margherita 14" Large Stuffed Crust,1 slice = 1/12 pizza,98,220,9,5,0.0,25,420,21,1,1,14,0,4,20,8
+Veggie,Margherita 12" Medium Homestyle,1 slice = 1/8 pizza,86,210,8,3,0.0,15,360,25,1,1,10,0,6,15,10
+Veggie,Margherita 14" Large Homestyle,1 slice = 1/12 pizza,76,180,7,3,0.0,15,320,21,1,1,9,0,4,15,8
+Veggie,Margherita Panormous,1 slice = 1/16 pizza,96,250,10,4,0.2,15,320,29,1,1,11,2,4,10,60
+Cheese,Cheese Lover's® 6" Personal Pan Pizza®,1 pizza,213,650,28,10,0.4,45,770,72,3,2,29,2,4,30,150
+Cheese,Cheese Lover's® 9" Small Pan,1 slice = 1/6 pizza,68,210,9,3,0.2,15,260,22,1,1,10,2,2,10,45
+Cheese,Cheese Lover's® 12" Medium Pan,1 slice = 1/8 pizza,94,280,12,5,0.2,25,370,30,1,1,13,2,2,15,60
+Cheese,Cheese Lover's® 14" Large Pan,1 slice = 1/12 pizza,88,260,12,5,0.2,20,350,27,1,1,13,2,2,15,60
+Cheese,Cheese Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,75,250,10,5,0.2,25,480,27,1,1,13,2,2,15,15
+Cheese,Cheese Lover's® 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,71,230,9,4,0.2,20,450,25,1,1,12,2,2,15,15
+Cheese,Cheese Lover's® 12" Medium Stuffed Crust,1 slice = 1/8 pizza,109,290,13,7,0.4,40,540,25,1,1,18,6,4,25,15
+Cheese,Cheese Lover's® 14" Large Stuffed Crust,1 slice = 1/12 pizza,99,260,12,6,0.3,35,480,22,1,1,16,6,4,25,10
+Cheese,Cheese Lover's® 12" Medium Homestyle,1 slice = 1/8 pizza,91,240,10,5,0.3,25,410,25,1,1,13,2,4,15,15
+Cheese,Cheese Lover's® 14" Large Homestyle,1 slice = 1/12 pizza,84,220,9,5,0.3,20,360,21,1,1,12,2,4,15,10
+Cheese,Cheese Lover's® Panormous,1 slice = 1/16 pizza,107,280,12,5,0.2,20,360,30,1,1,13,2,2,15,60
+Cheese,Cheese Only 6" Personal Pan Pizza®,1 pizza,195,610,25,9,0.4,40,700,72,3,2,28,2,2,30,150
+Cheese,Cheese Only 9" Small Pan,1 slice = 1/6 pizza,61,190,8,3,0.1,15,230,22,1,1,9,2,2,10,45
+Cheese,Cheese Only 12" Medium Pan,1 slice = 1/8 pizza,85,260,11,4,0.2,20,330,30,1,1,12,2,2,15,60
+Cheese,Cheese Only 14" Large Pan,1 slice = 1/12 pizza,79,240,10,4,0.2,20,310,27,1,1,12,2,2,15,60
+Cheese,Cheese Only 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,66,230,8,4,0.2,20,440,27,1,1,12,2,2,15,15
+Cheese,Cheese Only 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,62,210,8,4,0.2,20,410,25,1,1,11,2,2,15,15
+Cheese,Cheese Only 12" Medium Stuffed Crust,1 slice = 1/8 pizza,100,270,11,6,0.3,35,500,25,1,1,17,6,4,25,10
+Cheese,Cheese Only 14" Large Stuffed Crust,1 slice = 1/12 pizza,90,240,10,5,0.3,30,430,21,1,1,16,6,4,25,10
+Cheese,Cheese Only 12" Medium Homestyle,1 slice = 1/8 pizza,80,220,9,4,0.3,20,360,25,1,1,12,2,4,15,10
+Cheese,Cheese Only 14" Large Homestyle,1 slice = 1/12 pizza,75,200,8,4,0.2,20,320,21,1,1,11,2,4,15,10
+Cheese,Cheese Only Panormous,1 slice = 1/16 pizza,96,260,11,4,0.2,20,320,29,1,1,12,2,2,15,60
+Cheese,Poutine Pizza 6" Personal Pan Pizza®,1 pizza,235,690,30,9,0.5,45,940,82,4,2,25,0,0,35,120
+Cheese,Poutine Pizza 9" Small Pan,1 slice = 1/6 pizza,76,220,10,3,0,15,310,25,1,0,8,0,0,10,35
+Cheese,Poutine Pizza 12" Medium Pan,1 slice = 1/8 pizza,107,300,14,5,0,20,450,34,2,1,11,0,0,15,50
+Cheese,Poutine Pizza 14" Large Pan,1 slice = 1/12 pizza,106,300,14,5,0,20,470,34,2,1,11,0,0,15,45
+Cheese,Poutine Pizza 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,85,270,11,5,0,20,560,32,1,1,11,0,0,15,10
+Cheese,Poutine Pizza 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,87,270,11,5,0,20,570,32,2,1,11,0,0,15,10
+Cheese,Poutine Pizza 12" Medium Stuffed Crust,1 slice = 1/8 pizza,122,310,14,7,0,35,620,29,1,0,16,0,2,30,10
+Cheese,Poutine Pizza 14" Large Stuffed Crust,1 slice = 1/12 pizza,115,290,14,6,0,35,600,28,1,0,15,0,2,25,10
+Cheese,Poutine Pizza 12" Medium Homestyle,1 slice = 1/8 pizza,103,260,11,5,0,20,480,29,1,0,11,0,2,20,10
+Cheese,Poutine Pizza 14" Large Homestyle,1 slice = 1/12 pizza,99,250,11,5,0,20,480,28,1,0,10,0,2,15,10
+Cheese,Poutine Pizza Panormous,1 slice = 1/16 pizza,116,330,15,6,0,30,490,35,2,1,14,0,0,20,50
+Cheese,Gluten Free Crust Pepperoni Pizza,1 pizza,361,1060,45,20,1.0,85,1820,126,5,9,38,0,30,50,8
+Meat,Donair Pizza's 6" Personal Pan Pizza®,1 pizza,225,540,19,5,0.2,20,540,77,4,7,18,2,4,10,160
+Meat,Donair Pizza's 9" Small Pan,1 slice = 1/6 pizza,76,180,7,2,0.1,10,190,23,1,2,7,0,2,4,45
+Meat,Donair Pizza's 12" Medium Pan,1 slice = 1/8 pizza,103,250,10,3,0.1,15,260,31,2,3,10,2,2,8,60
+Meat,Donair Pizza's 14" Large Pan,1 slice = 1/12 pizza,96,230,9,3,0.1,15,250,29,1,3,9,0,2,6,60
+Meat,Donair Pizza's 12" Medium Thin 'N Crispy®,1 slice = 1/8 pizza,82,210,7,3,0.1,15,370,29,1,3,9,2,2,8,15
+Meat,Donair Pizza's 14" Large Thin 'N Crispy®,1 slice = 1/12 pizza,77,200,7,3,0.1,15,360,27,1,3,9,0,2,8,15
+Meat,Donair Pizza's 12" Medium Stuffed Crust,1 slice = 1/8 pizza,92,190,9,5,0.2,30,350,15,1,3,12,6,4,20,8
+Meat,Donair Pizza's 14" Large Stuffed Crust,1 slice = 1/12 pizza,97,210,9,5,0.2,25,350,20,1,3,12,4,4,15,10
+Meat,Donair Pizza's 12" Medium Homestyle,1 slice = 1/8 pizza,73,150,7,3,0.2,15,220,15,1,3,7,2,4,8,8
+Meat,Donair Pizza's 14" Large Homestyle,1 slice = 1/12 pizza,81,170,7,3,0.2,15,240,20,1,3,8,0,4,8,10
+Meat,Donair Pizza's Panormous,1 slice = 1/8 pizza,103,250,10,3,0.1,15,260,31,2,3,10,2,2,8,60
+P'zone,P'zone Pepperoni,1/2 Calzone,193,700,24,9,0.5,40,650,92,4,4,28,0,0,25,50
+P'zone,P'zone Meat Lovers,1/2 Calzone,202,730,26,10,0.5,55,780,93,4,4,32,0,0,25,50
+P'zone,P'zone Canadian,1/2 Calzone,215,730,26,10,0.4,55,820,93,4,4,32,0,0,25,50
+Kids' Menu,Cheese 6" Pan Pizza®,1 pizza,170,510,16,8,0,40,730,64,4,5,28,2,0,35,30
+Kids' Menu,Pepperoni 6" Pan Pizza®,1 pizza,166,510,17,7,0,40,790,61,4,5,25,2,0,25,30
+Kids' Menu,Hawaiian 6" Pan Pizza®,1 pizza,234,650,25,9,0.4,45,810,77,4,7,30,2,2,30,150
+Kids' Menu,Veggie Lovers 6" Pan Pizza®,1 pizza,238,570,21,6,0.3,25,610,74,4,4,23,4,30,20,150
+Kids' Menu,Fettuccini Alfredo Pasta,1 order,241,400,17,5,0.4,25,930,47,2,4,13,8,2,15,25
+Kids' Menu,Mac N' Cheese,1 order,251,520,27,15,1,60,1170,45,2,5,25,10,2,40,20
+Kids' Menu,Spaghetti with Meat Sauce,1 order,257,400,14,5,0.2,35,800,50,3,7,18,4,20,10,50
+Kids' Menu,Boneless Bites with Honey BBQ Sauce,5 pieces,174,500,18,2,0.1,45,1620,65,2,35,17.5,2,8,4,16
+Kids' Menu,Boneless Bites with Honey Garlic Sauce,5 pieces,144,420,18,2,0.1,45,1210,48,1,25,17,2,2,2,12
+Kids' Menu,Celery Sticks,1 order,122,35,0,0,0,0,90,9,3,4,1,0,8,4,2
+Kids' Menu,Garlic Bread,1 piece,40,120,5,1,0,0,230,17,1,1,3,0,0,2,8
+Kids' Menu,Crispy Potato Wedges,1 order,170,350,17,5,0,0,720,44,5,0,4,0,8,2,6
+Kids' Menu,Caesar Salad with Dressing,side,149,260,19,5,0.3,25,690,12,2,1,8,8,35,15,15
+Kids' Menu,Italian House Salad with Low Fat Raspberry Dressing,side,152,45,1,0,0,0,45,6,2,4,2,0,30,2,8
+Desserts,Brownie,1 piece,80,250,9,5,0.2,20,600,28,2,2,13,6,6,20,15
+Desserts,Triple Chocolate Brownie,1/12 piece,40,170,7,2,0.1,15,40,25,1,17,2,0,0,0,10
+Desserts,Cinnaparts®,1/4 piece,18,58,1,0,0,0,55,11,0,4,1,0,0,1,4
+Desserts,Caramel Chocolate Lava Cake,1 slice,165,630,32,13,0.1,5,280,79,3,56,9,2,2,8,30
+Desserts,Sky High Cheesecake,1 slice 247g,,820,57,34,1.5,265,980,65,2,54,13,4,0,15,6
+Desserts,Chocolate Fudge Cake,1 slice 215g,,730,27,8,0,45,630,123,5,91,8,2,0,8,220
+Desserts,Whipped Topping,2 Tbs 8g,,25,2,2,0,0,0,2,0,1,0,0,0,0,0
+Desserts,Strawberry Sauce,30 ml,30,70,0,0,0,0,10,18,0,17,0.1,0,50,0,0
+Desserts,Hershey's Chipits Chocolate Chip Cookie,1 slice 40g,,180,9,4,0.1,15,125,26,1,17,2,8,0,0,6
+Desserts,Cinnabon,1 roll 29g,,90,4,2,0,0,85,13,0,6,2,0,0,16,0
+Pastas,Buffet Cavatini Veggie with Dry Rotini,1/6 pan 157g,,200,6,4,0,20,420,24,0,4,12,4,20,15,8
+Pastas,Buffet Cavatini Veggie with IQF Rotini,1/6 pan 157g,,200,6,4,0,20,420,24,0,4,12,4,20,15,8
+Pastas,Buffet Cavatini Cheese with Dry Rotini,1/6 pan 159g,,230,8,5,0,25,460,24,2,4,15,4,15,20,8
+Pastas,Buffet Cavatini Cheese with IQF Rotini,1/6 pan 159g,,230,8,5,0,25,460,24,2,4,15,4,15,20,8
+Pastas,Buffet Cavatini Pepperoni with Dry Rotini,1/6 pan 157g,,230,9,5,0,25,490,24,3,4,14,4,15,15,10
+Pastas,Buffet Cavatini Pepperoni with IQF Rotini,1/6 pan 157g,,230,9,5,0,25,490,24,3,4,14,4,15,15,10
+Pastas,Buffet Cavatini Beef Bacon and Tomato Dry Rotini,1/6 pan 174g,,240,9,5,0,30,560,25,3,4,16,4,15,15,10
+Pastas,Buffet Cavatini Beef Bacon and Tomato IQF Rotini,1/6 pan 174g,,240,9,5,0,30,560,25,3,4,16,4,15,15,10
+Pastas,Buffet Cavatini Pork and Bacon Dry Rotini,1/6 pan 160g,,230,8,4,0,25,490,24,3,4,14,4,15,15,10
+Pastas,Buffet Cavatini Pork and Bacon IQF Rotini,1/6 pan 160g,,230,8,4,0,25,490,24,3,4,14,4,15,15,10
+Salad,Buffet Pasta Salad Dry Rotini Ranch,1/6 pan 182g,,350,17,3,0,15,330,39,3,5,9,2,15,6,15
+Salad,Buffet Pasta Salad IQF Rotini Ranch,1/6 pan 182g,,350,17,3,0,15,330,39,3,5,9,2,15,6,15
+Salad,Buffet Pasta Salad Dry Rotini Italian,1/6 pan 182g,,380,20,4,0,5,260,42,3,6,9,2,15,6,15
+Salad,Buffet Pasta Salad IQF Rotini Italian,1/6 pan 182g,,380,20,4,0,5,260,42,3,6,9,2,15,6,15
+Salad,Buffet Caesar Salad,1/10 bowl 267g,,520,43,8,0,45,1430,26,4,3,8,2,50,15,25
+Salad,Buffet Green Salad Ranch Dressing,1/10 bowl 372g,,440,41,6,1,35,740,11,5,3,6,0,100,10,25
+Salad,Buffet Green Salad Sweet Italian Dressing,1/10 bowl 372g,,530,47,7,0,5,570,19,6,6,5,0,100,10,25
+Salad,Buffet Green Salad French Dressing,1/10 bowl 372g,,420,34,5,0,0,790,22,6,12,5,6,100,10,25
+Meat,Italian Classic 12" Medium Pan,1 slice = 1/12 pizza,78,190,9,3,0,15,260,20,1,1,8,4,20,8,40
+Meat,Italian Classic 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,63,170,7,3,0,20,340,19,1,1,8,4,20,8,10
+Meat,Italian Classic 12" Medium Homestyle,1 slice = 1/12 pizza,75,170,7,3,0,20,290,17,1,1,8,4,20,8,10
+Meat,Canadian 12" Medium Pan,1 slice = 1/12 pizza,73,190,9,3,0,15,300,20,1,1,9,2,2,8,40
+Meat,Canadian 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,58,170,7,3,0,15,370,18,1,1,9,2,2,8,10
+Meat,Canadian 12" Medium Homestyle,1 slice = 1/12 pizza,70,160,7,3,0,15,320,17,1,1,9,2,4,8,8
+Meat,Triple Crown® 12" Medium Pan,1 slice = 1/12 pizza,72,170,7,3,0,10,220,20,1,1,8,2,10,8,40
+Meat,Triple Crown® 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,58,150,5,3,0,10,300,18,1,1,7,2,10,8,10
+Meat,Triple Crown® 12" Medium Homestyle,1 slice = 1/12 pizza,70,150,6,3,0,10,250,17,1,1,7,2,10,8,8
+Meat,Hawaiian 12" Medium Pan,1 slice = 1/12 pizza,75,190,8,3,0,15,200,22,1,2,9,0,2,10,10
+Meat,Hawaiian 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,63,160,6,3,0,15,340,19,1,2,9,2,2,10,10
+Meat,Hawaiian 12" Medium Homestyle,1 slice = 1/12 pizza,70,140,5,2,0,10,260,18,1,2,7,2,2,8,8
+Meat,Pepperoni Lover's® 12" Medium Pan,1 slice = 1/12 pizza,73,210,10,4,0,20,290,20,1,1,10,2,2,10,40
+Meat,Pepperoni Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,58,180,8,4,0,20,370,18,1,1,9,2,2,10,10
+Meat,Pepperoni Lover's® 12" Medium Homestyle,1 slice = 1/12 pizza,70,180,9,4,0,20,320,17,1,0,10,2,2,10,10
+Meat,Meat Lover's® 12" Medium Pan,1 slice = 1/12 pizza,78,210,10,4,0,25,330,20,1,1,10,2,2,8,45
+Meat,Meat Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,64,190,8,4,0,25,410,18,1,1,10,2,2,8,10
+Meat,Meat Lover's® 12" Medium Homestyle,1 slice = 1/12 pizza,75,190,9,4,0,25,360,17,1,1,10,2,2,8,10
+Meat,Smokey Maple Bacon 12" Medium Pan,1 slice = 1/12 pizza,62,160,7,2,0,10,230,19,1,0,6,0,0,4,40
+Meat,Smokey Maple Bacon 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,48,140,5,2,0,10,310,17,1,1,6,0,0,4,10
+Meat,Smokey Maple Bacon 12" Medium Homestyle,1 slice = 1/12 pizza,60,140,5,2,0,10,260,16,0,0,6,0,2,4,8
+Meat,Supreme Lover's™ 12" Medium Pan,1 slice = 1/12 pizza,80,200,9,3,0,20,300,20,1,1,10,2,4,8,45
+Meat,Supreme Lover's™ 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,66,180,7,3,0,20,380,19,1,1,9,2,4,8,10
+Meat,Supreme Lover's™ 12" Medium Homestyle,1 slice = 1/12 pizza,77,170,8,3,0,20,320,17,1,1,10,2,6,8,10
+Meat,Pepperoni Only 12" Medium Pan,1 slice = 1/12 pizza,63,180,8,3,0,15,240,19,1,1,8,0,2,8,40
+Meat,Pepperoni Only 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,48,160,6,3,0,15,310,18,1,1,8,0,2,8,10
+Meat,Pepperoni Only 12" Medium Homestyle,1 slice = 1/12 pizza,60,150,7,3,0,15,260,16,1,0,8,0,2,8,8
+Meat,Super Supreme 12" Medium Pan,1 slice = 1/12 pizza,78,200,9,3,0,20,300,20,1,1,9,2,4,8,40
+Meat,Super Supreme 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,64,170,7,3,0,20,410,18,1,1,9,2,4,8,10
+Meat,Super Supreme 12" Medium Homestyle,1 slice = 1/12 pizza,75,170,7,3,0,20,320,17,1,1,9,2,6,8,10
+Chicken,Chicken Lover's™ 12" Medium Pan,1 slice = 1/12 pizza,75,170,6,2,0,10,230,20,1,1,8,2,8,8,40
+Chicken,Chicken Lover's™ 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,61,140,5,2,0,10,300,18,1,1,8,2,8,8,10
+Chicken,Chicken Lover's™ 12" Medium Homestyle,1 slice = 1/12 pizza,73,140,5,2,0,10,250,17,1,1,8,2,8,8,8
+Chicken,Chicken Caesar 12" Medium Pan,1 slice = 1/12 pizza,67,180,8,2,0,15,310,20,1,1,8,0,0,6,40
+Chicken,Chicken Caesar 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,53,150,6,2,0,15,380,18,1,1,8,0,0,6,10
+Chicken,Chicken Caesar 12" Medium Homestyle,1 slice = 1/12 pizza,64,150,6,2,0,15,330,16,1,0,8,0,2,6,8
+Chicken,Creamy Butter Chicken 12" Medium Pan,1 slice = 1/12 pizza,73,170,7,2,0,10,250,21,1,2,8,0,20,8,30
+Chicken,Creamy Butter Chicken 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,59,150,5,2,0,10,320,19,1,2,8,0,20,8,8
+Chicken,Creamy Butter Chicken 12" Medium Homestyle,1 slice = 1/12 pizza,71,150,5,2,0,15,270,17,1,2,8,0,20,8,6
+Chicken,BBQ Chicken 12" Medium Pan,1 slice = 1/12 pizza,70,170,6,2,0,10,290,22,1,4,7,2,8,6,40
+Chicken,BBQ Chicken 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,56,140,4,2,0,10,360,21,1,4,6,2,8,6,10
+Chicken,BBQ Chicken 12" Medium Homestyle,1 slice = 1/12 pizza,66,140,4,2,0,10,310,19,1,4,7,2,10,6,8
+Chicken,Grilled Chicken Arrabbiatta 12" Medium Pan,1 slice = 1/12 pizza,78,180,7,3,0,10,170,21,1,1,8,2,25,8,8
+Chicken,Grilled Chicken Arrabbiatta 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,66,150,5,2,0,10,310,19,1,1,8,0,25,8,8
+Chicken,Grilled Chicken Arrabbiatta 12" Medium Homestyle,1 slice = 1/12 pizza,77,140,5,2,0,10,260,17,1,1,8,0,25,8,6
+Chicken,Grilled Chicken Rustico 12" Medium Pan,1 slice = 1/12 pizza,75,170,6,2,0,10,230,20,1,1,8,0,20,8,30
+Chicken,Grilled Chicken Rustico 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,76,250,10,4,0.2,25,550,27,1,1,13,2,4,10,15
+Chicken,Grilled Chicken Rustico 12" Medium Homestyle,1 slice = 1/12 pizza,72,140,5,2,0,10,260,17,1,1,8,0,20,8,6
+Veggie,Veggie Lover's® 12" Medium Pan,1 slice = 1/12 pizza,81,160,6,2,0,10,200,20,1,1,7,2,10,8,40
+Veggie,Veggie Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,67,140,4,2,0,10,270,19,1,1,7,2,10,8,10
+Veggie,Veggie Lover's® 12" Medium Homestyle,1 slice = 1/12 pizza,79,140,5,2,0,10,220,17,1,1,7,2,10,8,8
+Veggie,Greek 12" Medium Pan,1 slice = 1/12 pizza,73,160,6,2,0,10,280,20,1,1,6,2,4,6,40
+Veggie,Greek 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,59,140,5,2,0,10,360,19,1,1,6,2,4,6,10
+Veggie,Greek 12" Medium Homestyle,1 slice = 1/12 pizza,70,140,5,2,0,10,310,17,1,1,6,2,4,6,8
+Veggie,Margherita 12" Medium Pan,1 slice = 1/12 pizza,52,140,5,2,0,10,290,18,1,1,7,0,2,10,8
+Veggie,Margherita 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,52,140,5,2,0,10,290,18,1,1,7,0,2,10,8
+Veggie,Margherita 12" Medium Homestyle,1 slice = 1/12 pizza,64,140,5,2,0,10,240,17,1,1,7,0,4,10,6
+Cheese,Cheese Lover's® 12" Medium Pan,1 slice = 1/12 pizza,72,190,8,3,0,15,250,20,1,1,9,2,2,10,40
+Cheese,Cheese Lover's® 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,58,160,6,3,0,15,320,18,1,1,9,2,2,10,10
+Cheese,Cheese Lover's® 12" Medium Homestyle,1 slice = 1/12 pizza,70,160,7,3,0,15,270,17,1,1,9,2,2,10,8
+Cheese,Cheese Only 12" Medium Pan,1 slice = 1/12 pizza,65,180,7,3,0,15,220,20,1,1,8,2,2,10,40
+Cheese,Cheese Only 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,51,150,5,3,0,15,290,18,1,1,8,2,2,10,10
+Cheese,Cheese Only 12" Medium Homestyle,1 slice = 1/12 pizza,63,150,6,3,0,15,240,16,1,0,8,2,2,10,8
+Cheese,Poutine Pizza 12" Medium Pan,1 slice = 1/12 pizza,71,200,9,3,2,15,300,23,1,0,8,21,0,113,6
+Cheese,Poutine Pizza 12" Medium Thin 'N Crispy®,1 slice = 1/12 pizza,57,180,7,3,0,15,370,21,1,0,7,0,0,10,8
+Cheese,Poutine Pizza 12" Medium Homestyle,1 slice = 1/12 pizza,69,180,8,3,0,15,320,20,1,0,7,0,2,10,6
+Kids' Menu,Kids Spaghetti with Tomato Sauce (with Carrot & Celery Sticks),1 order,368,330,4,2,0,10,631,62,7,14,15,80,40,15,20
+Kids' Menu,Kids Spaghetti with Tomato Sauce (with Health Check Italian House Side Salad),1 order,398,340,5,2,0,10,740,60,7,13,16,50,60,15,25

@@ -1,78 +1,140 @@
-Category,Item,Amount (g),Energy (Kcal),Energy (KJ),Proteins (g),Carbohydrates (g),Sugar (g),Added Sugar (g),Fat (g),Monounsaturated Fat (g),Polyunsaturated Fat (g),Saturated Fat (g),Natural Trans Fat (g),Hydrogenation Trans Fat (g),Total Trans Fat (g),Fiber (g),Sodium (mg),Salt (mg),Added Salt (mg)
-BEEF,Whopper,290.9,609.3,2565,23.5,51.7,12.1,9.6,35.6,10.8,9.6,8.2,0.2,0,0.3,3.2,1088,2721,1226
-BEEF,Whopper Cheese,311.7,689.9,2889,28,52.7,13,9.6,41.8,12.7,9.8,12.2,0.2,0,0.3,3.2,1410,3524,661
-BEEF,Double Whopper,358.5,843.6,3545,40.7,51.6,12.1,9.6,55.2,17.3,9.8,14.2,0.2,0,0.2,3.2,945,2362,661
-BEEF,Triple Whopper,458.7,1079.5,4532,58.1,51.9,12.2,9.6,74.9,23.9,10.1,20.1,0.2,0,0.2,3.2,1216,3041,661
-BEEF,Big King,213.1,496.1,1286,23.6,39.4,10.1,1.1,26.6,13.2,4.4,8.9,0.4,0,0.4,2.7,909,2273,630
-BEEF,Big King XXL,336.7,945.6,3945,49.4,51.5,11.7,8,62.1,22.3,4,21.8,0.3,0,0.3,2.6,1848,4620,1048
-BEEF,Double Cheese Bacon,207,463.6,1932,27.6,34,9.1,2.6,23.9,10.5,1,12.2,0.2,0,0.2,1.9,1051,2627,812
-BEEF,Double Cheese Bacon XXL,354.1,921.1,3842,54.1,50.9,12.5,10.2,57.4,18.7,2.1,22.4,0.1,0,0.1,2.6,1957,4892,1325
-BEEF,Double Cheese Burger,166.6,419.1,1745,24.5,30.1,7,1.7,22,9.5,0.9,11.4,0.2,0,0.2,1.6,833,2082,786
-BEEF,Double Cheese XXL,341.7,869.1,3626,49.3,50.5,12,9.7,54,17.3,1.6,21.2,0.1,0,0.1,2.6,1758,4395,828
-BEEF,Steakhouse,294.7,810.8,3389,36.3,60.3,13.8,8.3,48.3,17.2,7.6,15.6,0.2,0.2,0.3,3.2,1398,3495,1521
-BEEF,Double Steakhouse,379.7,1048.2,4384,53.6,60.9,14.3,8.9,67.8,23.6,7.7,21.5,0.1,0.1,0.3,3.2,1480,3699,1519
-BEEF,Whopper Jr.,156.6,324.9,1367,12.2,33.6,8.6,2.7,15.8,6,5.1,4.6,0.2,0,0.2,2,536,1341,812
-BEEF,Whopper Jr. Cheese,168.1,364.6,1527,14.4,34,9,2.7,18.9,6.9,5.2,6.6,0.2,0,0.2,2,715,1786,812
-BEEF,Hamburger,111.6,249.2,1050,11.9,30.8,6.5,1.7,8.7,4,0.5,4.1,0.1,0,0.1,1.6,454,1136,816
-BEEF,Cheese Burger,123.1,288.9,1210,14.1,31.2,6.9,1.7,11.8,4.9,0.6,6.1,0.1,0,0.1,1.6,633,1581,816
-BEEF,BBQ Beef Wrap,230.9,583.2,2434,31.8,43.4,11.2,8.9,32.1,11.3,2,11.7,0.1,0,0.1,18.2,1556,3891,1571
-BEEF,Rodeo Cheese Burger,144.5,380.1,1591,15.4,43.3,9.5,3.3,15.8,7.2,1.4,7,0.1,0,0.1,2.3,587,1467,827
-BEEF,Angry Bacon King,393.1,1135.6,4732,59.4,62.6,12.7,7.3,73.5,26.7,8.2,23.2,0.2,0.2,0.4,3.5,2132,5330,1292
-BEEF,Bacon King,363.7,1104.7,4607,63.8,53.2,11.9,7.3,72.5,25.3,7.6,24.3,0.2,0.2,0.4,2.4,2010,5026,1275
-BEEF,Italian King,262.6,727.4,3044,44.5,41.4,12,0.3,41.1,1.4,0.3,13.7,,,,,5,866,2166,472
-BEEF,Nduja King,279.6,786.4,3291,46.3,43.3,13.4,2.3,46.3,3.9,6.2,16.5,0.1,0,0.2,5.4,1059,2648,546
-CHICKEN,Chicken Supreme,217,590.1,2483,21.4,51.2,5.9,5.5,33.1,13.5,15.8,3.7,0.3,0,0.4,3.4,1274,3184,405
-CHICKEN,Chicken Supreme Cheese,240,669.7,2803,25.9,52,6.7,5.5,39.3,15.4,16,7.7,0.4,0,0.4,3.4,1630,4076,405
-CHICKEN,Chicken Supreme French,284,783.6,3279,31.4,52.4,7,5.6,49.3,18.1,22,8.7,0.5,0,0.6,3.5,1944,4861,405
-CHICKEN,Chicken Tendercrisp,290,706.7,2966,31.4,64.7,8,4.8,35.6,14,14.4,6,0.4,0.2,0.5,3.8,1408,3521,615
-CHICKEN,Crispy Chicken,158,431.4,1814,15.1,42.1,5.2,0.6,22.4,9.3,7.4,5.7,0.2,0,0.2,2.4,738,1844,666
-CHICKEN,Crispy Chicken Cheese,169.5,471.2,1974,17.3,42.6,5.6,0.6,25.5,10.2,7.5,7.7,0.2,0,0.2,2.4,916,2290,666
-CHICKEN,Crispy Chicken Wrap,214.5,527.5,2208,19,47.1,3.2,0.6,28.7,11.6,9.2,7.7,0.3,0,0.3,19.2,1204,3010,96
-CHICKEN,Chicken Bacon King,326.2,839.3,3510,46.9,69.9,12.7,7.3,40.7,17.2,9.5,12.4,0.3,0.2,0.4,4,2202,5504,857
-SIDES & FRIES,Chicken Fries (6Pcs),72,174.2,726,11.7,9.6,0,0,9.7,5.5,1.5,2.7,0.1,,0.1,9.7,389,972,86
-SIDES & FRIES,Chicken Fries (9Pcs),108,261.4,1090,17.5,14.5,0,0,14.6,8.2,2.2,4.1,0.1,,0.1,14.6,583,1458,130
-SIDES & FRIES,Chicken Nuggets (4Pcs),68,164.6,690,8.2,14.3,0.5,0.5,8.2,1.3,5.7,1.4,0.2,0,0.2,,320,799,680
-SIDES & FRIES,Chicken Nuggets (6Pcs),102,246.8,1035,12.2,21.4,0.7,0.7,12.2,1.9,8.6,2.1,0.3,0,0.3,479,,1199,1020
-SIDES & FRIES,Chicken Nuggets (9Pcs),153,370.3,1553,18.4,32.1,1.1,1.1,18.4,2.9,12.9,3.2,0.5,0,0.5,,719,1798,1530
-SIDES & FRIES,Onion Rings (8Pcs),120,345.7,1446,5.6,41.5,5.6,,16.6,8.8,2.9,3.8,,,,3.6,188,471,
-SIDES & FRIES,Onion Rings (12Pcs),180,518.6,2170,8.5,62.3,8.5,24.8,,13.1,4.3,5.8,,,,5.4,283,707,
-SIDES & FRIES,Camembert Bites (3Pcs),60,215.4,898,7.9,13.4,0,0,14.5,0,0,6.4,0,0,0,0.6,660,1650,0
-SIDES & FRIES,Camembert Bites (6Pcs),120,430.8,1796,15.7,26.8,0,0,29,0,0,12.7,0,0,0,1.2,1320,3300,0
-SIDES & FRIES,Mozzarella Sticks (3Pcs),60,206.4,862,9.4,12.6,0.7,0,12.9,3.7,3.3,5.9,,,,1.1,402,1005,
-SIDES & FRIES,Mozzarella Sticks (6Pcs),120,412.8,1723,18.8,25.2,1.4,0,25.8,7.4,6.6,11.8,,,,2.2,804,2010,
-SIDES & FRIES,Fries (small),90,246.6,1032,3,29,0.2,,12.4,6.7,1.3,4.4,,,,3.6,432,1080,
-SIDES & FRIES,Fries (medium),116,317.8,1331,3.8,37.4,0.2,,16,8.6,1.6,5.7,,,,4.6,557,1392,
-SIDES & FRIES,Fries (large),159,435.7,1824,5.2,51.3,0.3,,21.9,11.8,2.2,7.8,,,,6.4,763,1908,
-SIDES & FRIES,Fries (king),193,528.8,2214,6.4,62.2,0.4,,26.6,14.3,2.7,9.5,,,,7.7,926,2316,
-SIDES & FRIES,Curly Fries (large),160,433.6,1813,5.4,51.3,1.1,1.1,21.8,10.9,3.7,7.2,0.1,0,0.1,5.4,992,2480,2560
-FISH VEGGIE & SALAD,King Fish,179,483.4,2032,14.2,42.7,5.6,0.3,28,10.9,14.5,2.6,0.3,0,0.3,3.7,790,1975,1034
-FISH VEGGIE & SALAD,King Fish Cheese,190.5,523.2,2191,16.4,43.1,6,0.3,31.1,11.8,14.7,4.6,0.3,0,0.3,3.7,968,2420,1034
-FISH VEGGIE & SALAD,Salad Crunchy Chicken,318,254,1063,16.4,20.2,5.3,1.3,12.3,7.2,3,1.7,0.1,0,0.1,3.5,758,1894,59
-FISH VEGGIE & SALAD,Salad Green,240,53.6,225,2.7,10.1,4.9,0.8,0.7,0.1,0.3,0.1,0,0,0,3,87,217,59
-PLANT-BASED,Plant-Based Whopper,293.4,582.1,2451,19.9,52.1,12.4,9.6,31.5,4.3,9.3,8.5,0.2,0,0.3,9.9,1139,2847,808
-SAUCES & DRESSINGS,Salad Dressing Yoghurt,58,85.3,355,0.6,8.1,7.5,6.4,5.3,3.2,1.6,0.4,0.6,0.3,0.9,0.2,348,870,754
-SAUCES & DRESSINGS,Salad Dressing Fine Herbs,25,6.5,28,0.1,1.3,1.3,1.2,0,0,0,0,0,0,0.1,0.1,295,737,700
-SAUCES & DRESSINGS,Ketchup (sachet),10,10.2,43,0.1,2.4,2.4,2,0,0,0,0,0,0,0,0.1,70,175,173
-SAUCES & DRESSINGS,Mayonnaise (sachet),9.5,62.7,258,0.1,0.3,0.3,,6.8,1.4,3.9,0.5,,,,0,42,105,
-SAUCES & DRESSINGS,BBQ Dip (pod),25,34.5,144,0.2,8,7,,0.1,0,0,0,,,,0.1,120,300,
-SAUCES & DRESSINGS,Sweet Chilli Dip (pod),25,46.8,199,0.1,11.5,10.5,10.2,0,0,0,0,,,,0.1,150,375,
-DESSERTS,BK Fusion Oreo,170,336.2,1420,7.5,45.5,40.4,32.1,14.3,2.2,2.1,7.9,0,0,0,1,131,327,296
-DESSERTS,BK Fusion KitKat,180,387.9,1639,8.4,51.8,46.9,46.8,16.8,4.2,2.4,9.4,0,0,0,0.8,148,370,363
-DESSERTS,Ice Cream Cone,72,137.3,581,3.5,21.5,15.5,11.7,4.3,1.1,1,2.2,0,,0,0.4,48,120,118
-DESSERTS,Burger King Sundae,130,192.4,819,5.7,25.4,25.4,25.4,8.1,2,1.9,4.2,,,,0,104,260,256
-DESSERTS,Burger King Sundae with Caramel,145,233.1,989,5.8,35.4,32.7,32.4,8.2,2,1.9,4.3,0,0,0,0,122,305,301
-DESSERTS,Burger King Sundae with Chocolate,155,257.3,1092,6.5,35,34.7,34.5,10.8,2.3,2.1,6.3,0,0,0,0.4,125,313,306
-DESSERTS,Burger King Sundae with Strawberry,145,220.8,939,5.9,32.3,32,31.5,8.2,2,1.9,4.3,0,0,0,0.1,1.4,261,256
-DESSERTS,Hot Brownie with Ice Cream,120,417.6,1744,6.2,39.6,29.1,7.8,25.8,5.2,1.4,19.2,0,0,0,1.6,42,104,79
-DESSERTS,Waffle with Ice Cream & Caramel,75,312.5,1307,3.4,42.3,22.9,7,14.1,4.4,2.3,7.4,0,0,0,1.1,258,645,45
-DESSERTS,Waffle with Ice Cream & Chocolate,75,321.9,1347,3.7,40,22.9,7.2,16.1,4.6,2.3,9.1,0,0,0,1.5,253,633,31
-DESSERTS,Waffle with Ice Cream & Strawberry,75,300.2,1258,3.5,39.2,22.2,6.2,14.1,4.4,2.3,7.4,0,0,0,1.3,240,601,1
-DESSERTS,Vanilla Milkshake (small),276,317.4,1350,11,46.1,45.8,45.8,10.8,2.6,2.6,5.5,,,,0,221,552,544
-DESSERTS,Vanilla Milkshake (medium),401,461.2,1961,16,67,66.6,66.6,15.6,3.8,3.8,8,,,,0,321,802,790
-DESSERTS,Vanilla Milkshake (large),519,596.9,2538,20.8,86.7,86.2,86.2,20.2,4.9,4.9,10.4,,,,0,415,1038,1022
-DESSERTS,Chocolate Milkshake (small),306,380.9,1615,11.4,59.9,54.7,54.2,11.4,2.8,2.7,5.9,0.5,,,0,244,610,602
-DESSERTS,Chocolate Milkshake (medium),431,524.6,2226,16.4,80.8,75.5,74.9,16.3,4,3.9,8.4,,,,0.5,344,860,848
-DESSERTS,Chocolate Milkshake (large),578,721.7,3060,21.4,113.9,103.7,102.6,21.5,5.3,5.1,11.1,,,,1,461,1152,1137
-DESSERTS,Strawberry Milkshake (small),306,379.8,1611,11,61.8,61.5,59.1,10.8,2.6,2.6,5.5,0,0,0,0,222,554,547
-DESSERTS,Strawberry Milkshake (medium),431,523.6,2222,16,82.7,82.2,79.9,15.6,3.8,3.8,8,0,0,0,0,322,804,793
-DESSERTS,Strawberry Milkshake (large),578,719.6,3051,20.8,117.5,117,112.4,20.2,4.9,4.9,10.4,0,0,0,0,417,1042,1028
+﻿Category,Item,Serving Weight (g),Calories,Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugar (g),Protein (g),Contains Milk,Contains Eggs,Contains Fish,Contains Peanuts,Contains Shellfish,Contains Tree Nuts,Contains Soy,Contains Wheat,Contains Mustard,Contains Sesame,Contains Celery,Contains Lupin,Contains Gluten,Contains Sulphur Dioxide
+Flame Grilled,Whopper®,183.261,515,24.398,9.8,1.35,87.5,540.984,43.484,4,9,32.248,No,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Flame Grilled,Whopper® with Cheese,191.517,595,31.398,13.8,1.85,107.5,810.984,44.484,4,10,36.248,Contains,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,Contains
+Flame Grilled,Whopper® with Bacon,209.261,647,33.45,12.8,1.35,117.5,1011.5,44,4,9,42.3,No,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,Contains
+Flame Grilled,Whopper® with Bacon and Cheese,191.517,565,27.064,11.466,1.516,95.833,634.317,44.484,4,10,33.581,Contains,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,Contains
+Flame Grilled,Double Whopper®,259.067,815,46.398,18.8,2.45,172.5,620.984,43.484,4,9,56.248,No,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Flame Grilled,Triple Whopper®,468.293,1105,67.398,28.8,3.65,257.5,690.984,44.484,4,9,80.248,No,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Flame Grilled,Bacon King™,323.602,1150,72.9,33,3.45,252.5,1915,43,3,6,80.75,Contains,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,May Contain
+Flame Grilled,BBQ Bacon King™,323.602,900,52.9,23.899,2.75,192.5,980,45,3,9,60.75,Contains,Contains,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,May Contain
+Flame Grilled,Roadhouse King™,369.529,100,1.566,10.566,1.316,95.832,-996.667,-14,-2,-5,27.083,Contains,Contains,May Contain,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,May Contain
+Flame Grilled,Quarter Pound King™,206.942,600,31.598,14.9,1.5,105,907.944,43.98,3,9,36.598,Contains,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,No
+Flame Grilled,Double Quarter Pound King™,323.602,980,60.6,27.9,3,205,1339,46,3,10,65.6,Contains,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,No
+Flame Grilled,Impossible™ Whopper®,307.174,467,17.45,8.8,-0.05,2.5,781.5,51,6,10,27.3,No,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,May Contain
+Flame Grilled,BBQ Bounty Whopper®,,522,24.416,9.566,1.166,88.333,545.833,44,4,8,31.983,Contains,Contains,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,Contains
+Flame Grilled,Big King Jr.,,313,18.775,6.95,0,30,503.25,26,1,5,11.775,Contains,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Flame Grilled,Classic Melt,163.854,549,32.892,13.892,0.8,85,747.857,36.785,3,8.857,27.892,Contains,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Flame Grilled,Bacon Melt,163.854,539,31.392,13.392,0.75,174,677.857,37.785,3,8.857,25.892,Contains,Contains,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,No
+Flame Grilled,Angry Melt,177.174,480,27.692,12.692,0.8,80,527.857,30.785,2,4.857,29.692,Contains,Contains,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,No
+Flame Grilled,Whopper® Jr.,92.707,250,11.699,4.4,0.925,36.25,195.492,21.742,2,3,14.624,No,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Flame Grilled,Roadhouse Burger,104.462,406.81,21.657,8.342,0.9,75.19,319.795,30.762,1.425,3.485,23.06,No,No,No,No,No,No,No,Contains,Contains,Contains,No,No,No,No
+Flame Grilled,Bacon Double Cheeseburger,161.389,396,25.1,11.7,1.35,52.5,779.166,24.026,1,4.02,19.35,Contains,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,No
+Flame Grilled,Double Cheeseburger,149.549,456,27.85,12.95,1.5,90,594.166,23.026,1,3.02,29.85,Contains,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,Contains
+Flame Grilled,Bacon Cheeseburger,104.549,286,14.35,6.45,0.9,45,384.166,22.026,1,3.02,16.85,Contains,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,Contains
+Flame Grilled,Cheeseburger,104.549,286,14.85,6.95,1,45,384.166,22.026,1,3.02,16.85,Contains,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,Contains
+Flame Grilled,Hamburger,92.709,246,11.85,3.95,0.5,35,204.166,21.026,1,2.02,14.85,No,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,Contains
+Chicken & Fish,Deluxe Crispy Chicken Sandwich,263.51,483,16.7,3.85,0.6,60,1438,57.5,5,9.5,28.5,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,Contains,No,No,Contains,Contains
+Chicken & Fish,Spicy Deluxe Crispy Chicken Sandwich,284.51,533,20.7,3.85,0.6,70,1358,61.5,5,9.5,30.5,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,Contains,No,No,Contains,Contains
+Chicken & Fish,Roadhouse Crispy Chicken Sandwich,247.605,580.67,25.613,7.556,0.023,65.273,1884.163,63.81,2.67,8.02,24.783,Contains,Contains,No,No,No,No,Contains,Contains,Contains,No,No,No,No,No
+Chicken & Fish,Crispy Chicken Sandwich,177.999,435,13.85,1.95,0.3,50,1268.5,56.5,5,9.5,26.65,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,Contains,No,No,Contains,May Contain
+Chicken & Fish,Spicy Crispy Chicken Sandwich,198.999,468.43,18.84,2.375,0.07,45.19,1176.71,55.075,1.79,6.77,21.435,No,Contains,No,No,No,No,Contains,Contains,No,No,No,No,No,No
+Chicken & Fish,Original Chicken Sandwich,222.024,458,18.9,3,0.8,55,1099,49,3,7,22.7,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Chicken & Fish,Spicy Original Chicken Sandwich,179.259,458,18.7,2.8,0.1,55,1049,50,5,8,23.7,Contains,Contains,May Contain,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,May Contain
+Chicken & Fish,NEW! 8 Pc. Chicken Nuggets,146.4,300,14,2,0.2,55,890,23,0,2,20,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Chicken & Fish,8 Pc. Grogu's Garlic Chicken Fries,,290,18,2,0.1,30,500,16,1,1,16,Contains,Contains,May Contain,No,No,No,Contains,Contains,May Contain,No,No,No,Contains,May Contain
+Chicken & Fish,12 Pc. Grogu's Garlic Chicken Fries​,1152,440,27,3,0.1,45,750,24,2,1,24,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Chicken & Fish,8 Pc. Chicken Fries,112,340,21,2.5,0.1,55,810,22,2,1,17,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Chicken & Fish,12 Pc. Chicken Fries,168,520,32,4,0.1,85,1220,32,3,1,25,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Chicken & Fish,Chicken Jr. Sandwich,109.708,303,10.925,2,0.25,27.5,619.25,36,2,3,11.775,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,Contains,No,No,Contains,May Contain
+Chicken & Fish,Spicy Chicken Jr. Sandwich,109.708,310,11.775,1.85,0.1,25,624.25,35,2,2.5,11.775,Contains,Contains,May Contain,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,May Contain
+Chicken & Fish,Big Fish,162,358,8.924,2,0,25,709.24,57,3.9,10,18.624,May Contain,Contains,Contains,No,No,No,Contains,Contains,No,Contains,No,No,Contains,May Contain
+Chicken & Fish,Spicy Big Fish,161.999,380,8.774,1.85,0,25,714.24,57,4,10.5,18.774,May Contain,May Contain,Contains,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,May Contain
+Veggies,Impossible™ Whopper®,307.174,467,17.45,8.8,-0.05,2.5,781.5,51,6,10,27.3,No,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,May Contain
+Veggies,Veggie Burger,98.16,253,8.699,5.9,0,0,670.492,28.742,7,3,18.699,No,No,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Breakfast,"Double Sausage, Egg & Cheese Croissan'wich®",166.1,560,41,20,0.3,105,1310,30,4,5,22,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,"Double Bacon, Egg & Cheese Croissan'wich®",119.38,460,29,14,0.3,80,1280,30,4,5,24,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,"Sausage & Bacon, Egg & Cheese Croissan'wich®",142.74,510,35,17,0.3,95,1290,30,4,5,23,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,"Sausage, Egg & Cheese Croissan'wich®",111.4,380,25,12,0.1,65,770,29,4,5,13,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,Sausage & Cheese Croissan'wich®,111.4,390,25,12,0.2,65,770,28,4,4,13,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,"Bacon, Egg & Cheese Croissan'wich®",88.04,320,19,10,0.1,50,750,29,4,5,14,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,Egg & Cheese Croissan'wich®,118.14,240,12,7,0.1,30,400,29,4,5,6,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,Chicken English Muffin,141.471,420,22,5,0.3,40,810,40,1,1,15,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Breakfast,"Sausage, Egg & Cheese English Muffin",119.7,330,18,8,0.1,40,670,28,0,2,14,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,"Bacon, Egg & Cheese English Muffin",96.34,280,11,5,0.1,30,660,28,0,2,14,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,Egg & Cheese English Muffin,76.84,180,5,3,0.1,10,310,28,0,2,7,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,Enormous Omelette Sandwich,,660,37,15,0.2,90,1860,44,2,6,33,Contains,Contains,No,No,No,No,Contains,Contains,No,Contains,No,No,Contains,No
+Breakfast,Hash Brown Poutine,175.767,510,32,11,0.4,35,1510,45,4,1,12,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,Contains
+Breakfast,Small Hash Browns,396.893,220,13,3,0,0,450,23,2,0,2,No,No,No,No,No,No,No,Contains,No,No,No,No,Contains,May Contain
+Breakfast,Medium Hash Browns,708.738,360,22,5,0,0,760,39,4,0,3,No,No,No,No,No,No,No,Contains,No,No,No,No,Contains,May Contain
+Breakfast,Large Hash Browns,935.534,580,34,9,0,0,1210,63,6,0,5,No,No,No,No,No,No,No,Contains,No,No,No,No,Contains,May Contain
+Breakfast,Pancakes,194.26,440,5,1,0,45,650,93,1,54,5,Contains,Contains,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Breakfast,5 Pc. French Toast Sticks,181.76,600,20,4,0,0,350,97,2,53,6,May Contain,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,Contains
+Breakfast,3 Pc. French Toast Sticks,132.76,430,12,2,0,0,220,75,1,46,4,May Contain,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,Contains
+Sides,4 Pc. Imperial Ranch Cheesy Tots,59.181,160,6,2,0.1,5,580,20,1,1,4,Contains,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,8 Pc. Imperial Ranch Cheesy Tots,117.511,310,13,4,0.1,10,1120,41,2,1,8,Contains,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,4 Pc. Cheesy Tots®,57.48,150,6,2,0.1,5,510,20,1,0,4,Contains,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,8 Pc. Cheesy Tots®,114.96,300,12,3.5,0.1,10,1010,39,2,0,7,Contains,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,4 Pc. Mozzarella Fries,59.2,190,10,3.5,0.1,15,620,21,1,1,7,Contains,May Contain,May Contain,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,8 Pc. Mozzarella Fries,118.4,390,19,7,0.1,25,1240,41,2,2,14,Contains,May Contain,May Contain,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,12 Pc. Mozzarella Fries,177.6,580,29,10,0.5,40,1860,62,2,3,20,Contains,May Contain,May Contain,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,4 Pc. Chicken Fries,56,170,11,1.5,0.1,30,410,11,1,0,8,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Sides,8 Pc. Grogu's Garlic Chicken Fries,,290,18,2,0.1,30,500,16,1,1,16,Contains,Contains,May Contain,No,No,No,Contains,Contains,May Contain,No,No,No,Contains,May Contain
+Sides,12 Pc. Grogu's Garlic Chicken Fries​,1152,440,27,3,0.1,45,750,24,2,1,24,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,8 Pc. Chicken Fries,112,340,21,2.5,0.1,55,810,22,2,1,17,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,12 Pc. Chicken Fries,168,520,32,4,0.1,85,1220,32,3,1,25,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,NEW! Small Fries,121.903,290,13,1.5,0.1,0,280,40,4,0,3,No,No,No,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,NEW! Medium Fries,158.757,380,17,2,0.1,0,360,52,5,0,4,No,No,No,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,NEW! Large Fries,243.806,560,25,3,0.2,2,540,77,7,1,5,No,No,No,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,NEW! Medium Onion Rings,141.748,300,14,2,0.2,0,730,41,2,3,3,May Contain,May Contain,May Contain,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,NEW! Large Onion Rings,191.927,450,21,3,0.2,0,1070,60,3,4,5,May Contain,May Contain,May Contain,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Sides,Poutine,237.002,770,38,9,1,40,1840,92,8,3,15,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,NEW! 8 Pc. Chicken Nuggets,146.4,300,14,2,0.2,55,890,23,0,2,20,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Sides,Mozzarella Fries Snack Box,297.712,630,30,6,0.4,15,1240,80,5,3,11,Contains,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,Chicken Fries Snack Box,258.882,600,31,4,0.1,30,1030,70,6,2,13,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+Sides,Chicken Nuggets Snack Box,276.082,580,27,4,0.1,29,1070,70,5,3,15,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,May Contain
+King Jr. Kids Meals,Cheeseburger,104.549,286,14.85,6.95,1,45,384.166,22.026,1,3.02,16.85,Contains,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,Contains
+King Jr. Kids Meals,Hamburger,92.709,246,11.85,3.95,0.5,35,204.166,21.026,1,2.02,14.85,No,No,No,No,No,No,Contains,Contains,Contains,Contains,No,No,Contains,Contains
+King Jr. Kids Meals,NEW! 4 Pc. Chicken Nuggets,103.38,150,7,1,0.1,30,440,12,0,1,10,Contains,Contains,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+King Jr. Kids Meals,3 Pc. French Toast Sticks,132.76,430,12,2,0,0,220,75,1,46,4,May Contain,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,Contains
+Drinks & Coffee,Medium Coca-Cola,,240,0,0,0,0,60,66,0,66,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Diet Coke,,0,0,0,0,0,65,0,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Coke Zero,,0,0,0,0,0,65,0,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Cherry Coke,,260,0,0,0,0,60,70,0,70,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Sprite®,,230,0,0,0,0,60,61,0,61,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Barq's Root Beer,,260,0,0,0,0,60,72,0,72,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Fuze® Iced Tea,,210,0,0,0,0,60,56,0,56,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Fruitopia,,310,0,0,0,0,95,83,0,82,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Strawberry Lemonade,66.292,150,0,0,0,0,45,37,0,37,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Mango Peach Lemonade,66.772,140,0,0,0,0,45,36,0,36,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Minute Maid Lemonade,,260,0,0,0,0,60,67,0,67,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Fanta® Orange,,260,0,0,0,0,60,70,0,70,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,DASANI Water,100,0,0,0,0,0,0,0,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Monster Energy,,170,0,0,0,0,280,44,0,41,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Monster Ultra Zero Sugar,,10,0,0,0,0,270,5,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Frozen Coke®,,130,0,0,0,0,50,35,0,35,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Frozen Cream Soda,171,130,0,0,0,0,45,33,0,33,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Frozen Fanta® Blue Raspberry,52.839,130,0,0,0,0,35,34,0,34,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Coffee,14.628,5,0,0,0,0,0,0,0,0,0.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Decaf Coffee,14.628,5,0,0,0,0,0,0,0,0,0.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Tea,2,0,0,0,0,0,0,0,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Medium Hot Chocolate,,200,4,4,0,0,200,42,2,34,2,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Chocolate Milk,31.12,170,2.5,1.5,0,10,170,25,0,25,8,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,2% Milk,30.43,130,4.5,3,0.2,20,115,11,0,11,9,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Oasis Orange Juice,260,120,0,0,0,0,20,30,0,26,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Drinks & Coffee,Oasis Apple Juice,342,130,0,0,0,0,20,32,0,30,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Shakes,HERSHEY'S® Chocolate Shake,407.537,540,12,8,0.5,40,320,94,1,76,13,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Shakes,Vanilla Shake,350.537,540,12,8,0.5,40,320,94,0,75,13,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Shakes,Strawberry Shake,,540,12,8,0.5,40,320,95,0,77,13,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Shakes,OREO® Shake,350.536,620,15,9,0.5,40,380,106,0,82,14,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Shakes,OREO® Chocolate Shake,397.401,660,15,9,0.5,40,380,106,1,82,14,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Shakes,SMARTIES® Shake,375.24,620,14,9,0.5,43,330,107,1,87,14,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Sweets,Smarties BK Blast,152.761,310,9,6,0.1,25,190,49,1,43,7,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Sweets,Oreo BK Blast,166.902,310,10,5,0.1,20,240,48,1,37,7,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Sweets,HERSHEY’S® Chocolate Sundae,124.142,290,4.5,3,0.1,15,125,56,1,47,5,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Sweets,Caramel Sundae,124.142,300,4,3,0.1,15,180,60,0,46,5,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Sweets,Strawberry Sundae,124.142,250,4,3,0.1,15,115,48,0,41,5,Contains,No,No,No,No,No,No,No,No,No,No,No,No,No
+Sweets,Soft Serve Cone,129.793,190,4.5,3,0.1,15,120,32,0,21,5,Contains,No,No,No,No,No,No,Contains,No,No,No,No,Contains,No
+Sweets,3 Pc. French Toast Sticks,132.76,430,12,2,0,0,220,75,1,46,4,May Contain,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,Contains
+Sweets,5 Pc. French Toast Sticks,181.76,600,20,4,0,0,350,97,2,53,6,May Contain,May Contain,May Contain,No,No,No,Contains,Contains,No,No,No,No,Contains,Contains
+Sweets,HERSHEY’S Sundae Pie,75.7,310,17,11,0.5,10,240,32,1,22,3,Contains,No,No,No,No,No,Contains,Contains,No,No,No,No,Contains,No
+Sweets,Apple Turnover,75,240,12,5,0.1,0,260,33,1,11,3,Contains,May Contain,May Contain,No,No,No,May Contain,Contains,No,No,No,No,Contains,May Contain
+Condiments,BBQ Sauce Dip Cup,,50,0.1,0,0,0,320,11,1,9,0.4,No,No,No,No,No,No,No,No,Contains,No,No,No,No,No
+Condiments,Buffalo Sauce Dip Cup,,40,1.5,0.2,0,0,500,6,0,5,0.3,No,No,No,No,No,No,Contains,No,No,No,No,No,No,No
+Condiments,Ghost Pepper Ranch Dip Cup,,120,12,2,0,5,260,3,0,2,0.3,Contains,Contains,No,No,No,No,No,No,No,No,No,No,No,No
+Condiments,Honey Mustard Sauce Dip Cup,,50,0.2,0,0,0,210,13,0,11,0.2,No,No,No,No,No,No,No,No,Contains,No,No,No,No,No
+Condiments,Marinara Sauce Dip Cup,,15,0.3,0,0,,12,3,0,1,0.4,No,No,No,No,No,No,Contains,No,No,No,No,No,No,Contains
+Condiments,Ranch Sauce Dip Cup,,120,12,2,0.3,5,260,3,0,2,0.4,Contains,Contains,No,No,No,No,No,No,Contains,No,No,No,No,No
+Condiments,Sweet & Sour Sauce Dip Cup,,50,0.3,0,0,0,125,12,0,11,0.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Condiments,Zesty Sauce Dip Cup,,150,16,2.5,0.2,15,230,3,0,1,0.4,No,Contains,No,No,No,No,Contains,No,Contains,No,No,No,No,Contains
+Condiments,Applesauce,111,50,0,0,0,0,0,13,1,11,0,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Condiments,Poutine Gravy,12.757,40,0.1,0.1,0.1,0,1010,8,0,2,1,No,No,No,No,No,No,No,No,No,No,No,No,No,No
